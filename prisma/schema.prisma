@@ -1,0 +1,57 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Clube {
+  id        Int        @id @default(autoincrement())
+  nome      String
+  logo      String?
+  cidade    String
+  ativo     Boolean    @default(true)
+  membros   Usuario[]
+  presentes Presenca[]
+}
+
+model Usuario {
+  id          Int        @id @default(autoincrement())
+  nome        String
+  email       String     @unique
+  password    String
+  funcao      String
+  ativo       Boolean    @default(true)
+  aniversario DateTime
+  foto        String?
+  clube       Clube      @relation(fields: [clubeId], references: [id], onDelete: Cascade)
+  clubeId     Int
+  presencas   Presenca[]
+}
+
+model Evento {
+  id        Int        @id @default(autoincrement())
+  nome      String
+  descricao String
+  pontos    Int
+  inicio    DateTime
+  fim       DateTime
+  ativo     Boolean    @default(true)
+  presentes Presenca[]
+}
+
+model Presenca {
+  id        Int      @id @default(autoincrement())
+  clubeId   Int
+  usuarioId Int
+  eventoId  Int
+  createdAt DateTime @default(now())
+  usuario   Usuario  @relation(fields: [usuarioId], references: [id], onDelete: Cascade)
+  clube     Clube    @relation(fields: [clubeId], references: [id], onDelete: Cascade)
+  evento    Evento   @relation(fields: [eventoId], references: [id])
+}
