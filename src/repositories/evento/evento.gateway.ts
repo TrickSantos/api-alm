@@ -46,12 +46,9 @@ export class EventoGateway {
 
   @SubscribeMessage('evento:update')
   async update(@MessageBody() updateEventoDto: UpdateEventoDto) {
-    const res = await this.eventoService.update(
-      updateEventoDto.id,
-      updateEventoDto,
-    );
+    await this.eventoService.update(updateEventoDto.id, updateEventoDto);
     this.server.emit('evento:updated');
-    return res;
+    return { status: 'sucess', message: ['Evento salvo com sucesso!'] };
   }
 
   @SubscribeMessage('evento:destroy')

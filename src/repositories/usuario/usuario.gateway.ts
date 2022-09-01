@@ -38,6 +38,7 @@ export class UsuarioGateway {
   async update(@MessageBody() updateUsuarioDto: UpdateUsuarioDto) {
     await this.usuarioService.update(updateUsuarioDto.id, updateUsuarioDto);
     this.server.emit('usuario:updated');
+    return { status: 'sucess', message: ['Membro salvo com sucesso!'] };
   }
 
   @SubscribeMessage('usuario:destroy')

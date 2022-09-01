@@ -23,7 +23,7 @@ model Clube {
 model Usuario {
   id          Int        @id @default(autoincrement())
   nome        String
-  email       String     @unique
+  email       String?    @unique
   password    String
   funcao      String
   ativo       Boolean    @default(true)

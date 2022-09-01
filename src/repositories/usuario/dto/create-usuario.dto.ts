@@ -3,6 +3,7 @@ import {
   IsEmail,
   IsEnum,
   IsInt,
+  IsOptional,
   IsString,
   IsUrl,
 } from 'class-validator';
@@ -20,10 +21,12 @@ export class CreateUsuarioDto {
   nome: string;
 
   @IsEmail()
-  email: string;
+  @IsOptional()
+  email?: string;
 
   @IsString()
-  password: string;
+  @IsOptional()
+  password?: string;
 
   @IsEnum(Role)
   funcao: string;
@@ -35,5 +38,6 @@ export class CreateUsuarioDto {
   aniversario: Date;
 
   @IsUrl()
+  @IsOptional()
   foto?: string;
 }

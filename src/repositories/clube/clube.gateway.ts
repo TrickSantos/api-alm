@@ -1,4 +1,3 @@
-import { UseGuards } from '@nestjs/common';
 import {
   WebSocketGateway,
   SubscribeMessage,
@@ -6,7 +5,6 @@ import {
   WebSocketServer,
 } from '@nestjs/websockets';
 import { Server } from 'socket.io';
-import { WsAuthGuard } from 'auth/guards/ws.guard';
 import { ClubeService } from './clube.service';
 import { CreateClubeDto } from './dto/create-clube.dto';
 import { UpdateClubeDto } from './dto/update-clube.dto';
@@ -23,26 +21,28 @@ export class ClubeGateway {
   async create(@MessageBody() createClubeDto: CreateClubeDto) {
     await this.clubeService.create(createClubeDto);
     this.server.emit('clube:created');
+    return { status: 'sucess', message: ['Clube salvo com sucesso!'] };
   }
 
   @SubscribeMessage('clube:index')
-  findAll() {
+  async findAll() {
     return this.clubeService.findAll();
   }
 
   @SubscribeMessage('clube:find')
-  findOne(@MessageBody() id: number) {
+  async findOne(@MessageBody() id: number) {
     return this.clubeService.findOne(id);
   }
 
   @SubscribeMessage('clube:update')
-  update(@MessageBody() updateClubeDto: UpdateClubeDto) {
+  async update(@MessageBody() updateClubeDto: UpdateClubeDto) {
+    await this.clubeService.update(updateClubeDto.id, updateClubeDto);
     this.server.emit('clube:updated');
-    return this.clubeService.update(updateClubeDto.id, updateClubeDto);
+    return { status: 'sucess', message: ['Clube salvo com sucesso!'] };
   }
 
   @SubscribeMessage('clube:destroy')
-  remove(@MessageBody() id: number) {
+  async remove(@MessageBody() id: number) {
     this.clubeService.remove(id);
     this.server.emit('clube:destroyed');
   }
