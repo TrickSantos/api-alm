@@ -10,9 +10,11 @@ export class ClubeService {
   async create(clube: CreateClubeDto) {
     await this.prisma.clube.create({
       data: {
-        cidade: clube.cidade,
         nome: clube.nome,
         logo: clube.logo,
+        pais: clube.pais,
+        regiao: clube.regiao,
+        codigo: clube.codigo,
       },
     });
   }
@@ -34,10 +36,12 @@ export class ClubeService {
     return await this.prisma.clube.update({
       where: { id },
       data: {
-        cidade: clube.cidade,
         nome: clube.nome,
-        ativo: clube.ativo,
         logo: clube.logo,
+        pais: clube.pais,
+        regiao: clube.regiao,
+        ativo: clube.ativo,
+        codigo: clube.codigo,
       },
       include: {
         membros: true,

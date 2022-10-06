@@ -1,11 +1,10 @@
 import {
-  IsDateString,
+  IsBoolean,
   IsEmail,
   IsEnum,
   IsInt,
   IsOptional,
   IsString,
-  IsUrl,
 } from 'class-validator';
 
 enum Role {
@@ -28,16 +27,21 @@ export class CreateUsuarioDto {
   @IsOptional()
   password?: string;
 
+  @IsString()
+  @IsOptional()
+  codigo?: string;
+
   @IsEnum(Role)
   funcao: string;
 
   @IsInt()
   clubeId: number;
 
-  @IsDateString()
-  aniversario: Date;
-
-  @IsUrl()
+  @IsInt()
   @IsOptional()
-  foto?: string;
+  idade: number;
+
+  @IsBoolean()
+  @IsOptional()
+  ativo?: boolean;
 }

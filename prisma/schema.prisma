@@ -2,39 +2,42 @@
 // learn more about it in the docs: https://pris.ly/d/prisma-schema
 
 generator client {
-  provider = "prisma-client-js"
+  provider        = "prisma-client-js"
+  previewFeatures = ["filteredRelationCount"]
 }
 
 datasource db {
-  provider = "sqlite"
-  url      = "file:./dev.db"
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
 }
 
-model Clube {
+model clube {
   id        Int        @id @default(autoincrement())
   nome      String
+  codigo    String
   logo      String?
-  cidade    String
+  pais      String
+  regiao    String
   ativo     Boolean    @default(true)
-  membros   Usuario[]
-  presentes Presenca[]
+  membros   usuario[]
+  presentes presenca[]
 }
 
-model Usuario {
-  id          Int        @id @default(autoincrement())
-  nome        String
-  email       String?    @unique
-  password    String
-  funcao      String
-  ativo       Boolean    @default(true)
-  aniversario DateTime
-  foto        String?
-  clube       Clube      @relation(fields: [clubeId], references: [id], onDelete: Cascade)
-  clubeId     Int
-  presencas   Presenca[]
+model usuario {
+  id        Int        @id @default(autoincrement())
+  codigo    String
+  nome      String
+  email     String?    @unique
+  password  String
+  funcao    String
+  ativo     Boolean    @default(true)
+  idade     Int
+  clube     clube      @relation(fields: [clubeId], references: [id], onDelete: Cascade)
+  clubeId   Int
+  presencas presenca[]
 }
 
-model Evento {
+model evento {
   id        Int        @id @default(autoincrement())
   nome      String
   descricao String
@@ -42,16 +45,16 @@ model Evento {
   inicio    DateTime
   fim       DateTime
   ativo     Boolean    @default(true)
-  presentes Presenca[]
+  presentes presenca[]
 }
 
-model Presenca {
+model presenca {
   id        Int      @id @default(autoincrement())
   clubeId   Int
   usuarioId Int
   eventoId  Int
   createdAt DateTime @default(now())
-  usuario   Usuario  @relation(fields: [usuarioId], references: [id], onDelete: Cascade)
-  clube     Clube    @relation(fields: [clubeId], references: [id], onDelete: Cascade)
-  evento    Evento   @relation(fields: [eventoId], references: [id])
+  usuario   usuario  @relation(fields: [usuarioId], references: [id], onDelete: Cascade)
+  clube     clube    @relation(fields: [clubeId], references: [id], onDelete: Cascade)
+  evento    evento   @relation(fields: [eventoId], references: [id])
 }

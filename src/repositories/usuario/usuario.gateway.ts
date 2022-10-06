@@ -30,8 +30,8 @@ export class UsuarioGateway {
   }
 
   @SubscribeMessage('usuario:find')
-  async findOne(@MessageBody() id: number) {
-    return await this.usuarioService.findById(id);
+  async findOne(@MessageBody() codigo: string) {
+    return await this.usuarioService.findById(codigo);
   }
 
   @SubscribeMessage('usuario:update')

@@ -1,0 +1,324 @@
+[
+  {
+    "nome": "ÁGUIAS DA AMÉRICA",
+    "codigo": "13357",
+    "pais": "NEPAL",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "ALFA DO ARAGUAIA",
+    "codigo": "13167",
+    "pais": "VENEZUELA",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "AMANTES DA NATUREZA",
+    "codigo": "13088",
+    "pais": "ANGOLA",
+    "regiao": "MÉDIO NORTE - AZUL - ÁFRICA",
+    "ativo": true
+  },
+  {
+    "nome": "AMÉRICA DO SUL",
+    "codigo": "13058",
+    "pais": "CATAR",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "AMIGOS DO PARAISO",
+    "codigo": "13090",
+    "pais": "ARÁBIA SAUDITA",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "ARAUTOS DO REI",
+    "codigo": "13301",
+    "pais": "MÉXICO",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "CENTRO AMÉRICA",
+    "codigo": "13050",
+    "pais": "ISAREL",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "CONSTELAÇÃO DE ÓRION",
+    "codigo": "24899",
+    "pais": "MALÁSIA",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "CONSTELAÇÃO DO SUL",
+    "codigo": "13094",
+    "pais": "SÍRIA",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "CRUZEIRO DO SUL",
+    "codigo": "13052",
+    "pais": "JAPÃO",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "DUQUE",
+    "codigo": "13122",
+    "pais": "POLÔNIA",
+    "regiao": "SUL - VERMELHO - EUROPA",
+    "ativo": true
+  },
+  {
+    "nome": "ESTRELA DE DAVI",
+    "codigo": "13201",
+    "pais": "PANAMÁ",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "EXÉRCITO DO SENHOR",
+    "codigo": "13232",
+    "pais": "JAMAICA",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "FALCÃO NEGRO",
+    "codigo": "13244",
+    "pais": "ROMÊNIA",
+    "regiao": "SUL - VERMELHO - EUROPA",
+    "ativo": true
+  },
+  {
+    "nome": "FERAS DO ARAGUAIA",
+    "codigo": "13170",
+    "pais": "REPUBLICA DOMINICANA",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "GUARDIÕES DA FÉ",
+    "codigo": "13181",
+    "pais": "MIANMAR",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "GUARDIÕES DA MORADA",
+    "codigo": "21026",
+    "pais": "TAILÂNDIA",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "GUARDIÕES DE ISRAEL",
+    "codigo": "30358",
+    "pais": "NOVA ZELÂNDIA",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "GUARDIÕES DO ARAGUAIA",
+    "codigo": "13138",
+    "pais": "ESTADOS UNIDOS",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "GUARDIÕES DO ÉDEN",
+    "codigo": "13102",
+    "pais": "EGITO",
+    "regiao": "MÉDIO NORTE - AZUL - ÁFRICA",
+    "ativo": true
+  },
+  {
+    "nome": "GUARDIÕES DO RIO VERDE",
+    "codigo": "13171",
+    "pais": "MARROCOS",
+    "regiao": "MÉDIO NORTE - AZUL - ÁFRICA",
+    "ativo": true
+  },
+  {
+    "nome": "GUARDIÕES DO VALE",
+    "codigo": "17453",
+    "pais": "PERU",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "GUERREIROS DO VALE",
+    "codigo": "46204",
+    "pais": "COSTA RICA",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "HERÓIS",
+    "codigo": "13158",
+    "pais": "IRLANDA",
+    "regiao": "SUL - VERMELHO - EUROPA",
+    "ativo": true
+  },
+  {
+    "nome": "LEÃO DA MONTANHA",
+    "codigo": "13110",
+    "pais": "LÍBANO",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "LEÃO DE JUDÁ",
+    "codigo": "13363",
+    "pais": "VIETNÃ",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "LOBOS DO CERRADO",
+    "codigo": "22564",
+    "pais": "COREIA DO SUL",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "LUZEIROS DO LESTE",
+    "codigo": "18166",
+    "pais": "BÉLGICA",
+    "regiao": "SUL - VERMELHO - EUROPA",
+    "ativo": true
+  },
+  {
+    "nome": "MAANAIM",
+    "codigo": "26567",
+    "pais": "DINAMARCA",
+    "regiao": "SUL - VERMELHO - EUROPA",
+    "ativo": true
+  },
+  {
+    "nome": "MARECHAL RONDON",
+    "codigo": "13235",
+    "pais": "CAZAQUISTÃO",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "MENSAGEIROS",
+    "codigo": "21024",
+    "pais": "ÁFRICA DO SUL",
+    "regiao": "MÉDIO NORTE - AZUL - ÁFRICA",
+    "ativo": true
+  },
+  {
+    "nome": "MENSAGEIROS DE CRISTO",
+    "codigo": "13197",
+    "pais": "SUÍÇA",
+    "regiao": "SUL - VERMELHO - EUROPA",
+    "ativo": true
+  },
+  {
+    "nome": "PEDRA ANGULAR",
+    "codigo": "13145",
+    "pais": "PORTUGAL",
+    "regiao": "SUL - VERMELHO - EUROPA",
+    "ativo": true
+  },
+  {
+    "nome": "PEDRAS PRECIOSAS",
+    "codigo": "13224",
+    "pais": "INDONÉSIA",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "PÉGASUS",
+    "codigo": "13137",
+    "pais": "BOLÍVIA",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "PIONEIROS DO ARAGUAIA",
+    "codigo": "13141",
+    "pais": "CHILE",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "PRIMAVERA",
+    "codigo": "13144",
+    "pais": "ITÁLIA",
+    "regiao": "SUL - VERMELHO - EUROPA",
+    "ativo": true
+  },
+  {
+    "nome": "SENTINELAS DO ARAGUAIA",
+    "codigo": "45881",
+    "pais": "URUGUAI",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "SERRA AZUL",
+    "codigo": "13123",
+    "pais": "CANADÁ",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "SÍRIUS",
+    "codigo": "13148",
+    "pais": "ÍNDIA",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "SÍRIUS DO ARAGUAIA",
+    "codigo": "13142",
+    "pais": "EQUADOR",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "TRIBO DE JUDÁ",
+    "codigo": "13139",
+    "pais": "ARGENTINA",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "VERDES CAMPOS",
+    "codigo": "13111",
+    "pais": "GRÈCIA",
+    "regiao": "SUL - VERMELHO - EUROPA",
+    "ativo": true
+  },
+  {
+    "nome": "VIGILANTES DA CHAPADA",
+    "codigo": "13059",
+    "pais": "AUSTRÁLIA",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  },
+  {
+    "nome": "VOO LIVRE",
+    "codigo": "13195",
+    "pais": "GUATEMALA",
+    "regiao": "ARAGUAIA - VERDE - AMÉRICAS",
+    "ativo": true
+  },
+  {
+    "nome": "ZENITH",
+    "codigo": "13124",
+    "pais": "IRAQUE",
+    "regiao": "CUIABÁ - AMARELO - ÁSIA E OCEANIA",
+    "ativo": true
+  }
+]

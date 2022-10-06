@@ -26,10 +26,11 @@ export class UsuarioService {
         nome: usuario.nome,
         email: usuario.email,
         password,
-        funcao: usuario.funcao,
         clubeId: usuario.clubeId,
-        aniversario: usuario.aniversario,
-        foto: usuario.foto,
+        funcao: usuario.funcao,
+        ativo: usuario.ativo,
+        codigo: usuario.codigo,
+        idade: usuario.idade,
       },
     });
   }
@@ -39,12 +40,13 @@ export class UsuarioService {
       where: data,
       select: {
         id: true,
+        codigo: true,
+        funcao: true,
         clube: true,
         nome: true,
-        aniversario: true,
+        idade: true,
         clubeId: true,
         email: true,
-        foto: true,
         presencas: true,
         ativo: false,
         password: false,
@@ -52,9 +54,9 @@ export class UsuarioService {
     });
   }
 
-  async findById(id: number) {
-    return await this.prisma.usuario.findUniqueOrThrow({
-      where: { id },
+  async findById(codigo: string) {
+    return await this.prisma.usuario.findFirstOrThrow({
+      where: { codigo },
       include: { clube: true, presencas: true },
     });
   }
@@ -82,8 +84,10 @@ export class UsuarioService {
         email: usuario.email,
         password: usuario.password,
         clubeId: usuario.clubeId,
-        aniversario: usuario.aniversario,
-        foto: usuario.foto,
+        funcao: usuario.funcao,
+        ativo: usuario.ativo,
+        codigo: usuario.codigo,
+        idade: usuario.idade,
       },
       include: { clube: true, presencas: true },
     });
