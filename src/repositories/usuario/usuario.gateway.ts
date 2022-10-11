@@ -11,9 +11,7 @@ import { UpdateUsuarioDto } from './dto/update-usuario.dto';
 import { IndexUsuarioDto } from './dto/index-usuario.dto';
 
 @WebSocketGateway({
-  cors: {
-    origin: '*',
-  },
+  cors: '*:*',
 })
 export class UsuarioGateway {
   constructor(private readonly usuarioService: UsuarioService) {}

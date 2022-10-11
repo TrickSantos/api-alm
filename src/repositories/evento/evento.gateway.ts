@@ -18,9 +18,7 @@ import {
 import { WsExceptionFilter } from 'ws.filter';
 
 @WebSocketGateway({
-  cors: {
-    origin: '*',
-  },
+  cors: '*:*',
 })
 @UseGuards(WsAuthGuard)
 @UseFilters(new WsExceptionFilter())

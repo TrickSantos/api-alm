@@ -10,9 +10,7 @@ import { CreateClubeDto } from './dto/create-clube.dto';
 import { UpdateClubeDto } from './dto/update-clube.dto';
 
 @WebSocketGateway({
-  cors: {
-    origin: '*',
-  },
+  cors: '*:*',
 })
 /* @UseGuards(WsAuthGuard) */
 export class ClubeGateway {
