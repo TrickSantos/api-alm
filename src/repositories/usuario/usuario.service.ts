@@ -55,7 +55,7 @@ export class UsuarioService {
   }
 
   async findById(codigo: string) {
-    return await this.prisma.usuario.findFirstOrThrow({
+    return await this.prisma.usuario.findFirst({
       where: { codigo },
       include: { clube: true, presencas: true },
     });

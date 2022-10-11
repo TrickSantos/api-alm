@@ -31,7 +31,11 @@ export class UsuarioGateway {
 
   @SubscribeMessage('usuario:find')
   async findOne(@MessageBody() codigo: string) {
-    return await this.usuarioService.findById(codigo);
+    const res = await this.usuarioService.findById(codigo);
+    if (!res) {
+      return { status: 'error', message: ['Codigo não encontrado!'] };
+    }
+    return res;
   }
 
   @SubscribeMessage('usuario:update')
