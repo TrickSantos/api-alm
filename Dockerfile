@@ -7,4 +7,4 @@ EXPOSE 80
 ARG DATABASE_URL=${DATABASE_URL}
 ARG JWT_SECRET=${JWT_SECRET}
 
-CMD ["yarn", "start:prod"]
+CMD ["node", "dist/src/main"]
