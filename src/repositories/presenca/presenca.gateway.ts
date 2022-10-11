@@ -16,7 +16,7 @@ import {
 } from '@nestjs/common';
 import { WsExceptionFilter } from 'ws.filter';
 
-@WebSocketGateway({ cors: '*' })
+@WebSocketGateway({ cors: true })
 @UseGuards(WsAuthGuard)
 @UseFilters(new WsExceptionFilter())
 @UsePipes(new ValidationPipe({ transform: true }))

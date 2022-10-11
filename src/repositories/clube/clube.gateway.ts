@@ -9,7 +9,7 @@ import { ClubeService } from './clube.service';
 import { CreateClubeDto } from './dto/create-clube.dto';
 import { UpdateClubeDto } from './dto/update-clube.dto';
 
-@WebSocketGateway({ cors: '*' })
+@WebSocketGateway({ cors: true })
 /* @UseGuards(WsAuthGuard) */
 export class ClubeGateway {
   constructor(private readonly clubeService: ClubeService) {}

@@ -6,7 +6,7 @@ import {
 import { AuthService } from './auth.service';
 import { LoginDTO } from './dto/login.dto';
 
-@WebSocketGateway({ cors: '*' })
+@WebSocketGateway({ cors: true })
 export class AuthGateway {
   constructor(private readonly authService: AuthService) {}
 
