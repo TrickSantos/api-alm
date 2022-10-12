@@ -7,8 +7,20 @@ export class PresencaService {
   constructor(private prisma: PrismaService) {}
 
   async create(presenca: CreatePresencaDto) {
-    await this.prisma.presenca.create({
-      data: {
+    await this.prisma.presenca.upsert({
+      where: {
+        eventoId_usuarioId_clubeId: {
+          clubeId: presenca.clubeId,
+          eventoId: presenca.eventoId,
+          usuarioId: presenca.usuarioId,
+        },
+      },
+      create: {
+        eventoId: presenca.eventoId,
+        clubeId: presenca.clubeId,
+        usuarioId: presenca.usuarioId,
+      },
+      update: {
         eventoId: presenca.eventoId,
         clubeId: presenca.clubeId,
         usuarioId: presenca.usuarioId,
