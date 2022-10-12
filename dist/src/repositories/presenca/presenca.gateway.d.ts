@@ -11,8 +11,8 @@ export declare class PresencaGateway {
     }>;
     findAll(): Promise<(import(".prisma/client").presenca & {
         clube: import(".prisma/client").clube;
-        usuario: import(".prisma/client").usuario;
         evento: import(".prisma/client").evento;
+        usuario: import(".prisma/client").usuario;
     })[]>;
     getPresences(id: number): Promise<{
         nome: string;
@@ -23,8 +23,8 @@ export declare class PresencaGateway {
     }[]>;
     findOne(id: number): Promise<import(".prisma/client").presenca & {
         clube: import(".prisma/client").clube;
-        usuario: import(".prisma/client").usuario;
         evento: import(".prisma/client").evento;
+        usuario: import(".prisma/client").usuario;
     }>;
     remove(id: number): Promise<void>;
 }

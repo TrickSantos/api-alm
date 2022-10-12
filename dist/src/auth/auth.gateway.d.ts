@@ -6,8 +6,8 @@ export declare class AuthGateway {
     login(login: LoginDTO): Promise<{
         token: string;
         usuario: Omit<import(".prisma/client").usuario & {
-            presencas: import(".prisma/client").presenca[];
             clube: import(".prisma/client").clube;
+            presencas: import(".prisma/client").presenca[];
         }, "password">;
     }>;
 }

@@ -82,7 +82,9 @@ __decorate([
     __metadata("design:returntype", Promise)
 ], ClubeGateway.prototype, "remove", null);
 ClubeGateway = __decorate([
-    (0, websockets_1.WebSocketGateway)({ cors: '*' }),
+    (0, websockets_1.WebSocketGateway)({
+        cors: '*:*',
+    }),
     __metadata("design:paramtypes", [clube_service_1.ClubeService])
 ], ClubeGateway);
 exports.ClubeGateway = ClubeGateway;

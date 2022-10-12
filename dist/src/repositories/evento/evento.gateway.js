@@ -85,7 +85,9 @@ __decorate([
     __metadata("design:returntype", Promise)
 ], EventoGateway.prototype, "remove", null);
 EventoGateway = __decorate([
-    (0, websockets_1.WebSocketGateway)(),
+    (0, websockets_1.WebSocketGateway)({
+        cors: '*:*',
+    }),
     (0, common_1.UseGuards)(ws_guard_1.WsAuthGuard),
     (0, common_1.UseFilters)(new ws_filter_1.WsExceptionFilter()),
     (0, common_1.UsePipes)(new common_1.ValidationPipe({ transform: true })),

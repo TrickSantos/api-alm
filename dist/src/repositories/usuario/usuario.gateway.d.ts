@@ -12,19 +12,19 @@ export declare class UsuarioGateway {
         message: string[];
     }>;
     findAll(data: IndexUsuarioDto): Promise<{
+        clube: import(".prisma/client").clube;
         nome: string;
         codigo: string;
         id: number;
-        email: string;
         funcao: string;
         idade: number;
-        presencas: import(".prisma/client").presenca[];
-        clube: import(".prisma/client").clube;
         clubeId: number;
+        email: string;
+        presencas: import(".prisma/client").presenca[];
     }[]>;
     findOne(codigo: string): Promise<(import(".prisma/client").usuario & {
-        presencas: import(".prisma/client").presenca[];
         clube: import(".prisma/client").clube;
+        presencas: import(".prisma/client").presenca[];
     }) | {
         status: string;
         message: string[];

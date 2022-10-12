@@ -33,7 +33,9 @@ __decorate([
     __metadata("design:returntype", Promise)
 ], AuthGateway.prototype, "login", null);
 AuthGateway = __decorate([
-    (0, websockets_1.WebSocketGateway)({ cors: '*' }),
+    (0, websockets_1.WebSocketGateway)({
+        cors: '*:*',
+    }),
     __metadata("design:paramtypes", [auth_service_1.AuthService])
 ], AuthGateway);
 exports.AuthGateway = AuthGateway;

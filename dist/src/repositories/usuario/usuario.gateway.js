@@ -88,7 +88,9 @@ __decorate([
     __metadata("design:returntype", Promise)
 ], UsuarioGateway.prototype, "remove", null);
 UsuarioGateway = __decorate([
-    (0, websockets_1.WebSocketGateway)({ cors: '*' }),
+    (0, websockets_1.WebSocketGateway)({
+        cors: '*:*',
+    }),
     __metadata("design:paramtypes", [usuario_service_1.UsuarioService])
 ], UsuarioGateway);
 exports.UsuarioGateway = UsuarioGateway;

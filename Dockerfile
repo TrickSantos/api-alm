@@ -31,11 +31,11 @@ FROM node:16-alpine as production
 
 ARG DATABASE_URL=${DATABASE_URL}
 ARG JWT_SECRET=${JWT_SECRET}
+ARG PORT=${PORT}
 
 COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/package.json ./
 COPY --from=builder /app/yarn.lock ./
 COPY --from=builder /app/dist ./dist
 
-EXPOSE 80
 CMD ["yarn", "run", "start:prod"]
