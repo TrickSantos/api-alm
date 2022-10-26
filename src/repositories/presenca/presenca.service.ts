@@ -38,6 +38,8 @@ export class PresencaService {
     const clubes = await this.prisma.clube.findMany({
       select: {
         nome: true,
+        logo: true,
+        id: true,
         _count: {
           select: {
             presentes: {

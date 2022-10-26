@@ -17,8 +17,20 @@ let PresencaService = class PresencaService {
         this.prisma = prisma;
     }
     async create(presenca) {
-        await this.prisma.presenca.create({
-            data: {
+        await this.prisma.presenca.upsert({
+            where: {
+                eventoId_usuarioId_clubeId: {
+                    clubeId: presenca.clubeId,
+                    eventoId: presenca.eventoId,
+                    usuarioId: presenca.usuarioId,
+                },
+            },
+            create: {
+                eventoId: presenca.eventoId,
+                clubeId: presenca.clubeId,
+                usuarioId: presenca.usuarioId,
+            },
+            update: {
                 eventoId: presenca.eventoId,
                 clubeId: presenca.clubeId,
                 usuarioId: presenca.usuarioId,
@@ -34,6 +46,8 @@ let PresencaService = class PresencaService {
         const clubes = await this.prisma.clube.findMany({
             select: {
                 nome: true,
+                logo: true,
+                id: true,
                 _count: {
                     select: {
                         presentes: {

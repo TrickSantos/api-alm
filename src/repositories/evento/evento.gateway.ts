@@ -16,6 +16,7 @@ import {
   ValidationPipe,
 } from '@nestjs/common';
 import { WsExceptionFilter } from 'ws.filter';
+import { OnEvent } from '@nestjs/event-emitter';
 
 @WebSocketGateway({
   cors: '*:*',
@@ -57,5 +58,10 @@ export class EventoGateway {
   async remove(@MessageBody() id: number) {
     await this.eventoService.remove(id);
     this.server.emit('evento:destroyed');
+  }
+
+  @OnEvent('evento:update', { async: true })
+  handle() {
+    this.server.emit('evento:updated');
   }
 }

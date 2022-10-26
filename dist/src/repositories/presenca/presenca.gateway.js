@@ -42,6 +42,9 @@ let PresencaGateway = class PresencaGateway {
         await this.presencaService.remove(id);
         this.server.emit('presenca:destroyed');
     }
+    ganhador(presenca) {
+        this.server.emit('ganhador', presenca);
+    }
 };
 __decorate([
     (0, websockets_1.WebSocketServer)(),
@@ -81,6 +84,13 @@ __decorate([
     __metadata("design:paramtypes", [Number]),
     __metadata("design:returntype", Promise)
 ], PresencaGateway.prototype, "remove", null);
+__decorate([
+    (0, websockets_1.SubscribeMessage)('ganhador'),
+    __param(0, (0, websockets_1.MessageBody)()),
+    __metadata("design:type", Function),
+    __metadata("design:paramtypes", [Object]),
+    __metadata("design:returntype", void 0)
+], PresencaGateway.prototype, "ganhador", null);
 PresencaGateway = __decorate([
     (0, websockets_1.WebSocketGateway)({
         cors: '*:*',

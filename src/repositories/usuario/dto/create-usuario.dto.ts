@@ -37,10 +37,6 @@ export class CreateUsuarioDto {
   @IsInt()
   clubeId: number;
 
-  @IsInt()
-  @IsOptional()
-  idade: number;
-
   @IsBoolean()
   @IsOptional()
   ativo?: boolean;

@@ -15,6 +15,7 @@ import {
   ValidationPipe,
 } from '@nestjs/common';
 import { WsExceptionFilter } from 'ws.filter';
+import { Presencas } from './dto/presenca.dto';
 
 @WebSocketGateway({
   cors: '*:*',
@@ -54,5 +55,10 @@ export class PresencaGateway {
   async remove(@MessageBody() id: number) {
     await this.presencaService.remove(id);
     this.server.emit('presenca:destroyed');
+  }
+
+  @SubscribeMessage('ganhador')
+  ganhador(@MessageBody() presenca: Presencas) {
+    this.server.emit('ganhador', presenca);
   }
 }

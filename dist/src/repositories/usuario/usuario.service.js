@@ -35,7 +35,6 @@ let UsuarioService = class UsuarioService {
                 funcao: usuario.funcao,
                 ativo: usuario.ativo,
                 codigo: usuario.codigo,
-                idade: usuario.idade,
             },
         });
     }
@@ -48,7 +47,6 @@ let UsuarioService = class UsuarioService {
                 funcao: true,
                 clube: true,
                 nome: true,
-                idade: true,
                 clubeId: true,
                 email: true,
                 presencas: true,
@@ -87,7 +85,6 @@ let UsuarioService = class UsuarioService {
                 funcao: usuario.funcao,
                 ativo: usuario.ativo,
                 codigo: usuario.codigo,
-                idade: usuario.idade,
             },
             include: { clube: true, presencas: true },
         });

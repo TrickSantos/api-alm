@@ -1,6 +1,7 @@
 import { Server } from 'socket.io';
 import { PresencaService } from './presenca.service';
 import { CreatePresencaDto } from './dto/create-presenca.dto';
+import { Presencas } from './dto/presenca.dto';
 export declare class PresencaGateway {
     private readonly presencaService;
     constructor(presencaService: PresencaService);
@@ -15,7 +16,9 @@ export declare class PresencaGateway {
         usuario: import(".prisma/client").usuario;
     })[]>;
     getPresences(id: number): Promise<{
+        logo: string;
         nome: string;
+        id: number;
         _count: {
             membros: number;
             presentes: number;
@@ -27,4 +30,5 @@ export declare class PresencaGateway {
         usuario: import(".prisma/client").usuario;
     }>;
     remove(id: number): Promise<void>;
+    ganhador(presenca: Presencas): void;
 }

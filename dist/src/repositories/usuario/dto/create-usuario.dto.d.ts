@@ -5,6 +5,5 @@ export declare class CreateUsuarioDto {
     codigo?: string;
     funcao: string;
     clubeId: number;
-    idade: number;
     ativo?: boolean;
 }

@@ -13,7 +13,6 @@ export declare class UsuarioService {
         id: number;
         email: string;
         funcao: string;
-        idade: number;
         presencas: import(".prisma/client").presenca[];
         clube: import(".prisma/client").clube;
         clubeId: number;

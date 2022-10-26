@@ -31,6 +31,9 @@ FROM node:16-alpine as production
 
 ARG DATABASE_URL=${DATABASE_URL}
 ARG JWT_SECRET=${JWT_SECRET}
+ARG BULL_HOST=${BULL_HOST}
+ARG BULL_PORT=${BULL_PORT}
+ARG BULL_PASSWORD=${BULL_PASSWORD}
 ARG PORT=${PORT}
 
 COPY --from=builder /app/node_modules ./node_modules

@@ -21,6 +21,7 @@ const update_evento_dto_1 = require("./dto/update-evento.dto");
 const ws_guard_1 = require("../../auth/guards/ws.guard");
 const common_1 = require("@nestjs/common");
 const ws_filter_1 = require("../../ws.filter");
+const event_emitter_1 = require("@nestjs/event-emitter");
 let EventoGateway = class EventoGateway {
     constructor(eventoService) {
         this.eventoService = eventoService;
@@ -44,6 +45,9 @@ let EventoGateway = class EventoGateway {
     async remove(id) {
         await this.eventoService.remove(id);
         this.server.emit('evento:destroyed');
+    }
+    handle() {
+        this.server.emit('evento:updated');
     }
 };
 __decorate([
@@ -84,6 +88,12 @@ __decorate([
     __metadata("design:paramtypes", [Number]),
     __metadata("design:returntype", Promise)
 ], EventoGateway.prototype, "remove", null);
+__decorate([
+    (0, event_emitter_1.OnEvent)('evento:update', { async: true }),
+    __metadata("design:type", Function),
+    __metadata("design:paramtypes", []),
+    __metadata("design:returntype", void 0)
+], EventoGateway.prototype, "handle", null);
 EventoGateway = __decorate([
     (0, websockets_1.WebSocketGateway)({
         cors: '*:*',

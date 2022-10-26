@@ -6,11 +6,13 @@ export declare class PresencaService {
     create(presenca: CreatePresencaDto): Promise<void>;
     findAll(): Promise<(import(".prisma/client").presenca & {
         clube: import(".prisma/client").clube;
-        usuario: import(".prisma/client").usuario;
         evento: import(".prisma/client").evento;
+        usuario: import(".prisma/client").usuario;
     })[]>;
     getPresencasByEventId(id: number): Promise<{
+        logo: string;
         nome: string;
+        id: number;
         _count: {
             membros: number;
             presentes: number;
@@ -18,8 +20,8 @@ export declare class PresencaService {
     }[]>;
     findOne(id: number): Promise<import(".prisma/client").presenca & {
         clube: import(".prisma/client").clube;
-        usuario: import(".prisma/client").usuario;
         evento: import(".prisma/client").evento;
+        usuario: import(".prisma/client").usuario;
     }>;
     remove(id: number): Promise<void>;
 }

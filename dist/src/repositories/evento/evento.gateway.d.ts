@@ -21,4 +21,5 @@ export declare class EventoGateway {
         message: string[];
     }>;
     remove(id: number): Promise<void>;
+    handle(): void;
 }

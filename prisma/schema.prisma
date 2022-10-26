@@ -32,7 +32,6 @@ model usuario {
   password  String
   funcao    String
   ativo     Boolean    @default(true)
-  idade     Int
   clube     clube      @relation(fields: [clubeId], references: [id], onDelete: Cascade)
   clubeId   Int
   presencas presenca[]

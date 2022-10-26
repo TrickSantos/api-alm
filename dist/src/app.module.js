@@ -7,6 +7,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.AppModule = void 0;
+const bull_1 = require("@nestjs/bull");
 const common_1 = require("@nestjs/common");
 const config_1 = require("@nestjs/config");
 const repository_module_1 = require("./repositories/repository.module");
@@ -19,6 +20,20 @@ AppModule = __decorate([
             config_1.ConfigModule.forRoot({
                 isGlobal: true,
                 envFilePath: ['.env'],
+            }),
+            bull_1.BullModule.forRootAsync({
+                imports: [config_1.ConfigModule],
+                inject: [config_1.ConfigService],
+                useFactory: (config) => ({
+                    redis: {
+                        host: config.get('BULL_HOST'),
+                        port: config.get('BULL_PORT'),
+                        password: config.get('BULL_PASSWORD'),
+                    },
+                }),
+            }),
+            bull_1.BullModule.registerQueue({
+                name: 'evento',
             }),
             repository_module_1.RepositoryModule,
             auth_module_1.AuthModule,

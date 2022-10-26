@@ -49,11 +49,6 @@ __decorate([
     __metadata("design:type", Number)
 ], CreateUsuarioDto.prototype, "clubeId", void 0);
 __decorate([
-    (0, class_validator_1.IsInt)(),
-    (0, class_validator_1.IsOptional)(),
-    __metadata("design:type", Number)
-], CreateUsuarioDto.prototype, "idade", void 0);
-__decorate([
     (0, class_validator_1.IsBoolean)(),
     (0, class_validator_1.IsOptional)(),
     __metadata("design:type", Boolean)

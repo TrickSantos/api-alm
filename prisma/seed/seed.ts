@@ -14,6 +14,7 @@ async function main() {
         pais: 'NEPAL',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/aguias_da_america.png',
       },
       {
         nome: 'ALFA DO ARAGUAIA',
@@ -21,6 +22,7 @@ async function main() {
         pais: 'VENEZUELA',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/alfa_do_araguaia.png',
       },
       {
         nome: 'AMANTES DA NATUREZA',
@@ -28,6 +30,7 @@ async function main() {
         pais: 'ANGOLA',
         regiao: 'MÉDIO NORTE - AZUL - ÁFRICA',
         ativo: true,
+        logo: 'dbv/amantes_da_natureza.png',
       },
       {
         nome: 'AMÉRICA DO SUL',
@@ -35,6 +38,7 @@ async function main() {
         pais: 'CATAR',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/america_do_sul.png',
       },
       {
         nome: 'AMIGOS DO PARAISO',
@@ -42,6 +46,7 @@ async function main() {
         pais: 'ARÁBIA SAUDITA',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/amigos_do_paraiso.png',
       },
       {
         nome: 'ARAUTOS DO REI',
@@ -49,6 +54,7 @@ async function main() {
         pais: 'MÉXICO',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/arautos_do_rei.png',
       },
       {
         nome: 'CENTRO AMÉRICA',
@@ -56,6 +62,7 @@ async function main() {
         pais: 'ISAREL',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/centro_america.png',
       },
       {
         nome: 'CONSTELAÇÃO DE ÓRION',
@@ -63,6 +70,7 @@ async function main() {
         pais: 'MALÁSIA',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/constelacao_de_orion.png',
       },
       {
         nome: 'CONSTELAÇÃO DO SUL',
@@ -70,6 +78,7 @@ async function main() {
         pais: 'SÍRIA',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/constelacao_do_sul.png',
       },
       {
         nome: 'CRUZEIRO DO SUL',
@@ -77,6 +86,7 @@ async function main() {
         pais: 'JAPÃO',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/cruzeiro_do_sul.png',
       },
       {
         nome: 'DUQUE',
@@ -84,6 +94,7 @@ async function main() {
         pais: 'POLÔNIA',
         regiao: 'SUL - VERMELHO - EUROPA',
         ativo: true,
+        logo: 'dbv/duque.png',
       },
       {
         nome: 'ESTRELA DE DAVI',
@@ -91,6 +102,7 @@ async function main() {
         pais: 'PANAMÁ',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/estrela_de_davi.png',
       },
       {
         nome: 'EXÉRCITO DO SENHOR',
@@ -98,6 +110,7 @@ async function main() {
         pais: 'JAMAICA',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/exercito_do_senhor.png',
       },
       {
         nome: 'FALCÃO NEGRO',
@@ -105,6 +118,7 @@ async function main() {
         pais: 'ROMÊNIA',
         regiao: 'SUL - VERMELHO - EUROPA',
         ativo: true,
+        logo: 'dbv/falcao_negro.png',
       },
       {
         nome: 'FERAS DO ARAGUAIA',
@@ -112,6 +126,7 @@ async function main() {
         pais: 'REPUBLICA DOMINICANA',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/feras_do_araguaia.png',
       },
       {
         nome: 'GUARDIÕES DA FÉ',
@@ -119,6 +134,7 @@ async function main() {
         pais: 'MIANMAR',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/guardioes_da_fe.png',
       },
       {
         nome: 'GUARDIÕES DA MORADA',
@@ -126,6 +142,7 @@ async function main() {
         pais: 'TAILÂNDIA',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/guardioes_da_morada.png',
       },
       {
         nome: 'GUARDIÕES DE ISRAEL',
@@ -133,6 +150,7 @@ async function main() {
         pais: 'NOVA ZELÂNDIA',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/guardioes_de_israel.png',
       },
       {
         nome: 'GUARDIÕES DO ARAGUAIA',
@@ -140,6 +158,7 @@ async function main() {
         pais: 'ESTADOS UNIDOS',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/guardioes_do_araguia.png',
       },
       {
         nome: 'GUARDIÕES DO ÉDEN',
@@ -147,6 +166,7 @@ async function main() {
         pais: 'EGITO',
         regiao: 'MÉDIO NORTE - AZUL - ÁFRICA',
         ativo: true,
+        logo: 'dbv/guardioes_do_eden.png',
       },
       {
         nome: 'GUARDIÕES DO RIO VERDE',
@@ -154,6 +174,7 @@ async function main() {
         pais: 'MARROCOS',
         regiao: 'MÉDIO NORTE - AZUL - ÁFRICA',
         ativo: true,
+        logo: 'dbv/guardioes_do_rio_verde.png',
       },
       {
         nome: 'GUARDIÕES DO VALE',
@@ -161,6 +182,7 @@ async function main() {
         pais: 'PERU',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/guardioes_do_vale.png',
       },
       {
         nome: 'GUERREIROS DO VALE',
@@ -168,6 +190,7 @@ async function main() {
         pais: 'COSTA RICA',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/guerreiros_do_vale.jpeg',
       },
       {
         nome: 'HERÓIS',
@@ -175,6 +198,7 @@ async function main() {
         pais: 'IRLANDA',
         regiao: 'SUL - VERMELHO - EUROPA',
         ativo: true,
+        logo: 'dbv/herois.png',
       },
       {
         nome: 'LEÃO DA MONTANHA',
@@ -182,6 +206,7 @@ async function main() {
         pais: 'LÍBANO',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/leao_da_montanha.png',
       },
       {
         nome: 'LEÃO DE JUDÁ',
@@ -189,6 +214,7 @@ async function main() {
         pais: 'VIETNÃ',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/leao_de_juda.png',
       },
       {
         nome: 'LOBOS DO CERRADO',
@@ -196,6 +222,7 @@ async function main() {
         pais: 'COREIA DO SUL',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/lobos_do_cerrado.png',
       },
       {
         nome: 'LUZEIROS DO LESTE',
@@ -203,6 +230,7 @@ async function main() {
         pais: 'BÉLGICA',
         regiao: 'SUL - VERMELHO - EUROPA',
         ativo: true,
+        logo: 'dbv/luzerios_do_leste.png',
       },
       {
         nome: 'MAANAIM',
@@ -210,6 +238,7 @@ async function main() {
         pais: 'DINAMARCA',
         regiao: 'SUL - VERMELHO - EUROPA',
         ativo: true,
+        logo: 'dbv/maanaim.png',
       },
       {
         nome: 'MARECHAL RONDON',
@@ -217,6 +246,7 @@ async function main() {
         pais: 'CAZAQUISTÃO',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/marechal_rondon.png',
       },
       {
         nome: 'MENSAGEIROS',
@@ -224,6 +254,7 @@ async function main() {
         pais: 'ÁFRICA DO SUL',
         regiao: 'MÉDIO NORTE - AZUL - ÁFRICA',
         ativo: true,
+        logo: 'dbv/mensageiros.png',
       },
       {
         nome: 'MENSAGEIROS DE CRISTO',
@@ -231,6 +262,7 @@ async function main() {
         pais: 'SUÍÇA',
         regiao: 'SUL - VERMELHO - EUROPA',
         ativo: true,
+        logo: 'dbv/mensageiros_de_cristo.png',
       },
       {
         nome: 'PEDRA ANGULAR',
@@ -238,6 +270,7 @@ async function main() {
         pais: 'PORTUGAL',
         regiao: 'SUL - VERMELHO - EUROPA',
         ativo: true,
+        logo: 'dbv/pedra_angular.png',
       },
       {
         nome: 'PEDRAS PRECIOSAS',
@@ -245,6 +278,7 @@ async function main() {
         pais: 'INDONÉSIA',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/pedras_preciosas.png',
       },
       {
         nome: 'PÉGASUS',
@@ -252,6 +286,7 @@ async function main() {
         pais: 'BOLÍVIA',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/pegasus.png',
       },
       {
         nome: 'PIONEIROS DO ARAGUAIA',
@@ -259,6 +294,7 @@ async function main() {
         pais: 'CHILE',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/pioneiros_do_araguaia.png',
       },
       {
         nome: 'PRIMAVERA',
@@ -266,6 +302,7 @@ async function main() {
         pais: 'ITÁLIA',
         regiao: 'SUL - VERMELHO - EUROPA',
         ativo: true,
+        logo: 'dbv/primavera.png',
       },
       {
         nome: 'SENTINELAS DO ARAGUAIA',
@@ -273,6 +310,7 @@ async function main() {
         pais: 'URUGUAI',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/sentinelas_do_araguaia.png',
       },
       {
         nome: 'SERRA AZUL',
@@ -280,6 +318,7 @@ async function main() {
         pais: 'CANADÁ',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/serra_azul.png',
       },
       {
         nome: 'SÍRIUS',
@@ -287,6 +326,7 @@ async function main() {
         pais: 'ÍNDIA',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/sirius.png',
       },
       {
         nome: 'SÍRIUS DO ARAGUAIA',
@@ -294,6 +334,7 @@ async function main() {
         pais: 'EQUADOR',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/sirius_do_araguaia.png',
       },
       {
         nome: 'TRIBO DE JUDÁ',
@@ -301,6 +342,7 @@ async function main() {
         pais: 'ARGENTINA',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/tribo_de_juda.png',
       },
       {
         nome: 'VERDES CAMPOS',
@@ -308,6 +350,7 @@ async function main() {
         pais: 'GRÈCIA',
         regiao: 'SUL - VERMELHO - EUROPA',
         ativo: true,
+        logo: 'dbv/verdes_campos.png',
       },
       {
         nome: 'VIGILANTES DA CHAPADA',
@@ -315,6 +358,7 @@ async function main() {
         pais: 'AUSTRÁLIA',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/vigilantes_da_chapada.png',
       },
       {
         nome: 'VOO LIVRE',
@@ -322,6 +366,7 @@ async function main() {
         pais: 'GUATEMALA',
         regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
         ativo: true,
+        logo: 'dbv/voo_livre.png',
       },
       {
         nome: 'ZENITH',
@@ -329,6 +374,144 @@ async function main() {
         pais: 'IRAQUE',
         regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
         ativo: true,
+        logo: 'dbv/zeneth.png',
+      },
+      {
+        nome: 'ABELHINHAS',
+        pais: 'ARGENTINA',
+        regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
+        codigo: '25583',
+        logo: 'avt/abelhinhas.png',
+      },
+      {
+        nome: 'ESTRELINHAS',
+        pais: 'PORTUGAL',
+        regiao: 'SUL - VERMELHO- EUROPA',
+        codigo: '13200',
+        logo: 'avt/estrelinhas.png',
+      },
+      {
+        nome: 'ESTRELINHAS DE JESUS',
+        pais: 'IRAQUE',
+        regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
+        codigo: '41457',
+        logo: 'avt/estrelinhas_de_jesus.png',
+      },
+      {
+        nome: 'FALCÃO KIDS',
+        pais: 'NORUEGA',
+        regiao: 'SUL - VERMELHO- EUROPA',
+        codigo: '28398',
+        logo: 'avt/falcao_kids.png',
+      },
+      {
+        nome: 'GRANDES COMO DAVI',
+        pais: 'JAPÃO',
+        regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
+        codigo: '34372',
+        logo: 'avt/grandes_como_davi.png',
+      },
+      {
+        nome: 'GUARDIÕES DA BÍBLIA',
+        pais: 'MÉXICO',
+        regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
+        codigo: '43727',
+      },
+      {
+        nome: 'HEROIZINHOS',
+        pais: 'RÚSSIA',
+        regiao: 'SUL - VERMELHO- EUROPA',
+        codigo: '13186',
+        logo: 'avt/heroizinho.png',
+      },
+      {
+        nome: 'LEÃO DA MONTANHA KIDS',
+        pais: 'CHINA',
+        regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
+        codigo: '13190',
+        logo: 'avt/leao_da_montanha_kids.png',
+      },
+      {
+        nome: 'MARCHANDO PARA O CÉU',
+        pais: 'COSTA RICA',
+        regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
+        codigo: '13299',
+        logo: 'avt/marchando_para_ceu.png',
+      },
+      {
+        nome: 'PANTANAL KIDS',
+        pais: 'POLÔNIA',
+        regiao: 'SUL - VERMELHO- EUROPA',
+        codigo: '13127',
+      },
+      {
+        nome: 'PEQUENINA LUZ',
+        pais: 'TURQUIA',
+        regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
+        codigo: '13125',
+        logo: 'avt/pequenina_luz.png',
+      },
+      {
+        nome: 'PEQUENINOS DO REI',
+        pais: 'PERU',
+        regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
+        codigo: '13136',
+        logo: 'avt/pequeninos_do_rei.png',
+      },
+      {
+        nome: 'PEQUENOS CONSTRUTORES',
+        pais: 'EGITO',
+        regiao: 'MÉDIO NORTE - AZUL - ÁFRICA',
+        codigo: '14330',
+        logo: 'avt/pequenos_construtores.png',
+      },
+      {
+        nome: 'PEQUENOS GUARDIÕES DO CÉU',
+        pais: 'CUBA',
+        regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
+        codigo: '17395',
+        logo: 'avt/pequenos_guardioes_do_ceu.png',
+      },
+      {
+        nome: 'PRIMAVERA',
+        pais: 'ITÁLIA',
+        regiao: 'SUL - VERMELHO- EUROPA',
+        codigo: '13185',
+        logo: 'avt/primavera.png',
+      },
+      {
+        nome: 'QUERUBINS DO CÉU',
+        pais: 'CANADÁ',
+        regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
+        codigo: '13335',
+        logo: 'avt/querubins_do_ceu.png',
+      },
+      {
+        nome: 'SERRA AZUL KIDS',
+        pais: 'CHILE',
+        regiao: 'ARAGUAIA - VERDE - AMÉRICAS',
+        codigo: '15065',
+        logo: 'avt/serra_azul_kids.png',
+      },
+      {
+        nome: 'TUIUIU',
+        pais: 'ÍNDIA',
+        regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
+        codigo: '13096',
+        logo: 'avt/tuiuiu.png',
+      },
+      {
+        nome: 'TURMINHA DA MORADA',
+        pais: 'ISRAEL',
+        regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
+        codigo: '13355',
+        logo: 'avt/turminha_da_morada.png',
+      },
+      {
+        nome: 'VIGILANTES DA CHAPADA JR',
+        pais: 'AUSTRÁLIA',
+        regiao: 'CUIABÁ - AMARELO - ÁSIA E OCEANIA',
+        codigo: '22356',
       },
     ],
     skipDuplicates: true,
@@ -339,7 +522,7 @@ async function main() {
       {
         codigo: '4042026',
         nome: 'ALESSANDRO GONÇALVES BUENO',
-        idade: 35,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -347,7 +530,7 @@ async function main() {
       {
         codigo: '4147870',
         nome: 'ALEXSANDRO MESQUITA SOUSA DE ARAUJO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -355,7 +538,7 @@ async function main() {
       {
         codigo: '4042057',
         nome: 'ALICE VITORIA SCHMIDT MUNIZ BRENTANO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -363,7 +546,7 @@ async function main() {
       {
         codigo: '4042031',
         nome: 'AMANDA ALMEIDA DA COSTA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -371,7 +554,7 @@ async function main() {
       {
         codigo: '4042059',
         nome: 'ANA CAROLINA SCHMIDT MUNIZ BRETANO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -379,7 +562,7 @@ async function main() {
       {
         codigo: '4042032',
         nome: 'ANA KAROLINA SOUSA OLIVEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -387,7 +570,7 @@ async function main() {
       {
         codigo: '4147874',
         nome: 'ANA LUIZA RAMOS BORGES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -395,7 +578,7 @@ async function main() {
       {
         codigo: '4042034',
         nome: 'ANA LUÍZA LINDENMAYR DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -403,7 +586,7 @@ async function main() {
       {
         codigo: '4042035',
         nome: 'ANA LÍVIA RAMOS DE SOUZA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -411,7 +594,7 @@ async function main() {
       {
         codigo: '4042036',
         nome: 'ANDREIA SILVA BRITES RIBEIRO',
-        idade: 37,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -419,7 +602,7 @@ async function main() {
       {
         codigo: '4042038',
         nome: 'ANNA LUIZA MOREIRA PENTEADO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -427,7 +610,7 @@ async function main() {
       {
         codigo: '4066563',
         nome: 'BIBIANA TOMÉ SALAMONI',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -435,7 +618,7 @@ async function main() {
       {
         codigo: '4042039',
         nome: 'ELIEZER JANDIR ANÇAY RODRIGUES',
-        idade: 32,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -443,7 +626,7 @@ async function main() {
       {
         codigo: '4077865',
         nome: 'ELISANGELA CARLOS RAMALHO',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 2,
         password: 'senha',
@@ -451,7 +634,7 @@ async function main() {
       {
         codigo: '4227131',
         nome: 'ERNANDES COELHO GUIMARÃES',
-        idade: 29,
+
         funcao: 'apoio',
         clubeId: 2,
         password: 'senha',
@@ -459,7 +642,7 @@ async function main() {
       {
         codigo: '4042040',
         nome: 'FERNANDA MENDES DE NOVAIS',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -467,7 +650,7 @@ async function main() {
       {
         codigo: '4042041',
         nome: 'FRANCISCA ADRIANA BARBOSA RAMOS',
-        idade: 33,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -475,7 +658,7 @@ async function main() {
       {
         codigo: '4186306',
         nome: 'FRANCISCA JOYCE RAMOS BENICIOS',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -483,7 +666,7 @@ async function main() {
       {
         codigo: '4042043',
         nome: 'GABRIELA ALMEIDA DA COSTA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -491,7 +674,7 @@ async function main() {
       {
         codigo: '4042045',
         nome: 'GILVANA OLIVEIRA PEREIRA VIEIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -499,7 +682,7 @@ async function main() {
       {
         codigo: '4147875',
         nome: 'GISELE SOARES RIBEIRO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -507,7 +690,7 @@ async function main() {
       {
         codigo: '4147877',
         nome: 'GUILHERME PEREIRA DE ARAUJO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -515,7 +698,7 @@ async function main() {
       {
         codigo: '4042046',
         nome: 'HIAGO SILVA MILNIKEL',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -523,7 +706,7 @@ async function main() {
       {
         codigo: '4068037',
         nome: 'IAN GABRIEL FERREIRA DA SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -531,7 +714,7 @@ async function main() {
       {
         codigo: '4042047',
         nome: 'IASMIN OLIVEIRA ZANDONÁ',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -539,7 +722,7 @@ async function main() {
       {
         codigo: '4042049',
         nome: 'IASMIN SILVA MILINKEL',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -547,7 +730,7 @@ async function main() {
       {
         codigo: '4122351',
         nome: 'ISABELA DE OLIVEIRA GOMES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -555,7 +738,7 @@ async function main() {
       {
         codigo: '4042051',
         nome: 'JAIR LORENZON',
-        idade: 61,
+
         funcao: 'apoio',
         clubeId: 2,
         password: 'senha',
@@ -563,7 +746,7 @@ async function main() {
       {
         codigo: '4147879',
         nome: 'JEFFERSON SOUSA SANTOS',
-        idade: 33,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -571,7 +754,7 @@ async function main() {
       {
         codigo: '4147880',
         nome: 'JESSICA SOARES RIBEIRO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -579,7 +762,7 @@ async function main() {
       {
         codigo: '4042053',
         nome: 'KAYKI LINO FERREIRA ALCANTARA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -587,7 +770,7 @@ async function main() {
       {
         codigo: '4042055',
         nome: 'KEMILLY ELISABETTE SILVA SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -595,7 +778,7 @@ async function main() {
       {
         codigo: '4042056',
         nome: 'LEUDIANE PEREIRA DA SILVA MILNIKEL',
-        idade: 37,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -603,7 +786,7 @@ async function main() {
       {
         codigo: '4043190',
         nome: 'LIDIO FERNANDES DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -611,7 +794,7 @@ async function main() {
       {
         codigo: '4042019',
         nome: 'LUCIENE BONIFÁCIO DOS SANTOS',
-        idade: 39,
+
         funcao: 'apoio',
         clubeId: 2,
         password: 'senha',
@@ -619,7 +802,7 @@ async function main() {
       {
         codigo: '4068030',
         nome: 'LUIS OTAVIO FIGUEIRO KULMANN',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -627,7 +810,7 @@ async function main() {
       {
         codigo: '4043196',
         nome: 'LUIZ FELIPE ZAMBENEDETTI ALVES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -635,7 +818,7 @@ async function main() {
       {
         codigo: '4043197',
         nome: 'LUIZ FERNANDO RODRIGUES VALADARES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -643,7 +826,7 @@ async function main() {
       {
         codigo: '4043201',
         nome: 'MARIA EDUARDA AVRELLA DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -651,7 +834,7 @@ async function main() {
       {
         codigo: '4068035',
         nome: 'MARIA EDUARDA RODRIGUES TEIXEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -659,7 +842,7 @@ async function main() {
       {
         codigo: '4130602',
         nome: 'MARIA LUIZA FERREIRA DE MORAES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -667,7 +850,7 @@ async function main() {
       {
         codigo: '4147882',
         nome: 'MARIA VICTORIA RAMOS BORGES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -675,7 +858,7 @@ async function main() {
       {
         codigo: '4043206',
         nome: 'MARYEL LIMA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -683,7 +866,7 @@ async function main() {
       {
         codigo: '4067936',
         nome: 'MARYON ALVES RIBEIRO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -691,7 +874,7 @@ async function main() {
       {
         codigo: '4043211',
         nome: 'MATHEUS HENRIQUE DANTAS CELESTINO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -699,7 +882,7 @@ async function main() {
       {
         codigo: '4043216',
         nome: 'MATHEUS OLIVEIRA GALVAO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -707,7 +890,7 @@ async function main() {
       {
         codigo: '4042020',
         nome: 'MAURA RODRIGUES DOS SANTOS VASCONCELOS',
-        idade: 54,
+
         funcao: 'apoio',
         clubeId: 2,
         password: 'senha',
@@ -715,7 +898,7 @@ async function main() {
       {
         codigo: '4043217',
         nome: 'MILENA FERNANDES DE NOVAIS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -723,7 +906,7 @@ async function main() {
       {
         codigo: '4043220',
         nome: 'NEIDA JOANA LINDENMAYER',
-        idade: 53,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -731,7 +914,7 @@ async function main() {
       {
         codigo: '4043221',
         nome: 'NEUSA DE ALMEIDA MOURÃO SANTOS',
-        idade: 61,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -739,7 +922,7 @@ async function main() {
       {
         codigo: '4043225',
         nome: 'NITCHELLY BRITES RIBEIRO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -747,7 +930,7 @@ async function main() {
       {
         codigo: '4042061',
         nome: 'PAULO RICARDO SCHMIDT MUNIZ BRENTANO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -755,7 +938,7 @@ async function main() {
       {
         codigo: '4066560',
         nome: 'PEDRO HENRIQUE BONIFÁCIO DA SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 2,
         password: 'senha',
@@ -763,7 +946,7 @@ async function main() {
       {
         codigo: '4043226',
         nome: 'PRISCILA GEHM',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -771,7 +954,7 @@ async function main() {
       {
         codigo: '4043227',
         nome: 'RAFAEL DE SOUZA CORANDINI',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -779,7 +962,7 @@ async function main() {
       {
         codigo: '4067996',
         nome: 'RAYANDERSON ARAÚJO DA SILVA',
-        idade: 17,
+
         funcao: 'apoio',
         clubeId: 2,
         password: 'senha',
@@ -787,7 +970,7 @@ async function main() {
       {
         codigo: '4043229',
         nome: 'SABRINA TOMAZ BUENO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -795,7 +978,7 @@ async function main() {
       {
         codigo: '4068032',
         nome: 'SORAYA SOPHIA BARROS BASTOS RODRIGUES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -803,7 +986,7 @@ async function main() {
       {
         codigo: '4043231',
         nome: 'THAMIRYS LOPES TOMÉ',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -811,7 +994,7 @@ async function main() {
       {
         codigo: '4043235',
         nome: 'THAYNARA LOPES TOMÉ',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 2,
         password: 'senha',
@@ -819,7 +1002,7 @@ async function main() {
       {
         codigo: '4186299',
         nome: 'THIAGO MARTINS DUARTE',
-        idade: 31,
+
         funcao: 'apoio',
         clubeId: 2,
         password: 'senha',
@@ -827,7 +1010,7 @@ async function main() {
       {
         codigo: '4132591',
         nome: 'ANA BEATRIZ BABUGIA VENANCIO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -835,7 +1018,7 @@ async function main() {
       {
         codigo: '4204445',
         nome: 'ANNA LUIZA OLIVAIRA LOURENÇO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -843,7 +1026,7 @@ async function main() {
       {
         codigo: '4132600',
         nome: 'BERNARDO DE FARIA MELO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -851,7 +1034,7 @@ async function main() {
       {
         codigo: '4132814',
         nome: 'BRUNA MARIANA DOS SANTOS',
-        idade: 20,
+
         funcao: 'apoio',
         clubeId: 3,
         password: 'senha',
@@ -859,7 +1042,7 @@ async function main() {
       {
         codigo: '4132685',
         nome: 'CAUAN PEREIRA RICARDI',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 3,
         password: 'senha',
@@ -867,7 +1050,7 @@ async function main() {
       {
         codigo: '4204443',
         nome: 'CESAR AUGUSTO DA SILVA COSTA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -875,7 +1058,7 @@ async function main() {
       {
         codigo: '4132688',
         nome: 'CHRYSTIAN KENZO UENO MORI',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 3,
         password: 'senha',
@@ -883,7 +1066,7 @@ async function main() {
       {
         codigo: '4132692',
         nome: 'DANIELLY ARAUJO DE SOUZA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 3,
         password: 'senha',
@@ -891,7 +1074,7 @@ async function main() {
       {
         codigo: '4132696',
         nome: 'DYRLE ALVES DE OLIVEIRA',
-        idade: 32,
+
         funcao: 'apoio',
         clubeId: 3,
         password: 'senha',
@@ -899,7 +1082,7 @@ async function main() {
       {
         codigo: '4132607',
         nome: 'EDUARDA DE JESUS PIRES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -907,7 +1090,7 @@ async function main() {
       {
         codigo: '4132813',
         nome: 'ELINEIDE DE SOUZA BARBOSA NEIVA DE AQUINO',
-        idade: 53,
+
         funcao: 'apoio',
         clubeId: 3,
         password: 'senha',
@@ -915,7 +1098,7 @@ async function main() {
       {
         codigo: '4132610',
         nome: 'EMILLY NATHALY DE ALMEIDA DAMBROS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -923,7 +1106,7 @@ async function main() {
       {
         codigo: '4132612',
         nome: 'FELIPE FAGUNDE SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -931,7 +1114,7 @@ async function main() {
       {
         codigo: '4132700',
         nome: 'FELYPE RODRIGUES FIALHO',
-        idade: 21,
+
         funcao: 'apoio',
         clubeId: 3,
         password: 'senha',
@@ -939,7 +1122,7 @@ async function main() {
       {
         codigo: '4132614',
         nome: 'FRANCISCO ASSIS ARAÚJO SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -947,7 +1130,7 @@ async function main() {
       {
         codigo: '4132615',
         nome: 'GABRIELA SANTOS SALMENTO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -955,7 +1138,7 @@ async function main() {
       {
         codigo: '4132703',
         nome: 'GUILHERME FARIA DA SILVEIRA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 3,
         password: 'senha',
@@ -963,7 +1146,7 @@ async function main() {
       {
         codigo: '4132616',
         nome: 'GUSTAVO DA COSTA NOGUEIRA GUEDES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -971,7 +1154,7 @@ async function main() {
       {
         codigo: '4132668',
         nome: 'HYAN GABRIEL GONÇALVES DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -979,7 +1162,7 @@ async function main() {
       {
         codigo: '4132624',
         nome: 'JADER LUCAS GODOI PILLER',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -987,7 +1170,7 @@ async function main() {
       {
         codigo: '4132704',
         nome: 'JAQUELINE FAXINA CARDOSO',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 3,
         password: 'senha',
@@ -995,7 +1178,7 @@ async function main() {
       {
         codigo: '4205974',
         nome: 'JOSE ANTONIO FARIAS',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 3,
         password: 'senha',
@@ -1003,7 +1186,7 @@ async function main() {
       {
         codigo: '4132706',
         nome: 'KAROLINY ARAÚJO SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 3,
         password: 'senha',
@@ -1011,7 +1194,7 @@ async function main() {
       {
         codigo: '4132708',
         nome: 'KIMBERLLY LUIZE PILLER',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 3,
         password: 'senha',
@@ -1019,7 +1202,7 @@ async function main() {
       {
         codigo: '4204442',
         nome: 'LINDOSMAR OLIVEIRA CARDOSO',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 3,
         password: 'senha',
@@ -1027,7 +1210,7 @@ async function main() {
       {
         codigo: '4132633',
         nome: 'MARCO ANTONIO RABELO PILLER',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -1035,7 +1218,7 @@ async function main() {
       {
         codigo: '4132636',
         nome: 'MARCOS VINÍCIUS DE ALMEIDA LIMA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -1043,7 +1226,7 @@ async function main() {
       {
         codigo: '4132642',
         nome: 'MAYSA KAORI VENO MORI',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -1051,7 +1234,7 @@ async function main() {
       {
         codigo: '4132648',
         nome: 'MELL KIMBERLY SANCHES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -1059,7 +1242,7 @@ async function main() {
       {
         codigo: '4132660',
         nome: 'PEDRO FAYMESON BARBOSA MEDEIROS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -1067,7 +1250,7 @@ async function main() {
       {
         codigo: '4132709',
         nome: 'RAFAEL JUNIOR PEREIRA',
-        idade: 28,
+
         funcao: 'apoio',
         clubeId: 3,
         password: 'senha',
@@ -1075,7 +1258,7 @@ async function main() {
       {
         codigo: '4132715',
         nome: 'RHAYSSA LHORRAINNY DA SILVA MARQUES',
-        idade: 27,
+
         funcao: 'apoio',
         clubeId: 3,
         password: 'senha',
@@ -1083,7 +1266,7 @@ async function main() {
       {
         codigo: '4132674',
         nome: 'SARAH BEATRIZ DIAS RIBEIRO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 3,
         password: 'senha',
@@ -1091,7 +1274,7 @@ async function main() {
       {
         codigo: '4189780',
         nome: 'SIRLENE DIAS DE SOUZA',
-        idade: 55,
+
         funcao: 'apoio',
         clubeId: 3,
         password: 'senha',
@@ -1099,7 +1282,7 @@ async function main() {
       {
         codigo: '4189781',
         nome: 'TANIA MARIANA DA SILVA',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 3,
         password: 'senha',
@@ -1107,7 +1290,7 @@ async function main() {
       {
         codigo: '4132711',
         nome: 'THIAGO FELIPE PALMEIRA MARTINS',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 3,
         password: 'senha',
@@ -1115,7 +1298,7 @@ async function main() {
       {
         codigo: '4201738',
         nome: 'ANA PAULA JESUS PEREIRA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 5,
         password: 'senha',
@@ -1123,7 +1306,7 @@ async function main() {
       {
         codigo: '4201915',
         nome: 'ANDREIA PEREIRA LIMA',
-        idade: 31,
+
         funcao: 'diretoria',
         clubeId: 5,
         password: 'senha',
@@ -1131,7 +1314,7 @@ async function main() {
       {
         codigo: '4048603',
         nome: 'ANNA JÚLIA FERREIRA BARROS GANDES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1139,7 +1322,7 @@ async function main() {
       {
         codigo: '4048605',
         nome: 'ANNY GABRIELY MORAES DOS REIS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1147,7 +1330,7 @@ async function main() {
       {
         codigo: '4128563',
         nome: 'DANILO BORGES BELÉM',
-        idade: 29,
+
         funcao: 'diretoria',
         clubeId: 5,
         password: 'senha',
@@ -1155,7 +1338,7 @@ async function main() {
       {
         codigo: '4060743',
         nome: 'GISLAYNY LIMA NASCIMENTO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1163,7 +1346,7 @@ async function main() {
       {
         codigo: '4048609',
         nome: 'GUILHERME FERREIRA DE ALMEIDA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1171,7 +1354,7 @@ async function main() {
       {
         codigo: '4201917',
         nome: 'INACIO FLORES DA SILVA',
-        idade: 54,
+
         funcao: 'apoio',
         clubeId: 5,
         password: 'senha',
@@ -1179,7 +1362,7 @@ async function main() {
       {
         codigo: '4189382',
         nome: 'ISABELLY FERREIRA SOARES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1187,7 +1370,7 @@ async function main() {
       {
         codigo: '4048585',
         nome: 'ISMAEL PEREIRA DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1195,7 +1378,7 @@ async function main() {
       {
         codigo: '4048587',
         nome: 'IVANILDO DE LARA SILVA',
-        idade: 37,
+
         funcao: 'diretoria',
         clubeId: 5,
         password: 'senha',
@@ -1203,7 +1386,7 @@ async function main() {
       {
         codigo: '4128571',
         nome: 'JANAINA SOUZA CAMPOS',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 5,
         password: 'senha',
@@ -1211,7 +1394,7 @@ async function main() {
       {
         codigo: '4201768',
         nome: 'JEAN MARIANO DOS SANTOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1219,7 +1402,7 @@ async function main() {
       {
         codigo: '4048611',
         nome: 'KETYLEN EDUARDA DE OLIVEIRA SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1227,7 +1410,7 @@ async function main() {
       {
         codigo: '4065815',
         nome: 'LEONARDO FIGUEIREDO DA SILVA',
-        idade: 29,
+
         funcao: 'apoio',
         clubeId: 5,
         password: 'senha',
@@ -1235,7 +1418,7 @@ async function main() {
       {
         codigo: '4201740',
         nome: 'LUIS CLÁUDIO CORREA DE MORAES',
-        idade: 43,
+
         funcao: 'diretoria',
         clubeId: 5,
         password: 'senha',
@@ -1243,7 +1426,7 @@ async function main() {
       {
         codigo: '4065810',
         nome: 'LUZIANE MENDES DE ALMEIDA DE JESUS',
-        idade: 40,
+
         funcao: 'diretoria',
         clubeId: 5,
         password: 'senha',
@@ -1251,7 +1434,7 @@ async function main() {
       {
         codigo: '4186321',
         nome: 'MARIA BEATRIZ GIMENEZ CABREIRA',
-        idade: 51,
+
         funcao: 'apoio',
         clubeId: 5,
         password: 'senha',
@@ -1259,7 +1442,7 @@ async function main() {
       {
         codigo: '4048589',
         nome: 'MARIENE CARLA DA SILVA LARA',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 5,
         password: 'senha',
@@ -1267,7 +1450,7 @@ async function main() {
       {
         codigo: '4065817',
         nome: 'MICHELLY BARBOSA DE CAMPOS',
-        idade: 34,
+
         funcao: 'apoio',
         clubeId: 5,
         password: 'senha',
@@ -1275,7 +1458,7 @@ async function main() {
       {
         codigo: '4071287',
         nome: 'NICOLLI LEITE GONÇALVES ARAÚJO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1283,7 +1466,7 @@ async function main() {
       {
         codigo: '4048613',
         nome: 'NILZA DOS SANTOS DA SILVA',
-        idade: 43,
+
         funcao: 'diretoria',
         clubeId: 5,
         password: 'senha',
@@ -1291,7 +1474,7 @@ async function main() {
       {
         codigo: '4060748',
         nome: 'PAULO HENRIQUE SALGADO DOS REIS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1299,7 +1482,7 @@ async function main() {
       {
         codigo: '4048590',
         nome: 'PAULO RICARDO CAMILO DOS SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1307,7 +1490,7 @@ async function main() {
       {
         codigo: '4201739',
         nome: 'PAULO ROBERTO CAMILO DOS SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1315,7 +1498,7 @@ async function main() {
       {
         codigo: '4065811',
         nome: 'PAULO ROBERTO SALGADO DA SILVA',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 5,
         password: 'senha',
@@ -1323,7 +1506,7 @@ async function main() {
       {
         codigo: '4048594',
         nome: 'RAISSA EMANUELLEY REIS ALMEIDA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1331,7 +1514,7 @@ async function main() {
       {
         codigo: '4189538',
         nome: 'RODRIGO RAMOS DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1339,7 +1522,7 @@ async function main() {
       {
         codigo: '4201771',
         nome: 'RYAN MARIANO DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1347,7 +1530,7 @@ async function main() {
       {
         codigo: '4048596',
         nome: 'SAMUEL PEREIRA DE JESUS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1355,7 +1538,7 @@ async function main() {
       {
         codigo: '4048598',
         nome: 'SARA ALMEIDA NUNES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1363,7 +1546,7 @@ async function main() {
       {
         codigo: '4048599',
         nome: 'SOPHIA VITÓRIA MOURA LEITE',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1371,7 +1554,7 @@ async function main() {
       {
         codigo: '4048600',
         nome: 'TAINÁ DE ALMEIDA VIEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1379,7 +1562,7 @@ async function main() {
       {
         codigo: '4048602',
         nome: 'WENDER JESUS CARDOSO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 5,
         password: 'senha',
@@ -1387,7 +1570,7 @@ async function main() {
       {
         codigo: '4082165',
         nome: 'ANTONIO MARCOS ALVES PINTO',
-        idade: 44,
+
         funcao: 'apoio',
         clubeId: 4,
         password: 'senha',
@@ -1395,7 +1578,7 @@ async function main() {
       {
         codigo: '4082171',
         nome: 'CAMILA ROBERTA SOUZA DE OLIVEIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1403,7 +1586,7 @@ async function main() {
       {
         codigo: '4082173',
         nome: 'CAMILA VITÓRIA DE SOUZA LUCAS',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 4,
         password: 'senha',
@@ -1411,7 +1594,7 @@ async function main() {
       {
         codigo: '4082175',
         nome: 'CRISLAINE MESQUITA TAQUES SOBRINHO',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 4,
         password: 'senha',
@@ -1419,7 +1602,7 @@ async function main() {
       {
         codigo: '4082265',
         nome: 'DANIELA SOUZA DA COSTA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 4,
         password: 'senha',
@@ -1427,7 +1610,7 @@ async function main() {
       {
         codigo: '4082177',
         nome: 'DANIELLE SOUZA DE OLIVEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1435,7 +1618,7 @@ async function main() {
       {
         codigo: '4082178',
         nome: 'DANYELLE CARLINDO DE MORAES',
-        idade: 25,
+
         funcao: 'apoio',
         clubeId: 4,
         password: 'senha',
@@ -1443,7 +1626,7 @@ async function main() {
       {
         codigo: '4082179',
         nome: 'DEIVID GUSTAVO BRAGA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1451,7 +1634,7 @@ async function main() {
       {
         codigo: '4082163',
         nome: 'ELTON MÁRCIO DIAS JÚNIOR',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 4,
         password: 'senha',
@@ -1459,7 +1642,7 @@ async function main() {
       {
         codigo: '4086473',
         nome: 'ENIS DE JESUS MACEDO',
-        idade: 55,
+
         funcao: 'apoio',
         clubeId: 4,
         password: 'senha',
@@ -1467,7 +1650,7 @@ async function main() {
       {
         codigo: '4082215',
         nome: 'ENY FERNANDES DE OLIVEIRA MACEDO',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 4,
         password: 'senha',
@@ -1475,7 +1658,7 @@ async function main() {
       {
         codigo: '4082222',
         nome: 'FERNANDA NOEMY SILVA BARBOSA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1483,7 +1666,7 @@ async function main() {
       {
         codigo: '4082219',
         nome: 'GABRIEL VINICIUS SILVA VAVIER',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1491,7 +1674,7 @@ async function main() {
       {
         codigo: '4082196',
         nome: 'GIOVANI MESQUITA TAQUES',
-        idade: 38,
+
         funcao: 'apoio',
         clubeId: 4,
         password: 'senha',
@@ -1499,7 +1682,7 @@ async function main() {
       {
         codigo: '4082268',
         nome: 'GLEICE CRISTINA DA SILVA PINTO',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 4,
         password: 'senha',
@@ -1507,7 +1690,7 @@ async function main() {
       {
         codigo: '4082192',
         nome: 'GUILHERME ALBUQUERQUE CAMPOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1515,7 +1698,7 @@ async function main() {
       {
         codigo: '4082203',
         nome: 'HELLEN BEATRIZ  FERNANDES MACEDO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1523,7 +1706,7 @@ async function main() {
       {
         codigo: '4082170',
         nome: 'HENZO DE MORAES PREZA LIBANIO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1531,7 +1714,7 @@ async function main() {
       {
         codigo: '4082214',
         nome: 'IRENE PEREIRA DE CAMPOS',
-        idade: 65,
+
         funcao: 'apoio',
         clubeId: 4,
         password: 'senha',
@@ -1539,7 +1722,7 @@ async function main() {
       {
         codigo: '4082166',
         nome: 'IVONE SILVA BARBOSA BOTELHO',
-        idade: 43,
+
         funcao: 'diretoria',
         clubeId: 4,
         password: 'senha',
@@ -1547,7 +1730,7 @@ async function main() {
       {
         codigo: '4082202',
         nome: 'JANAINE TORTORELLI DA SILVA',
-        idade: 35,
+
         funcao: 'diretoria',
         clubeId: 4,
         password: 'senha',
@@ -1555,7 +1738,7 @@ async function main() {
       {
         codigo: '4082205',
         nome: 'JOSE FELIPE DA SILVA GUSMÃO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1563,7 +1746,7 @@ async function main() {
       {
         codigo: '4104459',
         nome: 'KARROLAYNE DA SILVA CARVALHO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1571,7 +1754,7 @@ async function main() {
       {
         codigo: '4082200',
         nome: 'LARISSA SILVA MACEDO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1579,7 +1762,7 @@ async function main() {
       {
         codigo: '4082168',
         nome: 'LUIS GUSTAVO VIEIRA LEDIO',
-        idade: 34,
+
         funcao: 'diretoria',
         clubeId: 4,
         password: 'senha',
@@ -1587,7 +1770,7 @@ async function main() {
       {
         codigo: '4082207',
         nome: 'MARCOS HENRIQUE DA SILVA PINTO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1595,7 +1778,7 @@ async function main() {
       {
         codigo: '4082190',
         nome: 'NEURIAM GONZAGA JÚNIOR',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1603,7 +1786,7 @@ async function main() {
       {
         codigo: '4082189',
         nome: 'PEDRO LUCAS FERNANDES MACEDO',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 4,
         password: 'senha',
@@ -1611,7 +1794,7 @@ async function main() {
       {
         codigo: '4082184',
         nome: 'RAFAELA FERNANDES ALBUQUERQUE',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1619,7 +1802,7 @@ async function main() {
       {
         codigo: '4082188',
         nome: 'RAFAELLA DA SILVA ALVES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1627,7 +1810,7 @@ async function main() {
       {
         codigo: '4082186',
         nome: 'REBECA SOARES ROSA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1635,7 +1818,7 @@ async function main() {
       {
         codigo: '4082181',
         nome: 'THAILA  AYALA CARVALHO DE CAMPOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 4,
         password: 'senha',
@@ -1643,7 +1826,7 @@ async function main() {
       {
         codigo: '4082280',
         nome: 'VITORIA CAROLINE SILVA MARQUES',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 4,
         password: 'senha',
@@ -1651,7 +1834,7 @@ async function main() {
       {
         codigo: '4149563',
         nome: 'ADEMIR MARCIO KEMPF',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 6,
         password: 'senha',
@@ -1659,7 +1842,7 @@ async function main() {
       {
         codigo: '4054537',
         nome: 'AMANDA VITÓRIA DANGELO SOARES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1667,7 +1850,7 @@ async function main() {
       {
         codigo: '4054552',
         nome: 'BRENDA MARIA AGUIAR DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1675,7 +1858,7 @@ async function main() {
       {
         codigo: '4128057',
         nome: 'BRUNILDA BONI SCHULZ',
-        idade: 57,
+
         funcao: 'apoio',
         clubeId: 6,
         password: 'senha',
@@ -1683,7 +1866,7 @@ async function main() {
       {
         codigo: '4054522',
         nome: 'CEZAR VIRGULINO ANACLETO',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 6,
         password: 'senha',
@@ -1691,7 +1874,7 @@ async function main() {
       {
         codigo: '4054536',
         nome: 'CLARA EMILIA DA SILVA SCHULZ',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1699,7 +1882,7 @@ async function main() {
       {
         codigo: '4054556',
         nome: 'DAFNY FERNANDA BOHRER CARDOSO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1707,7 +1890,7 @@ async function main() {
       {
         codigo: '4054525',
         nome: 'DANIELE MARELI SCHULZ MIRANDA',
-        idade: 40,
+
         funcao: 'diretoria',
         clubeId: 6,
         password: 'senha',
@@ -1715,7 +1898,7 @@ async function main() {
       {
         codigo: '4054532',
         nome: 'DHONY DA PAZ PASCOLAR',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 6,
         password: 'senha',
@@ -1723,7 +1906,7 @@ async function main() {
       {
         codigo: '4054554',
         nome: 'DIEGO DA PAZ PASCOLAR',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1731,7 +1914,7 @@ async function main() {
       {
         codigo: '4204512',
         nome: 'EMANUELLY MACHADO GABRIEL DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1739,7 +1922,7 @@ async function main() {
       {
         codigo: '4054557',
         nome: 'ERIC NATAN SCHULZ MIRANDA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1747,7 +1930,7 @@ async function main() {
       {
         codigo: '4204501',
         nome: 'HUGO SAMUEL DA SILVA SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1755,7 +1938,7 @@ async function main() {
       {
         codigo: '4054559',
         nome: 'JOSÉ ROSINAL AKAY MUNDURUKU',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1763,7 +1946,7 @@ async function main() {
       {
         codigo: '4203651',
         nome: 'KEVIN AUGUSTO DE SOUZA FERREIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1771,7 +1954,7 @@ async function main() {
       {
         codigo: '4054560',
         nome: 'LUAN CARLOS PREHL',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1779,7 +1962,7 @@ async function main() {
       {
         codigo: '4203654',
         nome: 'MARIA SOPHIA GLIENKA DE SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1787,7 +1970,7 @@ async function main() {
       {
         codigo: '4054565',
         nome: 'MARLENE CLARICE SCHULZ KEMPF',
-        idade: 49,
+
         funcao: 'apoio',
         clubeId: 6,
         password: 'senha',
@@ -1795,7 +1978,7 @@ async function main() {
       {
         codigo: '4054531',
         nome: 'NATALIA SCHULZ MIRANDA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 6,
         password: 'senha',
@@ -1803,7 +1986,7 @@ async function main() {
       {
         codigo: '4189443',
         nome: 'RAIANDRA PERES DE ANDRADE FERNANDES',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 6,
         password: 'senha',
@@ -1811,7 +1994,7 @@ async function main() {
       {
         codigo: '4054534',
         nome: 'RICARDO OTAVIO GHIZONI ANTUNES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1819,7 +2002,7 @@ async function main() {
       {
         codigo: '4054527',
         nome: 'ROGÉRIO FERREIRA MIRANDA',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 6,
         password: 'senha',
@@ -1827,7 +2010,7 @@ async function main() {
       {
         codigo: '4054561',
         nome: 'SILVIA PULQUERI ANACLETO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1835,7 +2018,7 @@ async function main() {
       {
         codigo: '4054563',
         nome: 'THALYSON BOHRER CARDOSO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 6,
         password: 'senha',
@@ -1843,7 +2026,7 @@ async function main() {
       {
         codigo: '4054529',
         nome: 'THAYNARA DIAS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 6,
         password: 'senha',
@@ -1851,7 +2034,7 @@ async function main() {
       {
         codigo: '4054523',
         nome: 'THÁCILA ALINE KEMPF',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 6,
         password: 'senha',
@@ -1859,7 +2042,7 @@ async function main() {
       {
         codigo: '4204565',
         nome: 'WIRES BARBOSA GOMES',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 6,
         password: 'senha',
@@ -1867,7 +2050,7 @@ async function main() {
       {
         codigo: '4127212',
         nome: 'ALEXANDRE DEAR DOS SANTOS SOUZA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1875,7 +2058,7 @@ async function main() {
       {
         codigo: '4063309',
         nome: 'ALICE DOS SANTOS MONTEIRO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1883,7 +2066,7 @@ async function main() {
       {
         codigo: '4063579',
         nome: 'ALICE SANTOS SILVA SOLA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1891,7 +2074,7 @@ async function main() {
       {
         codigo: '4063587',
         nome: 'ALICIA LIRA MENDES DE OLIVEIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1899,7 +2082,7 @@ async function main() {
       {
         codigo: '4064257',
         nome: 'ANDERSON DOS SANTOS DE MORAES',
-        idade: 37,
+
         funcao: 'diretoria',
         clubeId: 7,
         password: 'senha',
@@ -1907,7 +2090,7 @@ async function main() {
       {
         codigo: '4063607',
         nome: 'ANDRÉ LIRA MENDES DE OLIVEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1915,7 +2098,7 @@ async function main() {
       {
         codigo: '4064072',
         nome: 'ANNY KAROLYNE MORALECO DE OLIVEIRA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 7,
         password: 'senha',
@@ -1923,7 +2106,7 @@ async function main() {
       {
         codigo: '4063610',
         nome: 'ARTHUR FIRMO DE CAMPOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1931,7 +2114,7 @@ async function main() {
       {
         codigo: '4063611',
         nome: 'BEATRIZ DE OLIVEIRA BADOTTI',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1939,7 +2122,7 @@ async function main() {
       {
         codigo: '4081917',
         nome: 'CALEB RODRIGUES DE OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1947,7 +2130,7 @@ async function main() {
       {
         codigo: '4063617',
         nome: 'CALEBE ESCOBAR SANTOS DE MORAES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1955,7 +2138,7 @@ async function main() {
       {
         codigo: '4064075',
         nome: 'CLEIA DA SILVA RODRIGUES OLIVEIRA',
-        idade: 46,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -1963,7 +2146,7 @@ async function main() {
       {
         codigo: '4133804',
         nome: 'DANIEL ANDREANI',
-        idade: 50,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -1971,7 +2154,7 @@ async function main() {
       {
         codigo: '4063620',
         nome: 'DANIEL VIEIRA GORSKI',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1979,7 +2162,7 @@ async function main() {
       {
         codigo: '4064078',
         nome: 'DORAIL SANTANA DE OLIVEIRA',
-        idade: 47,
+
         funcao: 'diretoria',
         clubeId: 7,
         password: 'senha',
@@ -1987,7 +2170,7 @@ async function main() {
       {
         codigo: '4063621',
         nome: 'EDUARDA CAROLINE MOREIRA NEVEZ',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -1995,7 +2178,7 @@ async function main() {
       {
         codigo: '4064326',
         nome: 'ELIEZER ZAFFANI',
-        idade: 38,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2003,7 +2186,7 @@ async function main() {
       {
         codigo: '4064401',
         nome: 'ELIZEO DE OLIVEIRA',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2011,7 +2194,7 @@ async function main() {
       {
         codigo: '4063624',
         nome: 'EMANUELLY MUSSATO SOARES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2019,7 +2202,7 @@ async function main() {
       {
         codigo: '4063626',
         nome: 'ENZO TASSARO CASTRO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2027,7 +2210,7 @@ async function main() {
       {
         codigo: '4064081',
         nome: 'ERICK SCHALM',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 7,
         password: 'senha',
@@ -2035,7 +2218,7 @@ async function main() {
       {
         codigo: '4064085',
         nome: 'ESTER ESCOBAR SANTOS DE MORAES',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2043,7 +2226,7 @@ async function main() {
       {
         codigo: '4190761',
         nome: 'ESTEVAN LOESCHKE ROSA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2051,7 +2234,7 @@ async function main() {
       {
         codigo: '4063634',
         nome: 'ESTHER DOS REIS BARBOSA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2059,7 +2242,7 @@ async function main() {
       {
         codigo: '4063636',
         nome: 'FABRICIO NASCIMENTO DE CAMPOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2067,7 +2250,7 @@ async function main() {
       {
         codigo: '4063639',
         nome: 'FELIPE DO VALE FERNANDES SOARES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2075,7 +2258,7 @@ async function main() {
       {
         codigo: '4063643',
         nome: 'FERNANDO BRAGHIN MANTOVANI',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2083,7 +2266,7 @@ async function main() {
       {
         codigo: '4063674',
         nome: 'GABRIELY PRADO NUNES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2091,7 +2274,7 @@ async function main() {
       {
         codigo: '4064393',
         nome: 'GEAZI ZAFFANI',
-        idade: 41,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2099,7 +2282,7 @@ async function main() {
       {
         codigo: '4064099',
         nome: 'GETULIO FERREIRA DA COSTA',
-        idade: 46,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2107,7 +2290,7 @@ async function main() {
       {
         codigo: '4064101',
         nome: 'GILSON LARA BARBOSA',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2115,7 +2298,7 @@ async function main() {
       {
         codigo: '4190768',
         nome: 'GIULIA SILVA PANIAGO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 7,
         password: 'senha',
@@ -2123,7 +2306,7 @@ async function main() {
       {
         codigo: '4064396',
         nome: 'GLORIA CHRISTA FLOR PHIDOR',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2131,7 +2314,7 @@ async function main() {
       {
         codigo: '4064109',
         nome: 'GUALBERTO MARTINS',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2139,7 +2322,7 @@ async function main() {
       {
         codigo: '4127217',
         nome: 'GUILHERME ALEXANDRE DOS SANTOS SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2147,7 +2330,7 @@ async function main() {
       {
         codigo: '4063693',
         nome: 'HELENA SILVA BULHÕES NEIVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2155,7 +2338,7 @@ async function main() {
       {
         codigo: '4063709',
         nome: 'ISABELA CAMARA CAMPOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2163,7 +2346,7 @@ async function main() {
       {
         codigo: '4063722',
         nome: 'JOÃO DANIEL SEGALA GONÇALVES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2171,7 +2354,7 @@ async function main() {
       {
         codigo: '4063737',
         nome: 'JOÃO PEDRO BATISTA GUMS BELCHÓ',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2179,7 +2362,7 @@ async function main() {
       {
         codigo: '4081918',
         nome: 'KAROLINE SCHREIBER',
-        idade: 30,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2187,7 +2370,7 @@ async function main() {
       {
         codigo: '4063743',
         nome: 'LAURIANY MAIA DE A. COSTA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2195,7 +2378,7 @@ async function main() {
       {
         codigo: '4064312',
         nome: 'LENNA DO VALE CASTILHO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2203,7 +2386,7 @@ async function main() {
       {
         codigo: '4063753',
         nome: 'LEONARDO JORGE LUCHESI CRESTANI',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2211,7 +2394,7 @@ async function main() {
       {
         codigo: '4064428',
         nome: 'LOVE LEARLIE ESPERANZA PHILDOR',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2219,7 +2402,7 @@ async function main() {
       {
         codigo: '4063757',
         nome: 'LUCAS DOS SANTOS FERREIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2227,7 +2410,7 @@ async function main() {
       {
         codigo: '4063765',
         nome: 'LUCAS GABRIEL DE SOUZA CAMPOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2235,7 +2418,7 @@ async function main() {
       {
         codigo: '4063770',
         nome: 'LUDYMILA OLIVEIRA BITTNER',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2243,7 +2426,7 @@ async function main() {
       {
         codigo: '4063775',
         nome: 'LUIZ GUSTAVO PUERTAS ALVES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2251,7 +2434,7 @@ async function main() {
       {
         codigo: '4064115',
         nome: 'MAICON DA SILVA NASCIMENTO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 7,
         password: 'senha',
@@ -2259,7 +2442,7 @@ async function main() {
       {
         codigo: '4063779',
         nome: 'MARCELO DA SILVA NASCIMENTO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2267,7 +2450,7 @@ async function main() {
       {
         codigo: '4190771',
         nome: 'MARCOS JOSE DO NASCIMENTO',
-        idade: 33,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2275,7 +2458,7 @@ async function main() {
       {
         codigo: '4127206',
         nome: 'MARIA CLARA BITTENCOURT CARVALHO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2283,7 +2466,7 @@ async function main() {
       {
         codigo: '4063794',
         nome: 'MARIA LUIZA SANTOS SILVA SOLA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2291,7 +2474,7 @@ async function main() {
       {
         codigo: '4064296',
         nome: 'MARILAINE OLIVEIRA DA SILVA NASCIMENTO',
-        idade: 34,
+
         funcao: 'diretoria',
         clubeId: 7,
         password: 'senha',
@@ -2299,7 +2482,7 @@ async function main() {
       {
         codigo: '4063802',
         nome: 'MATEUS DUARTE ZAVIASKY',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2307,7 +2490,7 @@ async function main() {
       {
         codigo: '4063809',
         nome: 'MATHEUS MARQUES PERES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2315,7 +2498,7 @@ async function main() {
       {
         codigo: '4063817',
         nome: 'MAX DAVI KRUGER',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2323,7 +2506,7 @@ async function main() {
       {
         codigo: '4063821',
         nome: 'MIGUEL VIEIRA GORSKI',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2331,7 +2514,7 @@ async function main() {
       {
         codigo: '4063825',
         nome: 'MIRELA CRISTINA BRAZ ALMEIDA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2339,7 +2522,7 @@ async function main() {
       {
         codigo: '4127219',
         nome: 'MÁRCIO DA SILVA NASCIMENTO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2347,7 +2530,7 @@ async function main() {
       {
         codigo: '4064128',
         nome: 'OSIEL MENDES DE OLIVEIRA',
-        idade: 51,
+
         funcao: 'diretoria',
         clubeId: 7,
         password: 'senha',
@@ -2355,7 +2538,7 @@ async function main() {
       {
         codigo: '4063929',
         nome: 'RAFAELA BEZERRA CAPILÉ',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2363,7 +2546,7 @@ async function main() {
       {
         codigo: '4063939',
         nome: 'RAQUEL COLETA ZAFANNI',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2371,7 +2554,7 @@ async function main() {
       {
         codigo: '4063945',
         nome: 'REBECA SIVA ZAFFANI',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2379,7 +2562,7 @@ async function main() {
       {
         codigo: '4064133',
         nome: 'RENATO GORSKI',
-        idade: 60,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2387,7 +2570,7 @@ async function main() {
       {
         codigo: '4063951',
         nome: 'ROBERTO DE ARAUJO CRUZ JR',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2395,7 +2578,7 @@ async function main() {
       {
         codigo: '4081919',
         nome: 'ROSENI PRADO NASCIMENTO',
-        idade: 35,
+
         funcao: 'diretoria',
         clubeId: 7,
         password: 'senha',
@@ -2403,7 +2586,7 @@ async function main() {
       {
         codigo: '4063953',
         nome: 'RUBENS RODRIGUES DE OLIVEIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2411,7 +2594,7 @@ async function main() {
       {
         codigo: '4063956',
         nome: 'SAMUEL DE PAULA OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2419,7 +2602,7 @@ async function main() {
       {
         codigo: '4063959',
         nome: 'SARAH LOPES MORAES BERGAMINI',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2427,7 +2610,7 @@ async function main() {
       {
         codigo: '4064143',
         nome: 'SAULO ANANIAS DE OLIVEIRA',
-        idade: 58,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2435,7 +2618,7 @@ async function main() {
       {
         codigo: '4064150',
         nome: 'SOLANGE SILVA ROCHA',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2443,7 +2626,7 @@ async function main() {
       {
         codigo: '4063961',
         nome: 'SONIA COSTA MARQUES DE ARRUDA ANDREANI',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2451,7 +2634,7 @@ async function main() {
       {
         codigo: '4064024',
         nome: 'SÂMIA GRABRIELLE SILVA DE CAMPOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2459,7 +2642,7 @@ async function main() {
       {
         codigo: '4064028',
         nome: 'VALENTIM LUCHESI CRESTANI',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2467,7 +2650,7 @@ async function main() {
       {
         codigo: '4064157',
         nome: 'VANESSA PRADO NASCIMENTO MARTINS',
-        idade: 37,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2475,7 +2658,7 @@ async function main() {
       {
         codigo: '4064029',
         nome: 'WEVERTON ARAUJO BRASIL SANTOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 7,
         password: 'senha',
@@ -2483,7 +2666,7 @@ async function main() {
       {
         codigo: '4064266',
         nome: 'WILLIAM CASTILHO DA SILVA',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 7,
         password: 'senha',
@@ -2491,7 +2674,7 @@ async function main() {
       {
         codigo: '4085376',
         nome: 'ADRIANA CHAGAS EDUARDO',
-        idade: 34,
+
         funcao: 'apoio',
         clubeId: 8,
         password: 'senha',
@@ -2499,7 +2682,7 @@ async function main() {
       {
         codigo: '4085307',
         nome: 'ADRYAN MARTINS MAGALHAES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 8,
         password: 'senha',
@@ -2507,7 +2690,7 @@ async function main() {
       {
         codigo: '4085323',
         nome: 'AMANDA CRISTINA CELESTINA CAMPOS',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 8,
         password: 'senha',
@@ -2515,7 +2698,7 @@ async function main() {
       {
         codigo: '4128015',
         nome: 'ANE VITÓRIA SILVA QUEIROZ OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 8,
         password: 'senha',
@@ -2523,7 +2706,7 @@ async function main() {
       {
         codigo: '4201295',
         nome: 'ARLENE LUIZA SIQUEIRA PAIXAO',
-        idade: 40,
+
         funcao: 'apoio',
         clubeId: 8,
         password: 'senha',
@@ -2531,7 +2714,7 @@ async function main() {
       {
         codigo: '4204119',
         nome: 'CARLOS EDUARDO SANTOS BARRETO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 8,
         password: 'senha',
@@ -2539,7 +2722,7 @@ async function main() {
       {
         codigo: '4201293',
         nome: 'CLEDEVALDO ARRUDA PAIXAO',
-        idade: 48,
+
         funcao: 'diretoria',
         clubeId: 8,
         password: 'senha',
@@ -2547,7 +2730,7 @@ async function main() {
       {
         codigo: '4085285',
         nome: 'GABRIEL AFONSO LIMA DA SILVA SANTOS',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 8,
         password: 'senha',
@@ -2555,7 +2738,7 @@ async function main() {
       {
         codigo: '4085312',
         nome: 'GABRIEL SIQUEIRA PAIXAO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 8,
         password: 'senha',
@@ -2563,7 +2746,7 @@ async function main() {
       {
         codigo: '4203952',
         nome: 'GUILHERME SANTOS BARRETO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 8,
         password: 'senha',
@@ -2571,7 +2754,7 @@ async function main() {
       {
         codigo: '4085361',
         nome: 'JOSE PAULO JUNIOR PEREIRA SOUZA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 8,
         password: 'senha',
@@ -2579,7 +2762,7 @@ async function main() {
       {
         codigo: '4085290',
         nome: 'MARIA FÁTIMA DE SOUZA ALMEIDA',
-        idade: 53,
+
         funcao: 'diretoria',
         clubeId: 8,
         password: 'senha',
@@ -2587,7 +2770,7 @@ async function main() {
       {
         codigo: '4221970',
         nome: 'NATÁLIA VITÓRIA DO NASCIMENTO SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 8,
         password: 'senha',
@@ -2595,7 +2778,7 @@ async function main() {
       {
         codigo: '4085327',
         nome: 'PAULINA PEREIRA DE SOUZA VISNARDI DOS SANTOS',
-        idade: 74,
+
         funcao: 'apoio',
         clubeId: 8,
         password: 'senha',
@@ -2603,7 +2786,7 @@ async function main() {
       {
         codigo: '4085295',
         nome: 'SOLANGE SOUZA MARTINS',
-        idade: 33,
+
         funcao: 'diretoria',
         clubeId: 8,
         password: 'senha',
@@ -2611,7 +2794,7 @@ async function main() {
       {
         codigo: '4203910',
         nome: 'VICTOR HUGO PAIXÃO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 8,
         password: 'senha',
@@ -2619,7 +2802,7 @@ async function main() {
       {
         codigo: '4085300',
         nome: 'WELLINGTON DOS SANTOS MAGALHAES',
-        idade: 42,
+
         funcao: 'diretoria',
         clubeId: 8,
         password: 'senha',
@@ -2627,7 +2810,7 @@ async function main() {
       {
         codigo: '4085363',
         nome: 'WILLIAN CIRQUEIRA MATIAS',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 8,
         password: 'senha',
@@ -2635,7 +2818,7 @@ async function main() {
       {
         codigo: '4085352',
         nome: 'YASMIN SOUZA MARTINS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 8,
         password: 'senha',
@@ -2643,7 +2826,7 @@ async function main() {
       {
         codigo: '3984002',
         nome: 'AMANDA BEATRIZ SOUZA COSTA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2651,7 +2834,7 @@ async function main() {
       {
         codigo: '3984006',
         nome: 'ANA BEATRIZ ALMEIDA COSTA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2659,7 +2842,7 @@ async function main() {
       {
         codigo: '3984010',
         nome: 'ANA CLARA DE SOUZA OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2667,7 +2850,7 @@ async function main() {
       {
         codigo: '3984013',
         nome: 'ANA VITORIA DE SOUSA OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2675,7 +2858,7 @@ async function main() {
       {
         codigo: '3984420',
         nome: 'ANDRELINA COSTA LOURENÇO GERALDES',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 9,
         password: 'senha',
@@ -2683,7 +2866,7 @@ async function main() {
       {
         codigo: '3984022',
         nome: 'ANDRÉ VINICIUS VILLABA DE SOUZA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2691,7 +2874,7 @@ async function main() {
       {
         codigo: '3984026',
         nome: 'ANTONIO GABRIEL FARIAS DE OLIVEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2699,7 +2882,7 @@ async function main() {
       {
         codigo: '3984028',
         nome: 'ARTHUR HENRICK OLIVEIRA DO NASCIMENTO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2707,7 +2890,7 @@ async function main() {
       {
         codigo: '3984031',
         nome: 'BEATRIZ CASTELLOCARVALHO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2715,7 +2898,7 @@ async function main() {
       {
         codigo: '3984040',
         nome: 'BRENNO CARLOS DE SOUZA MARTINS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -2723,7 +2906,7 @@ async function main() {
       {
         codigo: '3984041',
         nome: 'CAMILA LINHARES DE OLIVEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2731,7 +2914,7 @@ async function main() {
       {
         codigo: '3984046',
         nome: 'CARLOS VITOR DA SILVA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -2739,7 +2922,7 @@ async function main() {
       {
         codigo: '3984051',
         nome: 'CRISTINA ANDREIA LINHARES DOS SANTOS',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -2747,7 +2930,7 @@ async function main() {
       {
         codigo: '4077870',
         nome: 'EDUARDA VITORIA L. S. DOS PASSOS',
-        idade: 17,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2755,7 +2938,7 @@ async function main() {
       {
         codigo: '3984058',
         nome: 'EMILCE RODRIGUEZ VILLALBA',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 9,
         password: 'senha',
@@ -2763,7 +2946,7 @@ async function main() {
       {
         codigo: '3984060',
         nome: 'EVELLIN DA SILVA ALMEIDA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2771,7 +2954,7 @@ async function main() {
       {
         codigo: '3984062',
         nome: 'FERNANDA GABRIELLY GOMES SEREIA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2779,7 +2962,7 @@ async function main() {
       {
         codigo: '4191927',
         nome: 'GABRIEL ARAUJO RODRIGUES ANDRADE SOUZA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2787,7 +2970,7 @@ async function main() {
       {
         codigo: '3984064',
         nome: 'GABRIEL PIRES DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2795,7 +2978,7 @@ async function main() {
       {
         codigo: '3984067',
         nome: 'GABRIELA OLIVEIRA DA SILVA',
-        idade: 17,
+
         funcao: 'apoio',
         clubeId: 9,
         password: 'senha',
@@ -2803,7 +2986,7 @@ async function main() {
       {
         codigo: '3984068',
         nome: 'GABRIELA PIRES DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2811,7 +2994,7 @@ async function main() {
       {
         codigo: '3984071',
         nome: 'GABRIELLY FERNANDA PEREIRA RIBEIRO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2819,7 +3002,7 @@ async function main() {
       {
         codigo: '3984073',
         nome: 'GABRIELLY ROSA GOMES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2827,7 +3010,7 @@ async function main() {
       {
         codigo: '3984076',
         nome: 'GABRIELY DA SILVA OLIVEIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2835,7 +3018,7 @@ async function main() {
       {
         codigo: '4117648',
         nome: 'GERSON LOPES PEREIRA',
-        idade: 49,
+
         funcao: 'apoio',
         clubeId: 9,
         password: 'senha',
@@ -2843,7 +3026,7 @@ async function main() {
       {
         codigo: '3984080',
         nome: 'HELDER MAYLSON OLIVEIRA GONÇALVES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2851,7 +3034,7 @@ async function main() {
       {
         codigo: '3984084',
         nome: 'HEMANUELY CRISTINY MAGALHÃES ALVES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2859,7 +3042,7 @@ async function main() {
       {
         codigo: '3984088',
         nome: 'IGOR DE VILLABA DE SOUZA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2867,7 +3050,7 @@ async function main() {
       {
         codigo: '3984089',
         nome: 'ISABELY VITÓRIA MAGALHÃES ALVES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2875,7 +3058,7 @@ async function main() {
       {
         codigo: '3984091',
         nome: 'JANAINA DA SILVA PIMENTEL',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2883,7 +3066,7 @@ async function main() {
       {
         codigo: '3984092',
         nome: 'JAQUELINE DE OLIVEIRA ABREU',
-        idade: 32,
+
         funcao: 'apoio',
         clubeId: 9,
         password: 'senha',
@@ -2891,7 +3074,7 @@ async function main() {
       {
         codigo: '4135441',
         nome: 'JOSE CARLOS DA SILVA',
-        idade: 42,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -2899,7 +3082,7 @@ async function main() {
       {
         codigo: '3984105',
         nome: 'JULIA GABRIELLY OLIVEIRA ALMEIDA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2907,7 +3090,7 @@ async function main() {
       {
         codigo: '3984107',
         nome: 'JULIANE LOURENÇO  DE BARROS',
-        idade: 18,
+
         funcao: 'apoio',
         clubeId: 9,
         password: 'senha',
@@ -2915,7 +3098,7 @@ async function main() {
       {
         codigo: '3984108',
         nome: 'JULIER LOURENÇO  DE BARROS GERALDES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2923,7 +3106,7 @@ async function main() {
       {
         codigo: '3984111',
         nome: 'JULIO CESAR ABREU DOS SANTOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2931,7 +3114,7 @@ async function main() {
       {
         codigo: '3984112',
         nome: 'KATYLAINE AMANDA DA SILVA PARANHO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2939,7 +3122,7 @@ async function main() {
       {
         codigo: '4077881',
         nome: 'KETULI JANAY LOPES DE FREITAS',
-        idade: 21,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2947,7 +3130,7 @@ async function main() {
       {
         codigo: '3984114',
         nome: 'LAIANNE LILIAM ROSA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2955,7 +3138,7 @@ async function main() {
       {
         codigo: '3984118',
         nome: 'LUAINNY THAMMIRYS DE SOUZA DE JESUS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2963,7 +3146,7 @@ async function main() {
       {
         codigo: '3984119',
         nome: 'LUCAS NASCIMENTO SILVA',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -2971,7 +3154,7 @@ async function main() {
       {
         codigo: '3984437',
         nome: 'LUÍS HENRIQUE CARVALHO DA SILVA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -2979,7 +3162,7 @@ async function main() {
       {
         codigo: '3984120',
         nome: 'MAIKE VITOR HUGO DA SILVA LESMO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -2987,7 +3170,7 @@ async function main() {
       {
         codigo: '3984121',
         nome: 'MARIA BRASILINA DA SILVA',
-        idade: 65,
+
         funcao: 'apoio',
         clubeId: 9,
         password: 'senha',
@@ -2995,7 +3178,7 @@ async function main() {
       {
         codigo: '3984123',
         nome: 'MARIA EDUARDA FERNANDES SOUZA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -3003,7 +3186,7 @@ async function main() {
       {
         codigo: '3984124',
         nome: 'MARIANY CRISTINA DA SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -3011,7 +3194,7 @@ async function main() {
       {
         codigo: '3984126',
         nome: 'MICHAEL EDUARDO DA SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -3019,7 +3202,7 @@ async function main() {
       {
         codigo: '4192257',
         nome: 'RANYELLI MOURA MARTINS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -3027,7 +3210,7 @@ async function main() {
       {
         codigo: '3984128',
         nome: 'ROSALINA FRANCISCA DA SILVA NETA',
-        idade: 41,
+
         funcao: 'apoio',
         clubeId: 9,
         password: 'senha',
@@ -3035,7 +3218,7 @@ async function main() {
       {
         codigo: '3984130',
         nome: 'ROSANA ANDREIA LINHARES DOS SANTOS SILVA',
-        idade: 41,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -3043,7 +3226,7 @@ async function main() {
       {
         codigo: '4135433',
         nome: 'SAMANTA AMARAL DOS SANTOS',
-        idade: 23,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -3051,7 +3234,7 @@ async function main() {
       {
         codigo: '4124381',
         nome: 'SARA ANGELINI SANTOS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -3059,7 +3242,7 @@ async function main() {
       {
         codigo: '3984134',
         nome: 'SARAH SAMPAIO DOS PASSOS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 9,
         password: 'senha',
@@ -3067,7 +3250,7 @@ async function main() {
       {
         codigo: '3984137',
         nome: 'SHERMAN CAUÃ FERREIRA CARVALHO',
-        idade: 18,
+
         funcao: 'apoio',
         clubeId: 9,
         password: 'senha',
@@ -3075,7 +3258,7 @@ async function main() {
       {
         codigo: '3984136',
         nome: 'STEFANY KAMILY DE SOUSA OLIVEIRA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -3083,7 +3266,7 @@ async function main() {
       {
         codigo: '4135446',
         nome: 'WANDERSON DOS SANTOS',
-        idade: 24,
+
         funcao: 'apoio',
         clubeId: 9,
         password: 'senha',
@@ -3091,7 +3274,7 @@ async function main() {
       {
         codigo: '3984139',
         nome: 'WICTORIA LETTICIA PEREIRA RIBEIRO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 9,
         password: 'senha',
@@ -3099,7 +3282,7 @@ async function main() {
       {
         codigo: '4071245',
         nome: 'ADRIANA LUCIA LEITE DE M. CATANILLA',
-        idade: 41,
+
         funcao: 'apoio',
         clubeId: 10,
         password: 'senha',
@@ -3107,7 +3290,7 @@ async function main() {
       {
         codigo: '4185807',
         nome: 'ADRIANE SCHWARZ SANTOS SERRA',
-        idade: 49,
+
         funcao: 'apoio',
         clubeId: 10,
         password: 'senha',
@@ -3115,7 +3298,7 @@ async function main() {
       {
         codigo: '4142315',
         nome: 'ADRYAN GABRIEL FIGUEIREDO DE PAULA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3123,7 +3306,7 @@ async function main() {
       {
         codigo: '4071175',
         nome: 'ANDREW RUGGERI MARAGNO SILVA WIERZLER',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3131,7 +3314,7 @@ async function main() {
       {
         codigo: '4071196',
         nome: 'BRENDA LAYNARA ROCHA CATANILLA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3139,7 +3322,7 @@ async function main() {
       {
         codigo: '4142316',
         nome: 'DAVI VILHA SOUZA MELO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3147,7 +3330,7 @@ async function main() {
       {
         codigo: '4071177',
         nome: 'DIEGO CATANILLA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3155,7 +3338,7 @@ async function main() {
       {
         codigo: '4071229',
         nome: 'EMANUELLY MARTINS DALPIAZ',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3163,7 +3346,7 @@ async function main() {
       {
         codigo: '4071221',
         nome: 'ENZO EMMANUEL DE OLIVEIRA FIGUEIREDO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3171,7 +3354,7 @@ async function main() {
       {
         codigo: '4071241',
         nome: 'ESTHER SILVA MARTINS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3179,7 +3362,7 @@ async function main() {
       {
         codigo: '4142157',
         nome: 'FERNANDA CATANILLA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3187,7 +3370,7 @@ async function main() {
       {
         codigo: '4071233',
         nome: 'GABRIELA DE MORAES SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3195,7 +3378,7 @@ async function main() {
       {
         codigo: '4071249',
         nome: 'GABRIELA ORDONEZ MELO CATANILLA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3203,7 +3386,7 @@ async function main() {
       {
         codigo: '4148794',
         nome: 'GUILHERME HENRIQUE PEREIRA DE MELO SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3211,7 +3394,7 @@ async function main() {
       {
         codigo: '4071173',
         nome: 'GUILHERME HENRIQUE PIRONI MENDONÇA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3219,7 +3402,7 @@ async function main() {
       {
         codigo: '4148351',
         nome: 'GUILHERME LEVY ANDRADE DOS SANTOS FLORENTINO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3227,7 +3410,7 @@ async function main() {
       {
         codigo: '4071214',
         nome: 'HAGATHA ANDROMEDA CARIOCA DE ARRUDA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3235,7 +3418,7 @@ async function main() {
       {
         codigo: '4071226',
         nome: 'IEDA MARIA SANTANA DE MORÂES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3243,7 +3426,7 @@ async function main() {
       {
         codigo: '4071209',
         nome: 'ISABELI CRISTINA SANTANA DE MORAIS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3251,7 +3434,7 @@ async function main() {
       {
         codigo: '4202048',
         nome: 'ISABELLA PEREIRA LOBATO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3259,7 +3442,7 @@ async function main() {
       {
         codigo: '4071225',
         nome: 'ISABELLY FERNANDES LIRA COSTA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3267,7 +3450,7 @@ async function main() {
       {
         codigo: '4071170',
         nome: 'JESSYKA DE ABREU MIRANDA',
-        idade: 28,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3275,7 +3458,7 @@ async function main() {
       {
         codigo: '4071211',
         nome: 'JOSUEL RODRIGUES JUNIOR',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3283,7 +3466,7 @@ async function main() {
       {
         codigo: '4071224',
         nome: 'JULIANA FLORENTINO CATANILLA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3291,7 +3474,7 @@ async function main() {
       {
         codigo: '4071243',
         nome: 'KAUANY NAIARA DE LIMA FERNANDES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3299,7 +3482,7 @@ async function main() {
       {
         codigo: '4202050',
         nome: 'LAURA LETICIA PEREIRA LOBATO',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3307,7 +3490,7 @@ async function main() {
       {
         codigo: '4185811',
         nome: 'LEANDRO MONTEIRO DA SILVA',
-        idade: 28,
+
         funcao: 'apoio',
         clubeId: 10,
         password: 'senha',
@@ -3315,7 +3498,7 @@ async function main() {
       {
         codigo: '4071222',
         nome: 'LEONIDAS FLAVIO SILVA SOUZA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3323,7 +3506,7 @@ async function main() {
       {
         codigo: '4185812',
         nome: 'LETICIA CRISTINA DE AZEVEDO SOUZA',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3331,7 +3514,7 @@ async function main() {
       {
         codigo: '4142215',
         nome: 'LUIZ GUSTAVO DA SILVA TAQUES DE ALBUQUERQUE',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3339,7 +3522,7 @@ async function main() {
       {
         codigo: '4071239',
         nome: 'MIGUEL ARISTON ETGES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3347,7 +3530,7 @@ async function main() {
       {
         codigo: '4148668',
         nome: 'MIGUEL MENDONÇA RIBEIRO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3355,7 +3538,7 @@ async function main() {
       {
         codigo: '4148318',
         nome: 'PEDRO ENZO DE SOUZA MELO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3363,7 +3546,7 @@ async function main() {
       {
         codigo: '4185819',
         nome: 'PEDRO HENRIQUE P. MENDONÇA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3371,7 +3554,7 @@ async function main() {
       {
         codigo: '4071193',
         nome: 'RAFAELA DE SOUZA DA SILVA MORAES',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3379,7 +3562,7 @@ async function main() {
       {
         codigo: '4071212',
         nome: 'REBEKA SIANE OELKE PEREIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3387,7 +3570,7 @@ async function main() {
       {
         codigo: '4071172',
         nome: 'THIAGO THARCIO SANTOS SERRA',
-        idade: 23,
+
         funcao: 'diretoria',
         clubeId: 10,
         password: 'senha',
@@ -3395,7 +3578,7 @@ async function main() {
       {
         codigo: '4142237',
         nome: 'VALENTINA DO AMARAL GUIMARÃES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 10,
         password: 'senha',
@@ -3403,7 +3586,7 @@ async function main() {
       {
         codigo: '4187426',
         nome: 'ADÃO NERIS DA SILVA',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3411,7 +3594,7 @@ async function main() {
       {
         codigo: '3979482',
         nome: 'ALESSANDRE MAGNO B. COIMBRA',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3419,7 +3602,7 @@ async function main() {
       {
         codigo: '3979483',
         nome: 'ALESSANDRO MURTHA BRANDAO SANTOS FILHO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3427,7 +3610,7 @@ async function main() {
       {
         codigo: '3979484',
         nome: 'ALESSANDRO MURTHA BRANDÃO SANTOS',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3435,7 +3618,7 @@ async function main() {
       {
         codigo: '3979486',
         nome: 'AMANDA CARLA DOS SANTOS DA CRUZ',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3443,7 +3626,7 @@ async function main() {
       {
         codigo: '3979487',
         nome: 'ANA LUISA SANTOS DA CRUZ',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3451,7 +3634,7 @@ async function main() {
       {
         codigo: '3979489',
         nome: 'APARECIDA FREITAS DOS SANTOS',
-        idade: 57,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3459,7 +3642,7 @@ async function main() {
       {
         codigo: '3979491',
         nome: 'ARTHUR FRANCESCHI DE CAMPOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3467,7 +3650,7 @@ async function main() {
       {
         codigo: '3979493',
         nome: 'ARTHUR MARCOS BALDO FERES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3475,7 +3658,7 @@ async function main() {
       {
         codigo: '3979494',
         nome: 'BEATRIZ GUILHERME GOVEIA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3483,7 +3666,7 @@ async function main() {
       {
         codigo: '3979496',
         nome: 'BEATRIZ SOARES DA SILVA',
-        idade: 16,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3491,7 +3674,7 @@ async function main() {
       {
         codigo: '3979500',
         nome: 'BRAIAN MORAES DE CAMPOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3499,7 +3682,7 @@ async function main() {
       {
         codigo: '3979504',
         nome: 'CARL BERNY PATRICK BIEN AIME',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3507,7 +3690,7 @@ async function main() {
       {
         codigo: '3979508',
         nome: 'CESAR CAMPOS OLIVEIRA',
-        idade: 40,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3515,7 +3698,7 @@ async function main() {
       {
         codigo: '3979511',
         nome: 'DAVI DOS SANTOS GRIGOLO',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3523,7 +3706,7 @@ async function main() {
       {
         codigo: '3979512',
         nome: 'DEBORA LOURDES DOS SANTOS DA CRUZ',
-        idade: 44,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3531,7 +3714,7 @@ async function main() {
       {
         codigo: '3979513',
         nome: 'EDSON FERREIRA DA CRUZ',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3539,7 +3722,7 @@ async function main() {
       {
         codigo: '3979515',
         nome: 'EDUARDO NUNES PAULINO BRITO',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3547,7 +3730,7 @@ async function main() {
       {
         codigo: '4193011',
         nome: 'ELAINE CRISTINA DE PAULA BALDO FERES',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3555,7 +3738,7 @@ async function main() {
       {
         codigo: '3979517',
         nome: 'ELLEN BETÂNIA CORREIA DOURADO',
-        idade: 41,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3563,7 +3746,7 @@ async function main() {
       {
         codigo: '3979519',
         nome: 'ELOIZA MARTINS DIAS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3571,7 +3754,7 @@ async function main() {
       {
         codigo: '3979520',
         nome: 'EMANUEL ZAIDEN DE OLIVEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3579,7 +3762,7 @@ async function main() {
       {
         codigo: '3979522',
         nome: 'GABRIEL ALBERTONI ROMERA',
-        idade: 17,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3587,7 +3770,7 @@ async function main() {
       {
         codigo: '3979524',
         nome: 'GABRIEL ALLEN ALVES OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3595,7 +3778,7 @@ async function main() {
       {
         codigo: '3979526',
         nome: 'GABRIEL CAMARGO HENRIQUE',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3603,7 +3786,7 @@ async function main() {
       {
         codigo: '3979528',
         nome: 'GABRIELLY CLAIR SOUSA MACHADO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3611,7 +3794,7 @@ async function main() {
       {
         codigo: '3979529',
         nome: 'GIOVANA DE CESARO RANGEL BERÇA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3619,7 +3802,7 @@ async function main() {
       {
         codigo: '3984048',
         nome: 'GIOVANI AZEVEDO SANTIAGO',
-        idade: 46,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3627,7 +3810,7 @@ async function main() {
       {
         codigo: '3979530',
         nome: 'GUILHERME DE MORAES VICTAL',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3635,7 +3818,7 @@ async function main() {
       {
         codigo: '4193148',
         nome: 'GUILHERME HENRIQUE NOGUEIRA DA SILVA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3643,7 +3826,7 @@ async function main() {
       {
         codigo: '3979532',
         nome: 'GUILHERME SANTIAGO DE MOURA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3651,7 +3834,7 @@ async function main() {
       {
         codigo: '3979534',
         nome: 'GUILHERME ZUMACH DOS SANTOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3659,7 +3842,7 @@ async function main() {
       {
         codigo: '3979536',
         nome: 'GUSTAVO DA SILVA FIGUEIREDO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3667,7 +3850,7 @@ async function main() {
       {
         codigo: '3979538',
         nome: 'HELOIZA GEANE DE A. CAMARGO HENRIQUE',
-        idade: 47,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3675,7 +3858,7 @@ async function main() {
       {
         codigo: '3979540',
         nome: 'HENRIQUE PIRES MATZEMBACHER',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3683,7 +3866,7 @@ async function main() {
       {
         codigo: '3979543',
         nome: 'ISABELLA OLIVEIRA DAMACENO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3691,7 +3874,7 @@ async function main() {
       {
         codigo: '3979544',
         nome: 'ISABELLI NASCIMENTO LIMA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3699,7 +3882,7 @@ async function main() {
       {
         codigo: '4070124',
         nome: 'ISABELLI VITÓRIA SALDANHA PEREIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3707,7 +3890,7 @@ async function main() {
       {
         codigo: '3979545',
         nome: 'ISAQUE YURI RODRIGUES SIMEÃO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3715,7 +3898,7 @@ async function main() {
       {
         codigo: '3979547',
         nome: 'JACSON FAVRETTO',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3723,7 +3906,7 @@ async function main() {
       {
         codigo: '3979549',
         nome: 'JOÃO PEDRO DE MENEZES MORAIS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3731,7 +3914,7 @@ async function main() {
       {
         codigo: '3979550',
         nome: 'JOÃO VICTOR ZAIDEN DE OLIVEIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3739,7 +3922,7 @@ async function main() {
       {
         codigo: '3979552',
         nome: 'JULIA BHYANKA BATISTA CAMARGO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3747,7 +3930,7 @@ async function main() {
       {
         codigo: '3979553',
         nome: 'JULIANA DAMASYA FERREIRA XAVIER',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3755,7 +3938,7 @@ async function main() {
       {
         codigo: '3979554',
         nome: 'JUSCELIO DA SILVA MORAIS',
-        idade: 46,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3763,7 +3946,7 @@ async function main() {
       {
         codigo: '3979555',
         nome: 'KAYKE SAMUEL DOS SANTOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3771,7 +3954,7 @@ async function main() {
       {
         codigo: '3979557',
         nome: 'LARA NUNES PAULINO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3779,7 +3962,7 @@ async function main() {
       {
         codigo: '4193031',
         nome: 'LARISSA SOUZA BALDO',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3787,7 +3970,7 @@ async function main() {
       {
         codigo: '4193154',
         nome: 'LARYANNE MACIEL ALBERTONI.',
-        idade: 26,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3795,7 +3978,7 @@ async function main() {
       {
         codigo: '3979561',
         nome: 'MARIA CLARA DOS SANTOS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3803,7 +3986,7 @@ async function main() {
       {
         codigo: '4193029',
         nome: 'MARIA EDUARDA PEREIRA SOUZA BALDO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3811,7 +3994,7 @@ async function main() {
       {
         codigo: '3979563',
         nome: 'MARIA FERNANDA CRISTAL SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3819,7 +4002,7 @@ async function main() {
       {
         codigo: '3979565',
         nome: 'MARIA GABRIELA PROCOPIOU ALENCAR',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3827,7 +4010,7 @@ async function main() {
       {
         codigo: '3979566',
         nome: 'MARIA JÚLIA SANTOS DA CRUZ',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3835,7 +4018,7 @@ async function main() {
       {
         codigo: '3979568',
         nome: 'MARIA RITA GONTIJO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3843,7 +4026,7 @@ async function main() {
       {
         codigo: '3997335',
         nome: 'MARILAINE ROSSETTI FAVRETTO',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3851,7 +4034,7 @@ async function main() {
       {
         codigo: '3979572',
         nome: 'MARISA MEIRA DE SOUZA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3859,7 +4042,7 @@ async function main() {
       {
         codigo: '3979573',
         nome: 'MAYANA VALTENTIM',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3867,7 +4050,7 @@ async function main() {
       {
         codigo: '3979575',
         nome: 'MAYCON ALBERTONI ROMERA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3875,7 +4058,7 @@ async function main() {
       {
         codigo: '3979577',
         nome: 'MIGUEL ÂNGELO VIANA',
-        idade: 48,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3883,7 +4066,7 @@ async function main() {
       {
         codigo: '3979578',
         nome: 'MISAEL DA SILVA HENRIQUE',
-        idade: 46,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3891,7 +4074,7 @@ async function main() {
       {
         codigo: '3979579',
         nome: 'MURILLO CARDOSO TEIXEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3899,7 +4082,7 @@ async function main() {
       {
         codigo: '3979580',
         nome: 'NATHALIA BEATRIZ SILVA DE SOUZA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3907,7 +4090,7 @@ async function main() {
       {
         codigo: '4204570',
         nome: 'NATHALLY GABRIELI RODRIGUES',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3915,7 +4098,7 @@ async function main() {
       {
         codigo: '3979581',
         nome: 'NICOLAS GUILHERME DA SILVA MORAES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3923,7 +4106,7 @@ async function main() {
       {
         codigo: '4187428',
         nome: 'OBEDE RUFINO DE SOUZA',
-        idade: 49,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3931,7 +4114,7 @@ async function main() {
       {
         codigo: '3979585',
         nome: 'PYETRO RAYTER CAMPOS PEREIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3939,7 +4122,7 @@ async function main() {
       {
         codigo: '3979583',
         nome: 'PÂMELLA TODELO PROCOPIOU ALENCAR',
-        idade: 35,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3947,7 +4130,7 @@ async function main() {
       {
         codigo: '3979589',
         nome: 'RAFAELA CORREIA DOURADO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3955,7 +4138,7 @@ async function main() {
       {
         codigo: '3979591',
         nome: 'RAFAELA SOUSA ALVES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -3963,7 +4146,7 @@ async function main() {
       {
         codigo: '3979592',
         nome: 'RAYSSA ARAUJO SOUZA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -3971,7 +4154,7 @@ async function main() {
       {
         codigo: '4185380',
         nome: 'RITA FERREIRA GONÇALVES',
-        idade: 51,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3979,7 +4162,7 @@ async function main() {
       {
         codigo: '4191736',
         nome: 'ROSIMEIRE ROCHA DA GAMA TAVARES DA SILVA',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3987,7 +4170,7 @@ async function main() {
       {
         codigo: '3986442',
         nome: 'ROSIVANE LIMA DOS SANTOS VIANA',
-        idade: 46,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -3995,7 +4178,7 @@ async function main() {
       {
         codigo: '4185502',
         nome: 'SALETE ANDRESSA PIRES RUFINO',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -4003,7 +4186,7 @@ async function main() {
       {
         codigo: '3979596',
         nome: 'SARAH PINHEIRO LOPES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -4011,7 +4194,7 @@ async function main() {
       {
         codigo: '3979603',
         nome: 'SIMEIA SILVEIRA DE MORAES VICTAL',
-        idade: 45,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -4019,7 +4202,7 @@ async function main() {
       {
         codigo: '3979607',
         nome: 'SOPHIA VITÓRIA PEREIRA MATOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -4027,7 +4210,7 @@ async function main() {
       {
         codigo: '3979608',
         nome: 'STEFANY VITÓRIA PEREIRA MATOS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -4035,7 +4218,7 @@ async function main() {
       {
         codigo: '3984045',
         nome: 'SÉRGIO FAVRETTO',
-        idade: 51,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -4043,7 +4226,7 @@ async function main() {
       {
         codigo: '3979498',
         nome: 'VALDETE FERREIRA DE MORAES',
-        idade: 50,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -4051,7 +4234,7 @@ async function main() {
       {
         codigo: '3979611',
         nome: 'VALENTINA PROCOPIOU ALENCAR',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -4059,7 +4242,7 @@ async function main() {
       {
         codigo: '3979614',
         nome: 'VICENTE DE CESARO BERÇA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -4067,7 +4250,7 @@ async function main() {
       {
         codigo: '4185356',
         nome: 'WELLINGTON DA SILVA VICTAL',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 11,
         password: 'senha',
@@ -4075,7 +4258,7 @@ async function main() {
       {
         codigo: '3979617',
         nome: 'WILLIAM DE MORAES VICTAL',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -4083,7 +4266,7 @@ async function main() {
       {
         codigo: '3979619',
         nome: 'WITTOR ALEXANDRE GONÇALVES ARAUJO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 11,
         password: 'senha',
@@ -4091,7 +4274,7 @@ async function main() {
       {
         codigo: '3979734',
         nome: 'YASMIM PAULA BALDO FERES',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -4099,7 +4282,7 @@ async function main() {
       {
         codigo: '4193028',
         nome: 'YASMIN EMMILLY ALVES DE SOUZA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 11,
         password: 'senha',
@@ -4107,7 +4290,7 @@ async function main() {
       {
         codigo: '4088654',
         nome: 'ALEXANDRE FERNANDES CUNHA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4115,7 +4298,7 @@ async function main() {
       {
         codigo: '4088655',
         nome: 'ANNE KAROLLYNE RIBEIRO DE MELO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4123,7 +4306,7 @@ async function main() {
       {
         codigo: '4088656',
         nome: 'CATIELLI LOPES DA SILVA',
-        idade: 29,
+
         funcao: 'apoio',
         clubeId: 12,
         password: 'senha',
@@ -4131,7 +4314,7 @@ async function main() {
       {
         codigo: '4088658',
         nome: 'CRISTIANO FERNANDES MARTINS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4139,7 +4322,7 @@ async function main() {
       {
         codigo: '4088659',
         nome: 'DANIEL RODRIGUES FONSECA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4147,7 +4330,7 @@ async function main() {
       {
         codigo: '4088722',
         nome: 'EDUARDO RANZOLIN DAMASCENA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4155,7 +4338,7 @@ async function main() {
       {
         codigo: '4088732',
         nome: 'ELIANA TAVARES DA CUNHA',
-        idade: 40,
+
         funcao: 'apoio',
         clubeId: 12,
         password: 'senha',
@@ -4163,7 +4346,7 @@ async function main() {
       {
         codigo: '4088725',
         nome: 'ELOA RUTH DANTAS EVANGELISTA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4171,7 +4354,7 @@ async function main() {
       {
         codigo: '4088663',
         nome: 'EMILY TEREZINHA MACHADO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4179,7 +4362,7 @@ async function main() {
       {
         codigo: '4088665',
         nome: 'EMILYE MARIANA DANTAS EVANGELISTAS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4187,7 +4370,7 @@ async function main() {
       {
         codigo: '4088667',
         nome: 'ESTEFANY SILVA RIBEIRO',
-        idade: 17,
+
         funcao: 'apoio',
         clubeId: 12,
         password: 'senha',
@@ -4195,7 +4378,7 @@ async function main() {
       {
         codigo: '4088668',
         nome: 'GABRIEL DE OLIVEIRA CUNHA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4203,7 +4386,7 @@ async function main() {
       {
         codigo: '4088671',
         nome: 'INÊS DE SOUZA TORRES',
-        idade: 23,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4211,7 +4394,7 @@ async function main() {
       {
         codigo: '4204557',
         nome: 'ISADORA CIRILO DOS SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4219,7 +4402,7 @@ async function main() {
       {
         codigo: '4088727',
         nome: 'JOSUÉ DE SOUZA TORRES',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4227,7 +4410,7 @@ async function main() {
       {
         codigo: '4088674',
         nome: 'JUAREZ PEREIRA LIMA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4235,7 +4418,7 @@ async function main() {
       {
         codigo: '4204566',
         nome: 'JULIO  LEOPOLDINO CESAR MACIEL',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4243,7 +4426,7 @@ async function main() {
       {
         codigo: '4088677',
         nome: 'JÉSSICA ABREU RODRIGUES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4251,7 +4434,7 @@ async function main() {
       {
         codigo: '4088673',
         nome: 'KAINE SANTOS ASSUNÇÃO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4259,7 +4442,7 @@ async function main() {
       {
         codigo: '4088679',
         nome: 'KARINY RODRIGUES DA PENHA',
-        idade: 19,
+
         funcao: 'apoio',
         clubeId: 12,
         password: 'senha',
@@ -4267,7 +4450,7 @@ async function main() {
       {
         codigo: '4088680',
         nome: 'LAVINIA MAVEL DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4275,7 +4458,7 @@ async function main() {
       {
         codigo: '4088682',
         nome: 'LUANA SILVA DE MORAIS',
-        idade: 25,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4283,7 +4466,7 @@ async function main() {
       {
         codigo: '4088686',
         nome: 'MARIA LURDES XIMENDES BRITO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4291,7 +4474,7 @@ async function main() {
       {
         codigo: '4088687',
         nome: 'MARIO NUNES DE LIMA',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4299,7 +4482,7 @@ async function main() {
       {
         codigo: '4088689',
         nome: 'MATHEUS DIAS DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4307,7 +4490,7 @@ async function main() {
       {
         codigo: '4088690',
         nome: 'MONICA MATOS SOUSA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4315,7 +4498,7 @@ async function main() {
       {
         codigo: '4088692',
         nome: 'NAYLLA SISNANDES DA SILVA KILIM',
-        idade: 28,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4323,7 +4506,7 @@ async function main() {
       {
         codigo: '4088724',
         nome: 'NICOLAS DANIEL RANZOLIN',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4331,7 +4514,7 @@ async function main() {
       {
         codigo: '4088696',
         nome: 'PAMELA PEREIRA GOMES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4339,7 +4522,7 @@ async function main() {
       {
         codigo: '4088698',
         nome: 'PAULA DO NASCIMENTO TORRES',
-        idade: 25,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4347,7 +4530,7 @@ async function main() {
       {
         codigo: '4088699',
         nome: 'RAYANE XIMENDES BRITO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4355,7 +4538,7 @@ async function main() {
       {
         codigo: '4088729',
         nome: 'RENETON MORAIS SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4363,7 +4546,7 @@ async function main() {
       {
         codigo: '4088701',
         nome: 'RICARDO FELICIO MOREIRA',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4371,7 +4554,7 @@ async function main() {
       {
         codigo: '4088703',
         nome: 'RODRIGO PIRES ABREU',
-        idade: 28,
+
         funcao: 'apoio',
         clubeId: 12,
         password: 'senha',
@@ -4379,7 +4562,7 @@ async function main() {
       {
         codigo: '4088704',
         nome: 'RONALDO LIMA DA SILVA',
-        idade: 31,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4387,7 +4570,7 @@ async function main() {
       {
         codigo: '4088706',
         nome: 'RUTE TORRES LIMA',
-        idade: 20,
+
         funcao: 'apoio',
         clubeId: 12,
         password: 'senha',
@@ -4395,7 +4578,7 @@ async function main() {
       {
         codigo: '4088710',
         nome: 'SHIRLEY MIRIELY DA SILVA MENESES',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4403,7 +4586,7 @@ async function main() {
       {
         codigo: '4088711',
         nome: 'TAMIRES SILVA RIBEIRO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4411,7 +4594,7 @@ async function main() {
       {
         codigo: '4088714',
         nome: 'THALLYTA SILVA OLIVEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4419,7 +4602,7 @@ async function main() {
       {
         codigo: '4088716',
         nome: 'WANDERSON DOS SANTOS PINTO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 12,
         password: 'senha',
@@ -4427,7 +4610,7 @@ async function main() {
       {
         codigo: '4088718',
         nome: 'WEMERSON AMERICO DA SILVA',
-        idade: 26,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4435,7 +4618,7 @@ async function main() {
       {
         codigo: '4204567',
         nome: 'WEQUISON ANDRÉ',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 12,
         password: 'senha',
@@ -4443,7 +4626,7 @@ async function main() {
       {
         codigo: '4033376',
         nome: 'ANA PAULA CARNEIRO LEITE',
-        idade: 33,
+
         funcao: 'diretoria',
         clubeId: 13,
         password: 'senha',
@@ -4451,7 +4634,7 @@ async function main() {
       {
         codigo: '4033464',
         nome: 'ANA VITORIA LEITE DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4459,7 +4642,7 @@ async function main() {
       {
         codigo: '4033407',
         nome: 'ANNY VITORIA SILVA OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4467,7 +4650,7 @@ async function main() {
       {
         codigo: '4204450',
         nome: 'BRUNO TEIXEIRA DOS SANTOS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4475,7 +4658,7 @@ async function main() {
       {
         codigo: '4203985',
         nome: 'CARLOS AUGUSTO MACEDO ARAUJO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 13,
         password: 'senha',
@@ -4483,7 +4666,7 @@ async function main() {
       {
         codigo: '4033382',
         nome: 'DIOLINDA NUNES  GARCIA',
-        idade: 52,
+
         funcao: 'diretoria',
         clubeId: 13,
         password: 'senha',
@@ -4491,7 +4674,7 @@ async function main() {
       {
         codigo: '4033417',
         nome: 'EDUARDO SILVA LEITE',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4499,7 +4682,7 @@ async function main() {
       {
         codigo: '4033378',
         nome: 'EZIO PEREIRA GARCIA',
-        idade: 50,
+
         funcao: 'diretoria',
         clubeId: 13,
         password: 'senha',
@@ -4507,7 +4690,7 @@ async function main() {
       {
         codigo: '4033428',
         nome: 'FERNANDO SILVA LEITE ^',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4515,7 +4698,7 @@ async function main() {
       {
         codigo: '4154604',
         nome: 'FRANCISCA VANUSA COSTA ARAÚJO',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 13,
         password: 'senha',
@@ -4523,7 +4706,7 @@ async function main() {
       {
         codigo: '4033434',
         nome: 'GUILHERME CARVALHO DE OLIVEIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4531,7 +4714,7 @@ async function main() {
       {
         codigo: '4033458',
         nome: 'IHAN LUCAS MORAIS DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4539,7 +4722,7 @@ async function main() {
       {
         codigo: '4033404',
         nome: 'KAUAN TEIXEIRA DOS SANTOS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 13,
         password: 'senha',
@@ -4547,7 +4730,7 @@ async function main() {
       {
         codigo: '4033439',
         nome: 'LUIS FELLYPE GONÇALVES FREITAS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4555,7 +4738,7 @@ async function main() {
       {
         codigo: '4067806',
         nome: 'MARIA LUZENILDE DOS SANTOS MORAIS',
-        idade: 49,
+
         funcao: 'diretoria',
         clubeId: 13,
         password: 'senha',
@@ -4563,7 +4746,7 @@ async function main() {
       {
         codigo: '4033387',
         nome: 'MARILEIDE DOS ANJOS SANTOS',
-        idade: 28,
+
         funcao: 'diretoria',
         clubeId: 13,
         password: 'senha',
@@ -4571,7 +4754,7 @@ async function main() {
       {
         codigo: '4033441',
         nome: 'PAMELA ARAUJO DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4579,7 +4762,7 @@ async function main() {
       {
         codigo: '4033442',
         nome: 'PEDRO LUCAS DE SOUSA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4587,7 +4770,7 @@ async function main() {
       {
         codigo: '4196994',
         nome: 'REGINALDO RODRIGUIS SANTOS',
-        idade: 24,
+
         funcao: 'apoio',
         clubeId: 13,
         password: 'senha',
@@ -4595,7 +4778,7 @@ async function main() {
       {
         codigo: '4154470',
         nome: 'SARAH SANTOS BARROS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4603,7 +4786,7 @@ async function main() {
       {
         codigo: '4133104',
         nome: 'VERA LUCIA PEREIRA DA SILVA',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 13,
         password: 'senha',
@@ -4611,7 +4794,7 @@ async function main() {
       {
         codigo: '4033396',
         nome: 'WALANDY NUNES REIS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 13,
         password: 'senha',
@@ -4619,7 +4802,7 @@ async function main() {
       {
         codigo: '4033444',
         nome: 'WALLANNA MIRLAINY NUNES REIS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 13,
         password: 'senha',
@@ -4627,7 +4810,7 @@ async function main() {
       {
         codigo: '4201179',
         nome: 'ARIEL RODRIGUES DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4635,7 +4818,7 @@ async function main() {
       {
         codigo: '4201253',
         nome: 'ARYELLA RODRIGUES DOS SANTOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4643,7 +4826,7 @@ async function main() {
       {
         codigo: '4203673',
         nome: 'CAMILA BORGES DE OLIVEIRA',
-        idade: 26,
+
         funcao: 'apoio',
         clubeId: 14,
         password: 'senha',
@@ -4651,7 +4834,7 @@ async function main() {
       {
         codigo: '4204699',
         nome: 'CARLOS HENRIQUE DIAS DA SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 14,
         password: 'senha',
@@ -4659,7 +4842,7 @@ async function main() {
       {
         codigo: '4201207',
         nome: 'DAVI SILVA SANTOS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4667,7 +4850,7 @@ async function main() {
       {
         codigo: '4201258',
         nome: 'ELYAN ALVES ANDRADE',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4675,7 +4858,7 @@ async function main() {
       {
         codigo: '4204685',
         nome: 'EVA DIAS DAMASCENO DA SILVA',
-        idade: 54,
+
         funcao: 'apoio',
         clubeId: 14,
         password: 'senha',
@@ -4683,7 +4866,7 @@ async function main() {
       {
         codigo: '4201255',
         nome: 'FELIPE LOPES BARBOSA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4691,7 +4874,7 @@ async function main() {
       {
         codigo: '4204714',
         nome: 'GABRIELE SOUSA DE ARAÚJO',
-        idade: 23,
+
         funcao: 'diretoria',
         clubeId: 14,
         password: 'senha',
@@ -4699,7 +4882,7 @@ async function main() {
       {
         codigo: '4201234',
         nome: 'ISA MIKAELLI FERREIRA GALVÃO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4707,7 +4890,7 @@ async function main() {
       {
         codigo: '4204690',
         nome: 'ISABELLI RODRIGUES DOS SANTOS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 14,
         password: 'senha',
@@ -4715,7 +4898,7 @@ async function main() {
       {
         codigo: '4201251',
         nome: 'ISADORA LOPES DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4723,7 +4906,7 @@ async function main() {
       {
         codigo: '4201215',
         nome: 'LETICIA VIEIRA SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4731,7 +4914,7 @@ async function main() {
       {
         codigo: '4204687',
         nome: 'MARIA EDUARDA FREITAS DE OLIVEIRA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 14,
         password: 'senha',
@@ -4739,7 +4922,7 @@ async function main() {
       {
         codigo: '4201230',
         nome: 'MARIA EDUARDA PINHEIRO NOVAES RAYMUNDO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4747,7 +4930,7 @@ async function main() {
       {
         codigo: '4201217',
         nome: 'MATHEUS HENRICKY LOPES DA SILVA',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 14,
         password: 'senha',
@@ -4755,7 +4938,7 @@ async function main() {
       {
         codigo: '4204717',
         nome: 'PYETRO LOPES PEREIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4763,7 +4946,7 @@ async function main() {
       {
         codigo: '4204691',
         nome: 'RICARDO DA COSTA ALVES',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 14,
         password: 'senha',
@@ -4771,7 +4954,7 @@ async function main() {
       {
         codigo: '4204689',
         nome: 'SANDRA REGINA MARTINS SANTOS',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 14,
         password: 'senha',
@@ -4779,7 +4962,7 @@ async function main() {
       {
         codigo: '4201792',
         nome: 'WENDEL DAVI FREITAS DE OLIVEIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4787,7 +4970,7 @@ async function main() {
       {
         codigo: '4201793',
         nome: 'WESLEY FREITAS DE OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 14,
         password: 'senha',
@@ -4795,7 +4978,7 @@ async function main() {
       {
         codigo: '4201795',
         nome: 'WILLEY FREITAS DE OLIVEIRA',
-        idade: 21,
+
         funcao: 'apoio',
         clubeId: 14,
         password: 'senha',
@@ -4803,7 +4986,7 @@ async function main() {
       {
         codigo: '4134316',
         nome: 'ANTONIO VILMAR DE LARA',
-        idade: 47,
+
         funcao: 'diretoria',
         clubeId: 15,
         password: 'senha',
@@ -4811,7 +4994,7 @@ async function main() {
       {
         codigo: '4134313',
         nome: 'ARTHUR ANTONIO BORGES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4819,7 +5002,7 @@ async function main() {
       {
         codigo: '4204121',
         nome: 'CRISTINA VIEIRA DA CONCEIÇÃO',
-        idade: 60,
+
         funcao: 'apoio',
         clubeId: 15,
         password: 'senha',
@@ -4827,7 +5010,7 @@ async function main() {
       {
         codigo: '4204067',
         nome: 'ELOA RIBEIRO DE BASTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4835,7 +5018,7 @@ async function main() {
       {
         codigo: '4134327',
         nome: 'ELOYZA GONÇALVES OLIVEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4843,7 +5026,7 @@ async function main() {
       {
         codigo: '4204069',
         nome: 'EMLLI VITORIA ANTONIO PIRES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4851,7 +5034,7 @@ async function main() {
       {
         codigo: '4134329',
         nome: 'GABRIEL DOS SANTOS ALMEIDA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4859,7 +5042,7 @@ async function main() {
       {
         codigo: '4134333',
         nome: 'GABRIELLEN FERREIRA MARGUES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4867,7 +5050,7 @@ async function main() {
       {
         codigo: '4204123',
         nome: 'GLINRAULLE TOMOPTSE XAVANTE',
-        idade: 18,
+
         funcao: 'apoio',
         clubeId: 15,
         password: 'senha',
@@ -4875,7 +5058,7 @@ async function main() {
       {
         codigo: '4134342',
         nome: 'HEITOR TAYLLOR SILVA ALVES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4883,7 +5066,7 @@ async function main() {
       {
         codigo: '4134338',
         nome: 'INES ANTONIA RODRIGUES BATISTA',
-        idade: 57,
+
         funcao: 'diretoria',
         clubeId: 15,
         password: 'senha',
@@ -4891,7 +5074,7 @@ async function main() {
       {
         codigo: '4134344',
         nome: 'JALES DE SOUZA SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4899,7 +5082,7 @@ async function main() {
       {
         codigo: '4204070',
         nome: 'JORGE VARIAS CORREAS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4907,7 +5090,7 @@ async function main() {
       {
         codigo: '4134347',
         nome: 'LARA GABRIELLY LIMA LUZ',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4915,7 +5098,7 @@ async function main() {
       {
         codigo: '4204127',
         nome: 'LAZARO BUTSE TSIRUIPI XAVANTE',
-        idade: 19,
+
         funcao: 'apoio',
         clubeId: 15,
         password: 'senha',
@@ -4923,7 +5106,7 @@ async function main() {
       {
         codigo: '4134356',
         nome: 'LUCAS LIMA VIEIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4931,7 +5114,7 @@ async function main() {
       {
         codigo: '4204071',
         nome: 'MICAEL FERNANDO FERRAZ',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4939,7 +5122,7 @@ async function main() {
       {
         codigo: '4204125',
         nome: 'MOISES TSERE WAWA RAPUDZA NE XAVANTE',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 15,
         password: 'senha',
@@ -4947,7 +5130,7 @@ async function main() {
       {
         codigo: '4204128',
         nome: 'PEDRO HENRIQUE RIBEIRO DE SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4955,7 +5138,7 @@ async function main() {
       {
         codigo: '4134372',
         nome: 'RAFAELLA TAVARES DO AMARAL',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4963,7 +5146,7 @@ async function main() {
       {
         codigo: '4204118',
         nome: 'RYAN SIDNEY LEITE DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4971,7 +5154,7 @@ async function main() {
       {
         codigo: '4134371',
         nome: 'STEFHANNY ALMEIDA MENDES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 15,
         password: 'senha',
@@ -4979,7 +5162,7 @@ async function main() {
       {
         codigo: '4142642',
         nome: 'ALESSANDRA DE OLIVEIRA SECCOTTE SILVA',
-        idade: 32,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -4987,7 +5170,7 @@ async function main() {
       {
         codigo: '4143121',
         nome: 'ALINE DA SILVA SOARES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -4995,7 +5178,7 @@ async function main() {
       {
         codigo: '4142824',
         nome: 'ANA CAMYLI PEREIRA ABRANTES',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5003,7 +5186,7 @@ async function main() {
       {
         codigo: '4142828',
         nome: 'ANA CLARA RODRIGUES DA CUNHA SILVA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5011,7 +5194,7 @@ async function main() {
       {
         codigo: '4143125',
         nome: 'ANNA LÍDIA SALES MONTEIRO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5019,7 +5202,7 @@ async function main() {
       {
         codigo: '4143101',
         nome: 'ANY CAROLINE MORAIS MARTINS',
-        idade: 16,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -5027,7 +5210,7 @@ async function main() {
       {
         codigo: '4142831',
         nome: 'BRUNA LEITE CARVALHO',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5035,7 +5218,7 @@ async function main() {
       {
         codigo: '4188874',
         nome: 'BRUNO VALLADARES DA MACENA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5043,7 +5226,7 @@ async function main() {
       {
         codigo: '4143127',
         nome: 'DAVI ALEXANDRE MAIA DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5051,7 +5234,7 @@ async function main() {
       {
         codigo: '4143134',
         nome: 'DAVI HEITOR MARQUES FERREIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5059,7 +5242,7 @@ async function main() {
       {
         codigo: '4143139',
         nome: 'DERYCK ALLAN FERNANDES DE BRITO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5067,7 +5250,7 @@ async function main() {
       {
         codigo: '4142794',
         nome: 'DIOGO HENRIQUE DUARTE BEZERRA',
-        idade: 35,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5075,7 +5258,7 @@ async function main() {
       {
         codigo: '4151554',
         nome: 'DIOGO PINTO DE SOUSA',
-        idade: 32,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -5083,7 +5266,7 @@ async function main() {
       {
         codigo: '4143146',
         nome: 'ELOIZE ALVES SCARCELLA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5091,7 +5274,7 @@ async function main() {
       {
         codigo: '4146427',
         nome: 'ELZA TEIXEIRA SABORÉ',
-        idade: 71,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -5099,7 +5282,7 @@ async function main() {
       {
         codigo: '4143151',
         nome: 'EMANUELE ALVES SCARCELLA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5107,7 +5290,7 @@ async function main() {
       {
         codigo: '4143153',
         nome: 'ESTER FREITAS GOMES GUIMARÃES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5115,7 +5298,7 @@ async function main() {
       {
         codigo: '4143155',
         nome: 'EVELLYN KALLINE SILVA BATISTA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5123,7 +5306,7 @@ async function main() {
       {
         codigo: '4143157',
         nome: 'IAN DIMAS COSTA DE SOUZA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5131,7 +5314,7 @@ async function main() {
       {
         codigo: '4143160',
         nome: 'JETRO NAOR ALBINO DE SOUZA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5139,7 +5322,7 @@ async function main() {
       {
         codigo: '4142833',
         nome: 'JOAO VICTOR LOPES CORRÊA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5147,7 +5330,7 @@ async function main() {
       {
         codigo: '4143162',
         nome: 'JOÃO LUCAS LIMA DE OLIVEIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5155,7 +5338,7 @@ async function main() {
       {
         codigo: '4143165',
         nome: 'JOÃO WITOR RODRIGUES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5163,7 +5346,7 @@ async function main() {
       {
         codigo: '4143040',
         nome: 'LARISSA MEL DA SILVA MESQUITA',
-        idade: 17,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -5171,7 +5354,7 @@ async function main() {
       {
         codigo: '4143167',
         nome: 'LETÍCIA SABORÉ CERQUEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5179,7 +5362,7 @@ async function main() {
       {
         codigo: '4142704',
         nome: 'LILIANE ALVES DE FREITAS',
-        idade: 38,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -5187,7 +5370,7 @@ async function main() {
       {
         codigo: '4143105',
         nome: 'LIVIA RODRIGUES DE SOUZA',
-        idade: 16,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -5195,7 +5378,7 @@ async function main() {
       {
         codigo: '4143111',
         nome: 'LUAN HENRIQUE RIBEIRO DE SOUSA',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5203,7 +5386,7 @@ async function main() {
       {
         codigo: '4143118',
         nome: 'LUANA APARECIDA BISPO NASCIMENTO',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5211,7 +5394,7 @@ async function main() {
       {
         codigo: '4143044',
         nome: 'LUCAS HENRYQUE SILVA LEITE',
-        idade: 22,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -5219,7 +5402,7 @@ async function main() {
       {
         codigo: '4143168',
         nome: 'LUIS EDUARDO RODRIGUES MARTINS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5227,7 +5410,7 @@ async function main() {
       {
         codigo: '4143171',
         nome: 'LUIZ FELIPE RODRIGUES PEREIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5235,7 +5418,7 @@ async function main() {
       {
         codigo: '4142672',
         nome: 'MARCIO PEREIRA SANTANA',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -5243,7 +5426,7 @@ async function main() {
       {
         codigo: '4143173',
         nome: 'MARIA CELESTE RODRIGUES DA CUNHA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5251,7 +5434,7 @@ async function main() {
       {
         codigo: '4143175',
         nome: 'MAYARA VITÓRIA BARBOSA PRATES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5259,7 +5442,7 @@ async function main() {
       {
         codigo: '4143179',
         nome: 'MAYSA KATHERYNE SILVA BATISTA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5267,7 +5450,7 @@ async function main() {
       {
         codigo: '4143182',
         nome: 'MIGUEL FABRINI SILVA SANTANA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5275,7 +5458,7 @@ async function main() {
       {
         codigo: '4142798',
         nome: 'NELMA DA COSTA LIMA LEITE',
-        idade: 59,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5283,7 +5466,7 @@ async function main() {
       {
         codigo: '4143185',
         nome: 'NICOLLY ADAMASKI DIONIZIO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5291,7 +5474,7 @@ async function main() {
       {
         codigo: '4143186',
         nome: 'PAULO CEZAR RODRIGUES DA CUNHA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5299,7 +5482,7 @@ async function main() {
       {
         codigo: '4143189',
         nome: 'PEDRO HENRIQUE SECCOTTE DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5307,7 +5490,7 @@ async function main() {
       {
         codigo: '4142717',
         nome: 'ROSINEIDE COSME PEREIRA RODRIGUES',
-        idade: 48,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -5315,7 +5498,7 @@ async function main() {
       {
         codigo: '4143191',
         nome: 'RYAN RODRIGUES MENDES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5323,7 +5506,7 @@ async function main() {
       {
         codigo: '4143196',
         nome: 'SAFIRAH DE SOUZA NOGUEIRA DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5331,7 +5514,7 @@ async function main() {
       {
         codigo: '4143198',
         nome: 'SAMIRA ANITA DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 16,
         password: 'senha',
@@ -5339,7 +5522,7 @@ async function main() {
       {
         codigo: '4143041',
         nome: 'SARA PRISCILA ALBINO DE SOUZA',
-        idade: 18,
+
         funcao: 'apoio',
         clubeId: 16,
         password: 'senha',
@@ -5347,7 +5530,7 @@ async function main() {
       {
         codigo: '4142843',
         nome: 'WEBER RODRIGUEZ LUZ',
-        idade: 42,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5355,7 +5538,7 @@ async function main() {
       {
         codigo: '4142821',
         nome: 'WESLEY MATHEUS MARQUES DOS SANTOS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5363,7 +5546,7 @@ async function main() {
       {
         codigo: '4142840',
         nome: 'YSADORA FERREIRA MENDES FRANCISCO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 16,
         password: 'senha',
@@ -5371,7 +5554,7 @@ async function main() {
       {
         codigo: '4187413',
         nome: 'ADRIANA DA SILVA SANTOS ZEFERINO',
-        idade: 38,
+
         funcao: 'apoio',
         clubeId: 17,
         password: 'senha',
@@ -5379,7 +5562,7 @@ async function main() {
       {
         codigo: '4088014',
         nome: 'ANA MARIA FRANÇA DO NASCIMENTO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5387,7 +5570,7 @@ async function main() {
       {
         codigo: '4087932',
         nome: 'ANDREW RICARDO ASSUNÇÃO ARRAIS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5395,7 +5578,7 @@ async function main() {
       {
         codigo: '4087936',
         nome: 'ANDRÉ LIRA CHAVES MOURA',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 17,
         password: 'senha',
@@ -5403,7 +5586,7 @@ async function main() {
       {
         codigo: '4088000',
         nome: 'ANDRÉ LUIZ ESCOBAL LEAL',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 17,
         password: 'senha',
@@ -5411,7 +5594,7 @@ async function main() {
       {
         codigo: '4187542',
         nome: 'ANGELO CAIC ALVES SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5419,7 +5602,7 @@ async function main() {
       {
         codigo: '4087949',
         nome: 'ANTONIO MARCOS ARAÚJO DA SILVA',
-        idade: 39,
+
         funcao: 'apoio',
         clubeId: 17,
         password: 'senha',
@@ -5427,7 +5610,7 @@ async function main() {
       {
         codigo: '4187526',
         nome: 'AQUILES FRANÇA DO NASCIMENTO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5435,7 +5618,7 @@ async function main() {
       {
         codigo: '4087971',
         nome: 'BEATRIZ GOMES LOPES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5443,7 +5626,7 @@ async function main() {
       {
         codigo: '4087991',
         nome: 'BRUNO ALVES CAMPOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5451,7 +5634,7 @@ async function main() {
       {
         codigo: '4187539',
         nome: 'CAIO ANGELO ALVES DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5459,7 +5642,7 @@ async function main() {
       {
         codigo: '4187446',
         nome: 'CLAUDINEY  JACINTO DE MORAES',
-        idade: 47,
+
         funcao: 'diretoria',
         clubeId: 17,
         password: 'senha',
@@ -5467,7 +5650,7 @@ async function main() {
       {
         codigo: '4088003',
         nome: 'CLYONE BALICA DE ALMEIDA',
-        idade: 28,
+
         funcao: 'diretoria',
         clubeId: 17,
         password: 'senha',
@@ -5475,7 +5658,7 @@ async function main() {
       {
         codigo: '4087934',
         nome: 'DAIANA DOS SANTOS ASSUNÇÃO ARRAIS',
-        idade: 34,
+
         funcao: 'diretoria',
         clubeId: 17,
         password: 'senha',
@@ -5483,7 +5666,7 @@ async function main() {
       {
         codigo: '4087969',
         nome: 'DANILO FERNANDES RIBEIRO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5491,7 +5674,7 @@ async function main() {
       {
         codigo: '4087984',
         nome: 'DAVI LUCAS DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5499,7 +5682,7 @@ async function main() {
       {
         codigo: '4087995',
         nome: 'DAVI LUCAS LEITE GOMES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5507,7 +5690,7 @@ async function main() {
       {
         codigo: '4087970',
         nome: 'DYLAN DOS SANTOS TEIXEIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5515,7 +5698,7 @@ async function main() {
       {
         codigo: '4087973',
         nome: 'ENZO THEODORO DOS SANTOS SOBRINHO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5523,7 +5706,7 @@ async function main() {
       {
         codigo: '4087953',
         nome: 'GABRIEL ALVES CAMPOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5531,7 +5714,7 @@ async function main() {
       {
         codigo: '4087998',
         nome: 'GLEICIELE BATISTA HOLANDA',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 17,
         password: 'senha',
@@ -5539,7 +5722,7 @@ async function main() {
       {
         codigo: '4087978',
         nome: 'HELENA GUSMÃO WILL MARTINS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5547,7 +5730,7 @@ async function main() {
       {
         codigo: '4087992',
         nome: 'HIAGO GONÇALVES OLIVEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5555,7 +5738,7 @@ async function main() {
       {
         codigo: '4087964',
         nome: 'ISADHORA LEITE OLIVEIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5563,7 +5746,7 @@ async function main() {
       {
         codigo: '4088010',
         nome: 'JOELMA ELISANDRA MOREIRA DE MORAES',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 17,
         password: 'senha',
@@ -5571,7 +5754,7 @@ async function main() {
       {
         codigo: '4088006',
         nome: 'JOÃO EDUARDO DOS SANTOS SOBRINHO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 17,
         password: 'senha',
@@ -5579,7 +5762,7 @@ async function main() {
       {
         codigo: '4087997',
         nome: 'KAMILLY GONÇALVES DELGADO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5587,7 +5770,7 @@ async function main() {
       {
         codigo: '4187525',
         nome: 'KARLINE DE SOUZA ALVES ANGELO',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 17,
         password: 'senha',
@@ -5595,7 +5778,7 @@ async function main() {
       {
         codigo: '4087962',
         nome: 'LUAN BATISTA VIEIRA DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5603,7 +5786,7 @@ async function main() {
       {
         codigo: '4087951',
         nome: 'LUCAS GABRIEL CAMARA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5611,7 +5794,7 @@ async function main() {
       {
         codigo: '4087986',
         nome: 'LUCAS LUÍZ DE MORAES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5619,7 +5802,7 @@ async function main() {
       {
         codigo: '4087960',
         nome: 'MARIA APARECIDA PONTES FERREIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5627,7 +5810,7 @@ async function main() {
       {
         codigo: '4087983',
         nome: 'MARIA DE FÁTIMA DOS SANTOS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5635,7 +5818,7 @@ async function main() {
       {
         codigo: '4187420',
         nome: 'MARIA EDUARDA FRANÇA DE OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5643,7 +5826,7 @@ async function main() {
       {
         codigo: '4087980',
         nome: 'MARIANA DE ALMEIDA MOTA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5651,7 +5834,7 @@ async function main() {
       {
         codigo: '4187519',
         nome: 'NAIR DA PAZ RIBEIRO',
-        idade: 66,
+
         funcao: 'apoio',
         clubeId: 17,
         password: 'senha',
@@ -5659,7 +5842,7 @@ async function main() {
       {
         codigo: '4087957',
         nome: 'PEDRO LUCAS PONTES SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5667,7 +5850,7 @@ async function main() {
       {
         codigo: '4087958',
         nome: 'PEDRO MARQUES DE SOUZA SIQUEIRA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 17,
         password: 'senha',
@@ -5675,7 +5858,7 @@ async function main() {
       {
         codigo: '4087976',
         nome: 'SAMUEL ANTÔNIO COUTO PINHEIRO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5683,7 +5866,7 @@ async function main() {
       {
         codigo: '4087993',
         nome: 'SAMUEL H. OSCAR PINHEIRO SCHULZ',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5691,7 +5874,7 @@ async function main() {
       {
         codigo: '4087945',
         nome: 'SARA DANIELLY ASSUNÇÃO ARRAIS',
-        idade: 19,
+
         funcao: 'apoio',
         clubeId: 17,
         password: 'senha',
@@ -5699,7 +5882,7 @@ async function main() {
       {
         codigo: '4087947',
         nome: 'SOFIA MACIEL',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 17,
         password: 'senha',
@@ -5707,7 +5890,7 @@ async function main() {
       {
         codigo: '4088015',
         nome: 'VINÍCIUS FRANÇA PINHEIRO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5715,7 +5898,7 @@ async function main() {
       {
         codigo: '4187400',
         nome: 'WALDETH PONTES ALVES',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 17,
         password: 'senha',
@@ -5723,7 +5906,7 @@ async function main() {
       {
         codigo: '4187460',
         nome: 'YAN MATHEUS PAIN RAULINO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5731,7 +5914,7 @@ async function main() {
       {
         codigo: '4087942',
         nome: 'YASMIN KRYSTHYNE ZEFERINO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5739,7 +5922,7 @@ async function main() {
       {
         codigo: '4087938',
         nome: 'YURI KRYSTHOFFER ZEFERINO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 17,
         password: 'senha',
@@ -5747,7 +5930,7 @@ async function main() {
       {
         codigo: '4202308',
         nome: 'ALINE COELHO DE ARAUJO',
-        idade: 32,
+
         funcao: 'diretoria',
         clubeId: 18,
         password: 'senha',
@@ -5755,7 +5938,7 @@ async function main() {
       {
         codigo: '4202110',
         nome: 'ANA JÚLIA RODRIGUES LEITE',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5763,7 +5946,7 @@ async function main() {
       {
         codigo: '4202131',
         nome: 'ANDRÉ LUIZ MARIM RODRIGUES',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 18,
         password: 'senha',
@@ -5771,7 +5954,7 @@ async function main() {
       {
         codigo: '4202089',
         nome: 'ANNY GABRIELLY PONTES DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5779,7 +5962,7 @@ async function main() {
       {
         codigo: '4202099',
         nome: 'ARTHUR ARTONI HARTEN DE BRITO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5787,7 +5970,7 @@ async function main() {
       {
         codigo: '4202090',
         nome: 'BEATRIS MIRELA DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5795,7 +5978,7 @@ async function main() {
       {
         codigo: '4202094',
         nome: 'BIANCA GABRIELY DOS SANTOS RODRIGUES RIBEIRO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5803,7 +5986,7 @@ async function main() {
       {
         codigo: '4202312',
         nome: 'BIANCA OLIVEIRA FRAGA',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 18,
         password: 'senha',
@@ -5811,7 +5994,7 @@ async function main() {
       {
         codigo: '4202109',
         nome: 'BRUNA EMANUELLY BARBOSA DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5819,7 +6002,7 @@ async function main() {
       {
         codigo: '4202132',
         nome: 'CAIO HENRIQUE ROSA FERREIRA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 18,
         password: 'senha',
@@ -5827,7 +6010,7 @@ async function main() {
       {
         codigo: '4202098',
         nome: 'CAIO MOREIRA TARGA DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5835,7 +6018,7 @@ async function main() {
       {
         codigo: '4202102',
         nome: 'DANIEL SÁVIO ALVES HENDES BARBOSA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5843,7 +6026,7 @@ async function main() {
       {
         codigo: '4202170',
         nome: 'DAVI SANTOS DA SILVA MIANG',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5851,7 +6034,7 @@ async function main() {
       {
         codigo: '4202118',
         nome: 'DENNER DE AZEVEDO E SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5859,7 +6042,7 @@ async function main() {
       {
         codigo: '4202169',
         nome: 'EMANUELLY LOPES DA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5867,7 +6050,7 @@ async function main() {
       {
         codigo: '4202145',
         nome: 'GIOVANA KAMILY LOPES DA SILVA',
-        idade: 19,
+
         funcao: 'apoio',
         clubeId: 18,
         password: 'senha',
@@ -5875,7 +6058,7 @@ async function main() {
       {
         codigo: '4202111',
         nome: 'GIOVANNA BUENO FRANÇA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5883,7 +6066,7 @@ async function main() {
       {
         codigo: '4202112',
         nome: 'GRASIELLY ALMEIDA TAVARES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5891,7 +6074,7 @@ async function main() {
       {
         codigo: '4202106',
         nome: 'GUSTAVO SANTANA NUNES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5899,7 +6082,7 @@ async function main() {
       {
         codigo: '4202085',
         nome: 'JOÃO GABRIEL DO NASCIMENTO SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5907,7 +6090,7 @@ async function main() {
       {
         codigo: '4202091',
         nome: 'KEMILLY SANTANA NUNES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5915,7 +6098,7 @@ async function main() {
       {
         codigo: '4202107',
         nome: 'LUA MORENA ALVES E SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5923,7 +6106,7 @@ async function main() {
       {
         codigo: '4202141',
         nome: 'LUCAS DE SOUZA PAULINO',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 18,
         password: 'senha',
@@ -5931,7 +6114,7 @@ async function main() {
       {
         codigo: '4202104',
         nome: 'LUCAS FRANSCISCO FRANCO DE MIRANDA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5939,7 +6122,7 @@ async function main() {
       {
         codigo: '4202158',
         nome: 'LUCILENE SANTANA DA SILVA',
-        idade: 48,
+
         funcao: 'apoio',
         clubeId: 18,
         password: 'senha',
@@ -5947,7 +6130,7 @@ async function main() {
       {
         codigo: '4202741',
         nome: 'LUIZ ANTONIO AMARAL DE SOUZA',
-        idade: 49,
+
         funcao: 'apoio',
         clubeId: 18,
         password: 'senha',
@@ -5955,7 +6138,7 @@ async function main() {
       {
         codigo: '4202304',
         nome: 'MARINES LUCCHETTI OLIVEIRA',
-        idade: 37,
+
         funcao: 'diretoria',
         clubeId: 18,
         password: 'senha',
@@ -5963,7 +6146,7 @@ async function main() {
       {
         codigo: '4202167',
         nome: 'MARJORY LUCCHETTI OLIVEIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5971,7 +6154,7 @@ async function main() {
       {
         codigo: '4202119',
         nome: 'MATHEUS PEDROSO PROENÇA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5979,7 +6162,7 @@ async function main() {
       {
         codigo: '4202084',
         nome: 'MILLENA EMANUELLY SILVA DO ROZARIO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5987,7 +6170,7 @@ async function main() {
       {
         codigo: '4202122',
         nome: 'NATALIA MORAES DE AMORIM',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -5995,7 +6178,7 @@ async function main() {
       {
         codigo: '4202738',
         nome: 'NATHSON GABRIEL FERNANDES DA SILVA',
-        idade: 20,
+
         funcao: 'apoio',
         clubeId: 18,
         password: 'senha',
@@ -6003,7 +6186,7 @@ async function main() {
       {
         codigo: '4202100',
         nome: 'PAULO SOUZA GASPAE',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -6011,7 +6194,7 @@ async function main() {
       {
         codigo: '4202302',
         nome: 'PEDRO HENRIQUE MORAES DE AMORIM',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 18,
         password: 'senha',
@@ -6019,7 +6202,7 @@ async function main() {
       {
         codigo: '4202128',
         nome: 'RAYZA PRYSCILA DA SILVA AYLLON',
-        idade: 29,
+
         funcao: 'diretoria',
         clubeId: 18,
         password: 'senha',
@@ -6027,7 +6210,7 @@ async function main() {
       {
         codigo: '4202096',
         nome: 'RHUAN FELIPE LUCCHETTI OLIVEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -6035,7 +6218,7 @@ async function main() {
       {
         codigo: '4202120',
         nome: 'ROGGER SABINO DE OLIVEIRA RAMOS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -6043,7 +6226,7 @@ async function main() {
       {
         codigo: '4202116',
         nome: 'RONEY OLIVEIRA DOS SANTOS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 18,
         password: 'senha',
@@ -6051,7 +6234,7 @@ async function main() {
       {
         codigo: '4202154',
         nome: 'ROSANA AMARAL DE SOUZA',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 18,
         password: 'senha',
@@ -6059,7 +6242,7 @@ async function main() {
       {
         codigo: '4202146',
         nome: 'ROSANE AMBRÓSIO DE OLIVEIRA',
-        idade: 40,
+
         funcao: 'diretoria',
         clubeId: 18,
         password: 'senha',
@@ -6067,7 +6250,7 @@ async function main() {
       {
         codigo: '4202161',
         nome: 'SALVIA AMARAL DO ESPIRITO SANTO',
-        idade: 57,
+
         funcao: 'apoio',
         clubeId: 18,
         password: 'senha',
@@ -6075,7 +6258,7 @@ async function main() {
       {
         codigo: '4202086',
         nome: 'SÃMILLE RILHELLY SERRA OLIVEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -6083,7 +6266,7 @@ async function main() {
       {
         codigo: '4202092',
         nome: 'THAMARA VITORIA FIGUEIREDO NEVES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -6091,7 +6274,7 @@ async function main() {
       {
         codigo: '4202087',
         nome: 'VANESSA ALEXANDRE  PAIVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 18,
         password: 'senha',
@@ -6099,7 +6282,7 @@ async function main() {
       {
         codigo: '4150702',
         nome: 'ADRIA BATISTA RODRIGUES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6107,7 +6290,7 @@ async function main() {
       {
         codigo: '4191302',
         nome: 'ALAN CAIO COSTA DA SILVA',
-        idade: 21,
+
         funcao: 'apoio',
         clubeId: 19,
         password: 'senha',
@@ -6115,7 +6298,7 @@ async function main() {
       {
         codigo: '4024371',
         nome: 'ARTHUR AIRES GARCIA DE AMORIM',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6123,7 +6306,7 @@ async function main() {
       {
         codigo: '4150716',
         nome: 'CARINI REINHEIMER PFEIFER LESSA',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 19,
         password: 'senha',
@@ -6131,7 +6314,7 @@ async function main() {
       {
         codigo: '4150812',
         nome: 'EMANUELA MIRANDA DOS SANTOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6139,7 +6322,7 @@ async function main() {
       {
         codigo: '4024369',
         nome: 'ENZO GABRIEL JESUS GUIMARAES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6147,7 +6330,7 @@ async function main() {
       {
         codigo: '4024372',
         nome: 'EVELYN PERES DE OLIVEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6155,7 +6338,7 @@ async function main() {
       {
         codigo: '4024374',
         nome: 'FELIPE MIRANDA CARVALHO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6163,7 +6346,7 @@ async function main() {
       {
         codigo: '4185379',
         nome: 'GUILHERME RODRIGUES  RIBEIRO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6171,7 +6354,7 @@ async function main() {
       {
         codigo: '4186733',
         nome: 'HIAGO SOUSA LIMA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6179,7 +6362,7 @@ async function main() {
       {
         codigo: '4186767',
         nome: 'IDAILDES BATISTA DOS SANTOS',
-        idade: 57,
+
         funcao: 'apoio',
         clubeId: 19,
         password: 'senha',
@@ -6187,7 +6370,7 @@ async function main() {
       {
         codigo: '4024377',
         nome: 'ISABELA MILLENA PERREIRA LIMA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6195,7 +6378,7 @@ async function main() {
       {
         codigo: '4024365',
         nome: 'JOSÉ MILTON FERREIRA SOARES',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 19,
         password: 'senha',
@@ -6203,7 +6386,7 @@ async function main() {
       {
         codigo: '4191300',
         nome: 'LAURTE LEANDRO LESSA',
-        idade: 59,
+
         funcao: 'apoio',
         clubeId: 19,
         password: 'senha',
@@ -6211,7 +6394,7 @@ async function main() {
       {
         codigo: '4024361',
         nome: 'LUIS HENRIQUE DOS SANTOS LESSA',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 19,
         password: 'senha',
@@ -6219,7 +6402,7 @@ async function main() {
       {
         codigo: '4024346',
         nome: 'MARCELA FERREIRA MACHADO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6227,7 +6410,7 @@ async function main() {
       {
         codigo: '4024351',
         nome: 'MARIZA BELA DA SILVA REIS',
-        idade: 58,
+
         funcao: 'diretoria',
         clubeId: 19,
         password: 'senha',
@@ -6235,7 +6418,7 @@ async function main() {
       {
         codigo: '4024355',
         nome: 'MAYARA SOUSA NASCIMENTO',
-        idade: 38,
+
         funcao: 'apoio',
         clubeId: 19,
         password: 'senha',
@@ -6243,7 +6426,7 @@ async function main() {
       {
         codigo: '4202359',
         nome: 'OLIVIA OLIVEIRA LIMA',
-        idade: 30,
+
         funcao: 'diretoria',
         clubeId: 19,
         password: 'senha',
@@ -6251,7 +6434,7 @@ async function main() {
       {
         codigo: '4024357',
         nome: 'PEDRO HENRIQUE ROSA BATISTA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6259,7 +6442,7 @@ async function main() {
       {
         codigo: '4024359',
         nome: 'SAMUEL DE SOUSA MARTINS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6267,7 +6450,7 @@ async function main() {
       {
         codigo: '4024353',
         nome: 'SULAMITA SANTOS PERUCCE MENEZES',
-        idade: 37,
+
         funcao: 'diretoria',
         clubeId: 19,
         password: 'senha',
@@ -6275,7 +6458,7 @@ async function main() {
       {
         codigo: '4024349',
         nome: 'THIERLLYS MORAIS BRASIL',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6283,7 +6466,7 @@ async function main() {
       {
         codigo: '4024344',
         nome: 'UIARA CASTORINA PEREIRA SE SOUZA MARTINS',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 19,
         password: 'senha',
@@ -6291,7 +6474,7 @@ async function main() {
       {
         codigo: '4024341',
         nome: 'VALDEMAR CARLOS DOS REIS',
-        idade: 58,
+
         funcao: 'diretoria',
         clubeId: 19,
         password: 'senha',
@@ -6299,7 +6482,7 @@ async function main() {
       {
         codigo: '4024339',
         nome: 'VALENTINA PINHEIRO DA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 19,
         password: 'senha',
@@ -6307,7 +6490,7 @@ async function main() {
       {
         codigo: '4033170',
         nome: 'ADRIANA MORAIS MIRANDA',
-        idade: 22,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6315,7 +6498,7 @@ async function main() {
       {
         codigo: '4038128',
         nome: 'ALEXANDRE CAMARGO LEMES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6323,7 +6506,7 @@ async function main() {
       {
         codigo: '4032916',
         nome: 'ALEXANDRE PABLO RIBEIRO SOARES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6331,7 +6514,7 @@ async function main() {
       {
         codigo: '4033174',
         nome: 'ALIANE PAULA CAPISTRANO PINTO',
-        idade: 29,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6339,7 +6522,7 @@ async function main() {
       {
         codigo: '4209079',
         nome: 'ANA BEATRIZ NOBRE MORAIS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6347,7 +6530,7 @@ async function main() {
       {
         codigo: '4033129',
         nome: 'ANA CAROLINA BATISTA PEREIRA',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6355,7 +6538,7 @@ async function main() {
       {
         codigo: '4033130',
         nome: 'ANA CAROLINA DA SILVA CONCEIÇÃO',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6363,7 +6546,7 @@ async function main() {
       {
         codigo: '4033100',
         nome: 'ANA LUÍZA PESENTE MARTINS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6371,7 +6554,7 @@ async function main() {
       {
         codigo: '4032918',
         nome: 'ANDERSON MATHEUS DE SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6379,7 +6562,7 @@ async function main() {
       {
         codigo: '4032924',
         nome: 'ANGELICA ROCHA DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6387,7 +6570,7 @@ async function main() {
       {
         codigo: '4033102',
         nome: 'ANGELITA ROSA GONCALVES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6395,7 +6578,7 @@ async function main() {
       {
         codigo: '4033202',
         nome: 'BEATRIZ ALVES DA SILVA DE ARRUDA',
-        idade: 16,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6403,7 +6586,7 @@ async function main() {
       {
         codigo: '4032936',
         nome: 'BHAYAN LIMA DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6411,7 +6594,7 @@ async function main() {
       {
         codigo: '4033208',
         nome: 'BRUNO MORAIS PREDIGER',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6419,7 +6602,7 @@ async function main() {
       {
         codigo: '4209054',
         nome: 'CARMEM MATHIAS',
-        idade: 70,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6427,7 +6610,7 @@ async function main() {
       {
         codigo: '4033203',
         nome: 'CONRADO VERARDI SOLETTI',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6435,7 +6618,7 @@ async function main() {
       {
         codigo: '4033134',
         nome: 'CRISLAINE GAMARRA ECKE',
-        idade: 17,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6443,7 +6626,7 @@ async function main() {
       {
         codigo: '4033253',
         nome: 'DANIEL LIMA DO NASCIMENTO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6451,7 +6634,7 @@ async function main() {
       {
         codigo: '4033136',
         nome: 'DANIELA STEFFENS',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6459,7 +6642,7 @@ async function main() {
       {
         codigo: '4209057',
         nome: 'EDINALDO SANTIAGO DE SOUZA',
-        idade: 47,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6467,7 +6650,7 @@ async function main() {
       {
         codigo: '4209299',
         nome: 'EDSON LUIZ TAVARES',
-        idade: 44,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6475,7 +6658,7 @@ async function main() {
       {
         codigo: '4209302',
         nome: 'EDUARDO DINIZ CASTRO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6483,7 +6666,7 @@ async function main() {
       {
         codigo: '4033223',
         nome: 'EDUARDO RIBEIRO ALVES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6491,7 +6674,7 @@ async function main() {
       {
         codigo: '4033103',
         nome: 'ELAINE VICTÓRIA FERNANDES DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6499,7 +6682,7 @@ async function main() {
       {
         codigo: '4033205',
         nome: 'ELIDA MARIANA SANTANA EVARISTO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6507,7 +6690,7 @@ async function main() {
       {
         codigo: '4033260',
         nome: 'EMILLY VITÓRIA RODRIGUES PEREIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6515,7 +6698,7 @@ async function main() {
       {
         codigo: '4033224',
         nome: 'ERICK EDUARDO SILVA SANTOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6523,7 +6706,7 @@ async function main() {
       {
         codigo: '4032938',
         nome: 'ERICK MURILO GONÇALVES DIAS FERREIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6531,7 +6714,7 @@ async function main() {
       {
         codigo: '4209059',
         nome: 'EZIEL NICOLLAS GONÇALVES DIAS FERREIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6539,7 +6722,7 @@ async function main() {
       {
         codigo: '4033148',
         nome: 'FERNANDA GARCIA DE SOUZA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6547,7 +6730,7 @@ async function main() {
       {
         codigo: '4209062',
         nome: 'FRANCINEIDE DA SILVA SOUSA',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6555,7 +6738,7 @@ async function main() {
       {
         codigo: '4209063',
         nome: 'GEANNY ANDRESSA SILVA DE SOUSA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6563,7 +6746,7 @@ async function main() {
       {
         codigo: '4033125',
         nome: 'GEOVANE GAMARRA ECKE',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6571,7 +6754,7 @@ async function main() {
       {
         codigo: '4033127',
         nome: 'GUILHERME DE OLIVEIRA DE SOUZA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6579,7 +6762,7 @@ async function main() {
       {
         codigo: '4209066',
         nome: 'HARILSON JOSÉ BRAYAN GUNTHER DA MAIA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6587,7 +6770,7 @@ async function main() {
       {
         codigo: '4033186',
         nome: 'HELIANY CRISTINA MACHADO CAPISTRANO PINTO',
-        idade: 54,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6595,7 +6778,7 @@ async function main() {
       {
         codigo: '4033228',
         nome: 'HELOÁ LORENZI',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6603,7 +6786,7 @@ async function main() {
       {
         codigo: '4033128',
         nome: 'HIASMIM SARA ARANTES PASSOS SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6611,7 +6794,7 @@ async function main() {
       {
         codigo: '4033138',
         nome: 'IGOR FARIA RAMOS',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6619,7 +6802,7 @@ async function main() {
       {
         codigo: '4032955',
         nome: 'ILANE NICOLLI FERNANDES DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6627,7 +6810,7 @@ async function main() {
       {
         codigo: '4032895',
         nome: 'ISABELLE ROSA GONÇALVES MARABA ARVANI',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6635,7 +6818,7 @@ async function main() {
       {
         codigo: '4033181',
         nome: 'ISMAEL MATHIAS',
-        idade: 44,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6643,7 +6826,7 @@ async function main() {
       {
         codigo: '4209069',
         nome: 'JANDIRA ROSA',
-        idade: 61,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6651,7 +6834,7 @@ async function main() {
       {
         codigo: '4209070',
         nome: 'JAQUELINE FILHOS',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6659,7 +6842,7 @@ async function main() {
       {
         codigo: '4209072',
         nome: 'JEFFERSON LUIS GUNTHER DA MAIA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6667,7 +6850,7 @@ async function main() {
       {
         codigo: '4032899',
         nome: 'JHERNEYZI RAMAYLAN BRUNACHE',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6675,7 +6858,7 @@ async function main() {
       {
         codigo: '4032957',
         nome: 'JHORBENZ STELNO BRUNACHE',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6683,7 +6866,7 @@ async function main() {
       {
         codigo: '4033091',
         nome: 'JOÃO GABRIEL MEDEIROS DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6691,7 +6874,7 @@ async function main() {
       {
         codigo: '4209076',
         nome: 'JOÃO VICTOR LIMA DE SOUSA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6699,7 +6882,7 @@ async function main() {
       {
         codigo: '4033243',
         nome: 'JOÃO VITOR DOS SANTOS DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6707,7 +6890,7 @@ async function main() {
       {
         codigo: '4209080',
         nome: 'JULIA JANING NICOLI',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6715,7 +6898,7 @@ async function main() {
       {
         codigo: '4033152',
         nome: 'JULIANO PADILHA DA SILVA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6723,7 +6906,7 @@ async function main() {
       {
         codigo: '4209093',
         nome: 'KASSYO RAFAEL ALVES DE OLIVEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6731,7 +6914,7 @@ async function main() {
       {
         codigo: '4033230',
         nome: 'KAWÃ SILVA SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6739,7 +6922,7 @@ async function main() {
       {
         codigo: '4209107',
         nome: 'KAYO CEZAR ALVES DE OLIVEIRA',
-        idade: 16,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6747,7 +6930,7 @@ async function main() {
       {
         codigo: '4033232',
         nome: 'KAYRA LOHANE SOARES DA PAIXÃO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6755,7 +6938,7 @@ async function main() {
       {
         codigo: '4033104',
         nome: 'KETHLEY REBECA OLIVEIRA DE SOUSA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6763,7 +6946,7 @@ async function main() {
       {
         codigo: '4033255',
         nome: 'LARISSA DO NASCIMENTO SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6771,7 +6954,7 @@ async function main() {
       {
         codigo: '4033141',
         nome: 'LARISSA SILVA DE OLIVEIRA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6779,7 +6962,7 @@ async function main() {
       {
         codigo: '4032929',
         nome: 'LIVIA FILHOS DE MORAES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6787,7 +6970,7 @@ async function main() {
       {
         codigo: '4033108',
         nome: 'LUANA MEIRELES SOARES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6795,7 +6978,7 @@ async function main() {
       {
         codigo: '4033234',
         nome: 'MARCELO AUGUSTO GONÇAVES DA SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6803,7 +6986,7 @@ async function main() {
       {
         codigo: '4033097',
         nome: 'MARIA FERNANDA DO NASCIMENTO RODRIGUES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6811,7 +6994,7 @@ async function main() {
       {
         codigo: '4033111',
         nome: 'MATEUS MORAIS PREDIGER',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6819,7 +7002,7 @@ async function main() {
       {
         codigo: '4033166',
         nome: 'MATHEUS EDUARDO ALVES DOS SANTOS',
-        idade: 20,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6827,7 +7010,7 @@ async function main() {
       {
         codigo: '4209196',
         nome: 'MATHEUS ORTOLAN',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6835,7 +7018,7 @@ async function main() {
       {
         codigo: '4032902',
         nome: 'MICAELLY MARQUES SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6843,7 +7026,7 @@ async function main() {
       {
         codigo: '4033114',
         nome: 'MIRYAN DA CONCEIÇÃO VIEIRA DE SOUSA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6851,7 +7034,7 @@ async function main() {
       {
         codigo: '4033183',
         nome: 'NELSON LINO DOS SANTOS',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 21,
         password: 'senha',
@@ -6859,7 +7042,7 @@ async function main() {
       {
         codigo: '4209308',
         nome: 'NICOLAS MATHEUS BARROS MONTEIRO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6867,7 +7050,7 @@ async function main() {
       {
         codigo: '4033154',
         nome: 'PAULO RICARDO DE OLIVEIRA GOÉS',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6875,7 +7058,7 @@ async function main() {
       {
         codigo: '4209312',
         nome: 'PEDRO HENRIQUE FORTUNATO CASTRO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6883,7 +7066,7 @@ async function main() {
       {
         codigo: '4033236',
         nome: 'RAYSSA DE PINHO GUSMAO',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6891,7 +7074,7 @@ async function main() {
       {
         codigo: '4033258',
         nome: 'ROGERIO HENRIQUE ROCHA DE MATOS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6899,7 +7082,7 @@ async function main() {
       {
         codigo: '4033157',
         nome: 'SABRINA ALVES DA SILVA DE ARRUDA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6907,7 +7090,7 @@ async function main() {
       {
         codigo: '4038124',
         nome: 'SARA CRISTINA DO NASCIMENTO SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6915,7 +7098,7 @@ async function main() {
       {
         codigo: '4032962',
         nome: 'TALITA MEIRELES SOARES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6923,7 +7106,7 @@ async function main() {
       {
         codigo: '4033117',
         nome: 'TAYLON MIKAEL TEIXEIRA RODRIGUES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6931,7 +7114,7 @@ async function main() {
       {
         codigo: '4033145',
         nome: 'THAINÁ OLIVEIRA PORFIRO MATIAS',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6939,7 +7122,7 @@ async function main() {
       {
         codigo: '4033168',
         nome: 'THALYSSON SOUSA RIBEIRO ROCHA',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6947,7 +7130,7 @@ async function main() {
       {
         codigo: '4033238',
         nome: 'THIAGO DA SILVA CARDOSO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6955,7 +7138,7 @@ async function main() {
       {
         codigo: '4038127',
         nome: 'THIAGO ROGERIO ROCHA DE MATOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6963,7 +7146,7 @@ async function main() {
       {
         codigo: '4033204',
         nome: 'THIAGO SOLETTI',
-        idade: 34,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6971,7 +7154,7 @@ async function main() {
       {
         codigo: '4032913',
         nome: 'WAYLON RENAN TEIXEIRA RODRIGUES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6979,7 +7162,7 @@ async function main() {
       {
         codigo: '4033163',
         nome: 'WELDSON SILVA PEREIRA',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 21,
         password: 'senha',
@@ -6987,7 +7170,7 @@ async function main() {
       {
         codigo: '4032960',
         nome: 'YAN LIMA DA COSTA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -6995,7 +7178,7 @@ async function main() {
       {
         codigo: '4033240',
         nome: 'YANNA SOFHIE RODRIGUES PEREIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -7003,7 +7186,7 @@ async function main() {
       {
         codigo: '4033099',
         nome: 'YASMIN ALVES NEGRI',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 21,
         password: 'senha',
@@ -7011,7 +7194,7 @@ async function main() {
       {
         codigo: '4088499',
         nome: 'ANA GABRIELLA CAETANO LEMES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7019,7 +7202,7 @@ async function main() {
       {
         codigo: '4088388',
         nome: 'BEATRIZ CRISTINA PEREIRA RODRIGUES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7027,7 +7210,7 @@ async function main() {
       {
         codigo: '4088397',
         nome: 'DAVI CALDEIRA SANTANA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7035,7 +7218,7 @@ async function main() {
       {
         codigo: '4088434',
         nome: 'DEINE RIBEIRO DO VALE REIS',
-        idade: 54,
+
         funcao: 'apoio',
         clubeId: 22,
         password: 'senha',
@@ -7043,7 +7226,7 @@ async function main() {
       {
         codigo: '4088511',
         nome: 'DIANE HARY MARICATO',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 22,
         password: 'senha',
@@ -7051,7 +7234,7 @@ async function main() {
       {
         codigo: '4088513',
         nome: 'ELENILDA RIBEIRO DE OLIVEIRA',
-        idade: 42,
+
         funcao: 'diretoria',
         clubeId: 22,
         password: 'senha',
@@ -7059,7 +7242,7 @@ async function main() {
       {
         codigo: '4088439',
         nome: 'ERIZON DIVINO DA SILVA LIMA',
-        idade: 48,
+
         funcao: 'diretoria',
         clubeId: 22,
         password: 'senha',
@@ -7067,7 +7250,7 @@ async function main() {
       {
         codigo: '4088400',
         nome: 'EUREN JHULIA MEIRELES ALVES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7075,7 +7258,7 @@ async function main() {
       {
         codigo: '4088530',
         nome: 'GESLANE STEINCK',
-        idade: 50,
+
         funcao: 'apoio',
         clubeId: 22,
         password: 'senha',
@@ -7083,7 +7266,7 @@ async function main() {
       {
         codigo: '4088406',
         nome: 'JESSICA FRANCISCA DA SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7091,7 +7274,7 @@ async function main() {
       {
         codigo: '4088445',
         nome: 'JHEIMYSON LIMA OLIVEIRA',
-        idade: 37,
+
         funcao: 'diretoria',
         clubeId: 22,
         password: 'senha',
@@ -7099,7 +7282,7 @@ async function main() {
       {
         codigo: '4088543',
         nome: 'KAUA KAISA VARJÃO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7107,7 +7290,7 @@ async function main() {
       {
         codigo: '4088542',
         nome: 'KLEBER JÚNIOR SILVA ARAÚJO',
-        idade: 36,
+
         funcao: 'diretoria',
         clubeId: 22,
         password: 'senha',
@@ -7115,7 +7298,7 @@ async function main() {
       {
         codigo: '4088411',
         nome: 'MARCELA LIRIEL HARY DE OLIVEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7123,7 +7306,7 @@ async function main() {
       {
         codigo: '4088416',
         nome: 'MARCIO GLEICON VARGAS DE OLIVEIRA FILHO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7131,7 +7314,7 @@ async function main() {
       {
         codigo: '4088448',
         nome: 'NAYSLA DOS SANTOS FIGUEREDO',
-        idade: 33,
+
         funcao: 'diretoria',
         clubeId: 22,
         password: 'senha',
@@ -7139,7 +7322,7 @@ async function main() {
       {
         codigo: '4088420',
         nome: 'PEDRO HENRIQUE',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7147,7 +7330,7 @@ async function main() {
       {
         codigo: '4088449',
         nome: 'ROSANGELA BORGES PIMENTEL',
-        idade: 65,
+
         funcao: 'diretoria',
         clubeId: 22,
         password: 'senha',
@@ -7155,7 +7338,7 @@ async function main() {
       {
         codigo: '4088450',
         nome: 'SAIONARA DA SILVA',
-        idade: 51,
+
         funcao: 'apoio',
         clubeId: 22,
         password: 'senha',
@@ -7163,7 +7346,7 @@ async function main() {
       {
         codigo: '4088424',
         nome: 'SARA SANTOS OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7171,7 +7354,7 @@ async function main() {
       {
         codigo: '4088429',
         nome: 'SOPHIA SANTOS OLIVEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7179,7 +7362,7 @@ async function main() {
       {
         codigo: '4189783',
         nome: 'THIAGO CARVALHO FREITAS DOS REIS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 22,
         password: 'senha',
@@ -7187,7 +7370,7 @@ async function main() {
       {
         codigo: '3982989',
         nome: 'ALEJANDRO OLIVEIRA MACHADO DE SOUSA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 20,
         password: 'senha',
@@ -7195,7 +7378,7 @@ async function main() {
       {
         codigo: '3983000',
         nome: 'ANDRÉ RIBEIRO OLIVEIRA ARAÚJO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7203,7 +7386,7 @@ async function main() {
       {
         codigo: '3965578',
         nome: 'APARECIDA DALUZ ALVES DE OLIVEIRA',
-        idade: 48,
+
         funcao: 'diretoria',
         clubeId: 20,
         password: 'senha',
@@ -7211,7 +7394,7 @@ async function main() {
       {
         codigo: '3982991',
         nome: 'BRUNO TOSCANO DA SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7219,7 +7402,7 @@ async function main() {
       {
         codigo: '3990658',
         nome: 'CAMILA DE SOUSA PEREIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7227,7 +7410,7 @@ async function main() {
       {
         codigo: '4149986',
         nome: 'CLAUDINEY DA SILVA ARAUJO',
-        idade: 39,
+
         funcao: 'apoio',
         clubeId: 20,
         password: 'senha',
@@ -7235,7 +7418,7 @@ async function main() {
       {
         codigo: '3990654',
         nome: 'DIEGO SOUSA CORRÊA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7243,7 +7426,7 @@ async function main() {
       {
         codigo: '3983012',
         nome: 'EDUARDA VITORIA SILVA DE AMORIM',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7251,7 +7434,7 @@ async function main() {
       {
         codigo: '3982998',
         nome: 'ENDRIWS MACHADO ARAUJO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7259,7 +7442,7 @@ async function main() {
       {
         codigo: '3990660',
         nome: 'ENZO RIBEIRO FERNANDES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7267,7 +7450,7 @@ async function main() {
       {
         codigo: '3983002',
         nome: 'ERICK EDUARDO SILVA TAVARES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7275,7 +7458,7 @@ async function main() {
       {
         codigo: '3983011',
         nome: 'EVELIN LIMA DA COSTA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7283,7 +7466,7 @@ async function main() {
       {
         codigo: '4148513',
         nome: 'FELIPE NETO DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7291,7 +7474,7 @@ async function main() {
       {
         codigo: '4148530',
         nome: 'GUILHERMY SILVA BATELHO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7299,7 +7482,7 @@ async function main() {
       {
         codigo: '3983005',
         nome: 'HAVILA OLIVEIRA MACHADO DE SOUSA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7307,7 +7490,7 @@ async function main() {
       {
         codigo: '3982995',
         nome: 'HELLEN CRISTINA MEL ALMEIDA CUSTÓDIO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7315,7 +7498,7 @@ async function main() {
       {
         codigo: '3983014',
         nome: 'JENIFFER MAYARA SILVA DO NASCIMENTO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 20,
         password: 'senha',
@@ -7323,7 +7506,7 @@ async function main() {
       {
         codigo: '3983010',
         nome: 'JOHN WELLES ALVES COSTA DA SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7331,7 +7514,7 @@ async function main() {
       {
         codigo: '3983006',
         nome: 'JOÃO VITOR SILVA AMORIM',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7339,7 +7522,7 @@ async function main() {
       {
         codigo: '3965579',
         nome: 'KAUÃ VASCONCELOS FERREIRA',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 20,
         password: 'senha',
@@ -7347,7 +7530,7 @@ async function main() {
       {
         codigo: '4149399',
         nome: 'LÍVIA MARIA DE OLIVEIRA TAVARES',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 20,
         password: 'senha',
@@ -7355,7 +7538,7 @@ async function main() {
       {
         codigo: '3982990',
         nome: 'MARCOS PABLO FERREIRA DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7363,7 +7546,7 @@ async function main() {
       {
         codigo: '3983003',
         nome: 'MARIA EDUARDA SILVA AMORIM',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 20,
         password: 'senha',
@@ -7371,7 +7554,7 @@ async function main() {
       {
         codigo: '4149395',
         nome: 'MARIA JOSÉ MORAIS',
-        idade: 57,
+
         funcao: 'apoio',
         clubeId: 20,
         password: 'senha',
@@ -7379,7 +7562,7 @@ async function main() {
       {
         codigo: '3983008',
         nome: 'MIRELLY DE SOUSA OLIVEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7387,7 +7570,7 @@ async function main() {
       {
         codigo: '3990661',
         nome: 'NAILANDE PREVIL',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7395,7 +7578,7 @@ async function main() {
       {
         codigo: '3982994',
         nome: 'RICHARLYSON SILVA AZEVEDO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7403,7 +7586,7 @@ async function main() {
       {
         codigo: '3982997',
         nome: 'RIVALDO SOUSA LOPES',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 20,
         password: 'senha',
@@ -7411,7 +7594,7 @@ async function main() {
       {
         codigo: '3990652',
         nome: 'ROSENAILA PREVIL',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 20,
         password: 'senha',
@@ -7419,7 +7602,7 @@ async function main() {
       {
         codigo: '3982993',
         nome: 'SILVANA  GABRIELI TOSCANO DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7427,7 +7610,7 @@ async function main() {
       {
         codigo: '4149394',
         nome: 'VALCIR GUIMARÃES BERALDO',
-        idade: 28,
+
         funcao: 'diretoria',
         clubeId: 20,
         password: 'senha',
@@ -7435,7 +7618,7 @@ async function main() {
       {
         codigo: '3982999',
         nome: 'VICTOR HUGO MAIDANA DE AMORIM',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7443,7 +7626,7 @@ async function main() {
       {
         codigo: '4148533',
         nome: 'VITOR GABRIEL RODRIGUES SOUSA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 20,
         password: 'senha',
@@ -7451,7 +7634,7 @@ async function main() {
       {
         codigo: '4149112',
         nome: 'AILTON LEMES DE SOUZA',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 23,
         password: 'senha',
@@ -7459,7 +7642,7 @@ async function main() {
       {
         codigo: '4149940',
         nome: 'ALAN WALISON SANTOS SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7467,7 +7650,7 @@ async function main() {
       {
         codigo: '4149116',
         nome: 'ALEX VENÂNCIO PARREIRA BARBOSA',
-        idade: 47,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7475,7 +7658,7 @@ async function main() {
       {
         codigo: '4150390',
         nome: 'ANA HELENA BARRETO TEIXEIRA',
-        idade: 34,
+
         funcao: 'apoio',
         clubeId: 23,
         password: 'senha',
@@ -7483,7 +7666,7 @@ async function main() {
       {
         codigo: '4149138',
         nome: 'CAROLAINE SILVA MENDES COSTA',
-        idade: 31,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7491,7 +7674,7 @@ async function main() {
       {
         codigo: '4149140',
         nome: 'CLAUDINEI GOMES',
-        idade: 47,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7499,7 +7682,7 @@ async function main() {
       {
         codigo: '4203971',
         nome: 'DAVI ARAUJO MORENO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7507,7 +7690,7 @@ async function main() {
       {
         codigo: '4149141',
         nome: 'DAVI BOESSIO FERNANDES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7515,7 +7698,7 @@ async function main() {
       {
         codigo: '4149143',
         nome: 'ENZO HENRIQUE PEZZINI',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7523,7 +7706,7 @@ async function main() {
       {
         codigo: '4149144',
         nome: 'EVA VILMA BOESSIO FERNANDES',
-        idade: 47,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7531,7 +7714,7 @@ async function main() {
       {
         codigo: '4149146',
         nome: 'FLADILON EMANUEL SOUSA DOS SANTOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7539,7 +7722,7 @@ async function main() {
       {
         codigo: '4149147',
         nome: 'FLAVIA SOUZA DOS SANTOS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7547,7 +7730,7 @@ async function main() {
       {
         codigo: '4149151',
         nome: 'GEOVANY RODRIGUES BARBOSA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7555,7 +7738,7 @@ async function main() {
       {
         codigo: '4203980',
         nome: 'GILMARA GONÇALVES RODRIGUES DA SILVA',
-        idade: 41,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7563,7 +7746,7 @@ async function main() {
       {
         codigo: '4149154',
         nome: 'GUILHERME LOPES BOSON',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7571,7 +7754,7 @@ async function main() {
       {
         codigo: '4149156',
         nome: 'GYSANNA MONTEIRO DE JESUS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7579,7 +7762,7 @@ async function main() {
       {
         codigo: '4149157',
         nome: 'HELOISE LEMES CAETANO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7587,7 +7770,7 @@ async function main() {
       {
         codigo: '4149209',
         nome: 'IGOR AQUINO RIBEIRO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7595,7 +7778,7 @@ async function main() {
       {
         codigo: '4149946',
         nome: 'JANAINA FRANCESCHET SARTORI DOS SANTOS',
-        idade: 33,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7603,7 +7786,7 @@ async function main() {
       {
         codigo: '4149213',
         nome: 'JEREMIAS MENDES DA COSTA',
-        idade: 36,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7611,7 +7794,7 @@ async function main() {
       {
         codigo: '4203972',
         nome: 'JOÃO ALBERI DE QUADROS',
-        idade: 69,
+
         funcao: 'apoio',
         clubeId: 23,
         password: 'senha',
@@ -7619,7 +7802,7 @@ async function main() {
       {
         codigo: '4149260',
         nome: 'JOÃO GABRIEL TORRES SALAMONI',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7627,7 +7810,7 @@ async function main() {
       {
         codigo: '4149285',
         nome: 'LARISSA DOS SANTOS CORREIA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7635,7 +7818,7 @@ async function main() {
       {
         codigo: '4203974',
         nome: 'LISANDRA RODRIGUES DA SILVA BARBOSA',
-        idade: 46,
+
         funcao: 'apoio',
         clubeId: 23,
         password: 'senha',
@@ -7643,7 +7826,7 @@ async function main() {
       {
         codigo: '4149290',
         nome: 'LIVIA BARROS BRITO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7651,7 +7834,7 @@ async function main() {
       {
         codigo: '4149486',
         nome: 'LOANE PEREIRA SOUSA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7659,7 +7842,7 @@ async function main() {
       {
         codigo: '4149291',
         nome: 'LUANA MATOS DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7667,7 +7850,7 @@ async function main() {
       {
         codigo: '4149292',
         nome: 'MARCIA PINTO MATOS',
-        idade: 43,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7675,7 +7858,7 @@ async function main() {
       {
         codigo: '4149294',
         nome: 'MARCIONE RIBEIRO FERNANDES',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 23,
         password: 'senha',
@@ -7683,7 +7866,7 @@ async function main() {
       {
         codigo: '4150262',
         nome: 'MARIA APARECIDA SOARES',
-        idade: 58,
+
         funcao: 'apoio',
         clubeId: 23,
         password: 'senha',
@@ -7691,7 +7874,7 @@ async function main() {
       {
         codigo: '4149949',
         nome: 'MARIA EDUARDA FRANCESCHET DOS SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7699,7 +7882,7 @@ async function main() {
       {
         codigo: '4149296',
         nome: 'MARIA VITORIA DA SILVA SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7707,7 +7890,7 @@ async function main() {
       {
         codigo: '4149297',
         nome: 'MIGUEL JOSÉ VIEIRA DOS SANTOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7715,7 +7898,7 @@ async function main() {
       {
         codigo: '4149298',
         nome: 'NATALIA SIQUEIRA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7723,7 +7906,7 @@ async function main() {
       {
         codigo: '4149300',
         nome: 'NICOLAS NILVO CAETANO SCHWARTZ',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7731,7 +7914,7 @@ async function main() {
       {
         codigo: '4149302',
         nome: 'ORISMAR PEREIRA DE SOUZA',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7739,7 +7922,7 @@ async function main() {
       {
         codigo: '4203976',
         nome: 'ORLANDO BENEDITO DE SOUZA',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 23,
         password: 'senha',
@@ -7747,7 +7930,7 @@ async function main() {
       {
         codigo: '4149303',
         nome: 'PHAMELLA SOPHIA SOUSA NASCIMENTO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7755,7 +7938,7 @@ async function main() {
       {
         codigo: '4212215',
         nome: 'RANYELLE RODRIGUES DE SOUZA ALCÂNTARA',
-        idade: 28,
+
         funcao: 'apoio',
         clubeId: 23,
         password: 'senha',
@@ -7763,7 +7946,7 @@ async function main() {
       {
         codigo: '4149340',
         nome: 'ROSEMEIRE RAYMUNDO GOMES',
-        idade: 49,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7771,7 +7954,7 @@ async function main() {
       {
         codigo: '4149344',
         nome: 'SARA BEATRIZ BARRETO TEIXEIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7779,7 +7962,7 @@ async function main() {
       {
         codigo: '4149722',
         nome: 'VALEXSANDER PADILHA DE LIMA',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7787,7 +7970,7 @@ async function main() {
       {
         codigo: '4149352',
         nome: 'WEMERSON ALERRANDRO DA SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 23,
         password: 'senha',
@@ -7795,7 +7978,7 @@ async function main() {
       {
         codigo: '4149725',
         nome: 'WILLIAN FRANCESCHET DOS SANTOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 23,
         password: 'senha',
@@ -7803,7 +7986,7 @@ async function main() {
       {
         codigo: '4204465',
         nome: 'ADILSON AGUILERA',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 24,
         password: 'senha',
@@ -7811,7 +7994,7 @@ async function main() {
       {
         codigo: '4203128',
         nome: 'ANGÉLICA VITÓRIA DOS SANTOS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7819,7 +8002,7 @@ async function main() {
       {
         codigo: '3996227',
         nome: 'BEATRIZ SAGUMA BATISTA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7827,7 +8010,7 @@ async function main() {
       {
         codigo: '4203291',
         nome: 'CARLOS HUMBERTO LUIZ DE OLIVEIRA',
-        idade: 56,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -7835,7 +8018,7 @@ async function main() {
       {
         codigo: '3996229',
         nome: 'DANIEL DE MORAES NASCIMENTO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7843,7 +8026,7 @@ async function main() {
       {
         codigo: '3996231',
         nome: 'EMANUEL DA SILVA LADISLAU',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7851,7 +8034,7 @@ async function main() {
       {
         codigo: '3996234',
         nome: 'EVELLYN GABRIELLY SIRQUEIRA SANTOS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7859,7 +8042,7 @@ async function main() {
       {
         codigo: '4054291',
         nome: 'GABRIEL AGEU SANTOS DO E. SANTO',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -7867,7 +8050,7 @@ async function main() {
       {
         codigo: '4054350',
         nome: 'GUILHERME LEMES DE OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7875,7 +8058,7 @@ async function main() {
       {
         codigo: '3996236',
         nome: 'HELOÍSA TÁVORA OLIVEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7883,7 +8066,7 @@ async function main() {
       {
         codigo: '4204492',
         nome: 'IGOR PEREIRA MENDES',
-        idade: 20,
+
         funcao: 'apoio',
         clubeId: 24,
         password: 'senha',
@@ -7891,7 +8074,7 @@ async function main() {
       {
         codigo: '4054309',
         nome: 'ISABELLY PAULINO BARBOZA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7899,7 +8082,7 @@ async function main() {
       {
         codigo: '4078496',
         nome: 'JHENNYFFER KASSYENNE MENEZES ALMEIDA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7907,7 +8090,7 @@ async function main() {
       {
         codigo: '4054312',
         nome: 'JOAO HENRIQUE FERNANDES SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -7915,7 +8098,7 @@ async function main() {
       {
         codigo: '4054315',
         nome: 'JONACIR FURINI DE OLIVEIRA',
-        idade: 52,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -7923,7 +8106,7 @@ async function main() {
       {
         codigo: '4078495',
         nome: 'JOSILENE DE MORAES NASCIMENTO',
-        idade: 42,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -7931,7 +8114,7 @@ async function main() {
       {
         codigo: '4054324',
         nome: 'JOÃO GONÇALVES LIMA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7939,7 +8122,7 @@ async function main() {
       {
         codigo: '4054342',
         nome: 'JOÃO VITOR AMORIM SPANI',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7947,7 +8130,7 @@ async function main() {
       {
         codigo: '4054317',
         nome: 'KATIANA BASEGGIO DOS SANTOS',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -7955,7 +8138,7 @@ async function main() {
       {
         codigo: '4054322',
         nome: 'KETLYN KAUANY SILVA MENDES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7963,7 +8146,7 @@ async function main() {
       {
         codigo: '4054329',
         nome: 'LUIZ OTÁVIO DIONIZIO MOURA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7971,7 +8154,7 @@ async function main() {
       {
         codigo: '4054330',
         nome: 'MARIA LUÍSA EVANGELISTA DE OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7979,7 +8162,7 @@ async function main() {
       {
         codigo: '4203130',
         nome: 'MARIANA NUNES DE SOUZA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -7987,7 +8170,7 @@ async function main() {
       {
         codigo: '4204467',
         nome: 'MARLON DOUGLAS TILLMAN',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -7995,7 +8178,7 @@ async function main() {
       {
         codigo: '4054344',
         nome: 'MAXSUEL SIQUEIRA SANTOS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -8003,7 +8186,7 @@ async function main() {
       {
         codigo: '4054328',
         nome: 'PAULO HENRIQUE PAULINO BARBOZA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -8011,7 +8194,7 @@ async function main() {
       {
         codigo: '4054338',
         nome: 'PEDRO CAUÃ R DE ARAUJO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -8019,7 +8202,7 @@ async function main() {
       {
         codigo: '4054320',
         nome: 'RHUAN CARLOS DA SILVA LUCAS',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -8027,7 +8210,7 @@ async function main() {
       {
         codigo: '4054341',
         nome: 'ROBERTA DE MORAES NASCIMENTO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -8035,7 +8218,7 @@ async function main() {
       {
         codigo: '4054318',
         nome: 'ROSILENE S. NEVES MENDES',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -8043,7 +8226,7 @@ async function main() {
       {
         codigo: '4203132',
         nome: 'SANDIELY DOS SANTOS PEREIRA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 24,
         password: 'senha',
@@ -8051,7 +8234,7 @@ async function main() {
       {
         codigo: '4054332',
         nome: 'THAWANY MARTINS DE OLIVEIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -8059,7 +8242,7 @@ async function main() {
       {
         codigo: '4054334',
         nome: 'VITÓRIA ASSUNÇÃO DE JESUS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 24,
         password: 'senha',
@@ -8067,7 +8250,7 @@ async function main() {
       {
         codigo: '4054313',
         nome: 'WARLEY BRYEN BORGES MENDES',
-        idade: 41,
+
         funcao: 'apoio',
         clubeId: 24,
         password: 'senha',
@@ -8075,7 +8258,7 @@ async function main() {
       {
         codigo: '4141516',
         nome: 'ADNIR MIRANDA NUNES',
-        idade: 49,
+
         funcao: 'apoio',
         clubeId: 25,
         password: 'senha',
@@ -8083,7 +8266,7 @@ async function main() {
       {
         codigo: '4141468',
         nome: 'ANNE GABRIELLY SOUSA DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8091,7 +8274,7 @@ async function main() {
       {
         codigo: '4141463',
         nome: 'BIANCA VITÓRIA  RODRIGUES DOS REIS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8099,7 +8282,7 @@ async function main() {
       {
         codigo: '4202744',
         nome: 'CAIO ALEXANDRE MACHADO NEVES',
-        idade: 16,
+
         funcao: 'apoio',
         clubeId: 25,
         password: 'senha',
@@ -8107,7 +8290,7 @@ async function main() {
       {
         codigo: '4143366',
         nome: 'CHRISTIELLY DAIANE SILVA BOTELHO',
-        idade: 34,
+
         funcao: 'diretoria',
         clubeId: 25,
         password: 'senha',
@@ -8115,7 +8298,7 @@ async function main() {
       {
         codigo: '4141477',
         nome: 'DIOGO DOS REIS DE JESUS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8123,7 +8306,7 @@ async function main() {
       {
         codigo: '4141529',
         nome: 'EMANUELLE ALVES MACHADO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8131,7 +8314,7 @@ async function main() {
       {
         codigo: '4204348',
         nome: 'EMANUELLY FERNANDA COSTA DE QUEIROZ',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8139,7 +8322,7 @@ async function main() {
       {
         codigo: '4141834',
         nome: 'EULÁLIA DA SILVA BOTELHO',
-        idade: 58,
+
         funcao: 'diretoria',
         clubeId: 25,
         password: 'senha',
@@ -8147,7 +8330,7 @@ async function main() {
       {
         codigo: '4202753',
         nome: 'FELIPE RIQUELME R. DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8155,7 +8338,7 @@ async function main() {
       {
         codigo: '4141487',
         nome: 'GABRIEL BOTELHO DE OLIVEIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8163,7 +8346,7 @@ async function main() {
       {
         codigo: '4141495',
         nome: 'GABRIEL DE OLIVEIRA APLINIO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 25,
         password: 'senha',
@@ -8171,7 +8354,7 @@ async function main() {
       {
         codigo: '4141502',
         nome: 'GUSTAVO HENRIQUE CONCEIÇÃO XAVIER',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8179,7 +8362,7 @@ async function main() {
       {
         codigo: '4141481',
         nome: 'ISABELLY VICTÓRIA ÁVILA QUEIROZ',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8187,7 +8370,7 @@ async function main() {
       {
         codigo: '4141823',
         nome: 'IVANI RODRIGUES GALVÃO DOS REIS',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 25,
         password: 'senha',
@@ -8195,7 +8378,7 @@ async function main() {
       {
         codigo: '4141712',
         nome: 'JAMYLLY KELLY FERREIRA DA SILVA',
-        idade: 28,
+
         funcao: 'diretoria',
         clubeId: 25,
         password: 'senha',
@@ -8203,7 +8386,7 @@ async function main() {
       {
         codigo: '4143371',
         nome: 'LORIVALDO NUNES PEREIRA',
-        idade: 51,
+
         funcao: 'apoio',
         clubeId: 25,
         password: 'senha',
@@ -8211,7 +8394,7 @@ async function main() {
       {
         codigo: '4141474',
         nome: 'LUCIANO VICTOR DA SILVA LIMA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8219,7 +8402,7 @@ async function main() {
       {
         codigo: '4141830',
         nome: 'MARCILEY ARGEMIRA DE SOUZA',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 25,
         password: 'senha',
@@ -8227,7 +8410,7 @@ async function main() {
       {
         codigo: '4141492',
         nome: 'MATEUS RODRIGUES DOS REIS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 25,
         password: 'senha',
@@ -8235,7 +8418,7 @@ async function main() {
       {
         codigo: '4204378',
         nome: 'SARALYNNY DA SILVA NASCIMENTO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8243,7 +8426,7 @@ async function main() {
       {
         codigo: '4202760',
         nome: 'VIVIANE ALVES MACHADO LEMES',
-        idade: 41,
+
         funcao: 'diretoria',
         clubeId: 25,
         password: 'senha',
@@ -8251,7 +8434,7 @@ async function main() {
       {
         codigo: '4204359',
         nome: 'WELLINGTON DOUGLAS DA SILVA SIQUEIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 25,
         password: 'senha',
@@ -8259,7 +8442,7 @@ async function main() {
       {
         codigo: '4122664',
         nome: 'ALICE GABRIELA JULIE LOPES SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8267,7 +8450,7 @@ async function main() {
       {
         codigo: '4193931',
         nome: 'ANA CLARA BARBOSA FERREIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8275,7 +8458,7 @@ async function main() {
       {
         codigo: '4122665',
         nome: 'ANNA BEATRIZ LINS DE ARRUDA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8283,7 +8466,7 @@ async function main() {
       {
         codigo: '4204734',
         nome: 'DANIELLE MOREIRA DE ALMEIDA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 26,
         password: 'senha',
@@ -8291,7 +8474,7 @@ async function main() {
       {
         codigo: '4122667',
         nome: 'DAVID LUKAS CUNHA DUARTE',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8299,7 +8482,7 @@ async function main() {
       {
         codigo: '4204729',
         nome: 'EDSON OLIVEIRA BELO DE BESSA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8307,7 +8490,7 @@ async function main() {
       {
         codigo: '4122800',
         nome: 'EDUARDO ANTONI LOPES SILVA',
-        idade: 23,
+
         funcao: 'apoio',
         clubeId: 26,
         password: 'senha',
@@ -8315,7 +8498,7 @@ async function main() {
       {
         codigo: '4122670',
         nome: 'EMANUELLY FERNANDA DA SILVA CUNHA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8323,7 +8506,7 @@ async function main() {
       {
         codigo: '4193036',
         nome: 'EVILLY MICHELLY BISPO SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8331,7 +8514,7 @@ async function main() {
       {
         codigo: '4122673',
         nome: 'GABRIEL THOMAS FERREIRA DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8339,7 +8522,7 @@ async function main() {
       {
         codigo: '4122677',
         nome: 'GUILHERME HENRIQUE DE JESUS FERREIRA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 26,
         password: 'senha',
@@ -8347,7 +8530,7 @@ async function main() {
       {
         codigo: '4122678',
         nome: 'HELOISA EMANUELY LINS DE ARRUDA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8355,7 +8538,7 @@ async function main() {
       {
         codigo: '4204730',
         nome: 'JOÃO PEDRO INÁCIO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8363,7 +8546,7 @@ async function main() {
       {
         codigo: '4122679',
         nome: 'KAITO PABLO PEDROSO SILVA DE SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8371,7 +8554,7 @@ async function main() {
       {
         codigo: '4122686',
         nome: 'KARINE SOUZA DE JESUS',
-        idade: 26,
+
         funcao: 'apoio',
         clubeId: 26,
         password: 'senha',
@@ -8379,7 +8562,7 @@ async function main() {
       {
         codigo: '4122824',
         nome: 'KATI NILZA DE ALMEIDA',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 26,
         password: 'senha',
@@ -8387,7 +8570,7 @@ async function main() {
       {
         codigo: '4190621',
         nome: 'KAYKE GABRIEL CARVARIO DA SILVA DIAS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8395,7 +8578,7 @@ async function main() {
       {
         codigo: '4122689',
         nome: 'LETICIA AQUINO FERGUSON',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 26,
         password: 'senha',
@@ -8403,7 +8586,7 @@ async function main() {
       {
         codigo: '4204682',
         nome: 'LUIZ CARLOS ALMEIDA BATISTA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8411,7 +8594,7 @@ async function main() {
       {
         codigo: '4194816',
         nome: 'MARIA ELIZA SÃO BERNARDO',
-        idade: 52,
+
         funcao: 'apoio',
         clubeId: 26,
         password: 'senha',
@@ -8419,7 +8602,7 @@ async function main() {
       {
         codigo: '4204735',
         nome: 'MATHEUS JOAQUIM DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8427,7 +8610,7 @@ async function main() {
       {
         codigo: '4122706',
         nome: 'MATHEUS LOPES PELIZARIO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8435,7 +8618,7 @@ async function main() {
       {
         codigo: '4204732',
         nome: 'MIGUEL OTÁVIO DA COSTA SIQUEIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8443,7 +8626,7 @@ async function main() {
       {
         codigo: '4122694',
         nome: 'NAIELY DE JESUS LIMA',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 26,
         password: 'senha',
@@ -8451,7 +8634,7 @@ async function main() {
       {
         codigo: '4122697',
         nome: 'OTAVIO MIGUEL LOPES SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8459,7 +8642,7 @@ async function main() {
       {
         codigo: '4204733',
         nome: 'ROBSON KAUÃ NASCIMENTO DOS SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8467,7 +8650,7 @@ async function main() {
       {
         codigo: '4122715',
         nome: 'SARA DE LIMA AQUINO FERGUSON',
-        idade: 40,
+
         funcao: 'diretoria',
         clubeId: 26,
         password: 'senha',
@@ -8475,7 +8658,7 @@ async function main() {
       {
         codigo: '4203989',
         nome: 'THAYLLA VITÓRIA LOPES DA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 26,
         password: 'senha',
@@ -8483,7 +8666,7 @@ async function main() {
       {
         codigo: '4122720',
         nome: 'THAYNARA TURCATO DO ESPIRITO SANTO',
-        idade: 23,
+
         funcao: 'apoio',
         clubeId: 26,
         password: 'senha',
@@ -8491,7 +8674,7 @@ async function main() {
       {
         codigo: '4122716',
         nome: 'THAYSON CLÁUDIO ESPIRITO SANTO',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 26,
         password: 'senha',
@@ -8499,7 +8682,7 @@ async function main() {
       {
         codigo: '4122710',
         nome: 'WESLEY AQUINO FERGUSON',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 26,
         password: 'senha',
@@ -8507,7 +8690,7 @@ async function main() {
       {
         codigo: '4023110',
         nome: 'ADAIR MARIA CARMOSA ALMEIDA',
-        idade: 68,
+
         funcao: 'apoio',
         clubeId: 27,
         password: 'senha',
@@ -8515,7 +8698,7 @@ async function main() {
       {
         codigo: '4187467',
         nome: 'ADRIANA SANTANA DA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8523,7 +8706,7 @@ async function main() {
       {
         codigo: '4023108',
         nome: 'ADRIANO PEREIRA DE SANTANA',
-        idade: 30,
+
         funcao: 'diretoria',
         clubeId: 27,
         password: 'senha',
@@ -8531,7 +8714,7 @@ async function main() {
       {
         codigo: '4023114',
         nome: 'ALANNY VITÓRIA REIS DE VASCONCELOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8539,7 +8722,7 @@ async function main() {
       {
         codigo: '4040929',
         nome: 'ANA BEATRIZ ARRUDDA DE FIGUEIREDO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8547,7 +8730,7 @@ async function main() {
       {
         codigo: '4023112',
         nome: 'ANA JÚLIA OLIVEIRA NEPONOCENO',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 27,
         password: 'senha',
@@ -8555,7 +8738,7 @@ async function main() {
       {
         codigo: '4208618',
         nome: 'APARECIDA NOGUEIRA DOS SANTOS',
-        idade: 47,
+
         funcao: 'apoio',
         clubeId: 27,
         password: 'senha',
@@ -8563,7 +8746,7 @@ async function main() {
       {
         codigo: '4040912',
         nome: 'BRUNO OLIVEIRA DA COSTA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8571,7 +8754,7 @@ async function main() {
       {
         codigo: '4066056',
         nome: 'CAROLINE NUNES DA CONCEIÇÃO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8579,7 +8762,7 @@ async function main() {
       {
         codigo: '4204054',
         nome: 'DANIEL MARQUES DA SILVA',
-        idade: 25,
+
         funcao: 'apoio',
         clubeId: 27,
         password: 'senha',
@@ -8587,7 +8770,7 @@ async function main() {
       {
         codigo: '4023115',
         nome: 'DEUSIMAR MARQUES DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8595,7 +8778,7 @@ async function main() {
       {
         codigo: '4066057',
         nome: 'ELISEU ANTÔNIO DOS SANTOS',
-        idade: 63,
+
         funcao: 'apoio',
         clubeId: 27,
         password: 'senha',
@@ -8603,7 +8786,7 @@ async function main() {
       {
         codigo: '4023130',
         nome: 'FLAVIA CONCEIÇÃO RONDON DA SILVA',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 27,
         password: 'senha',
@@ -8611,7 +8794,7 @@ async function main() {
       {
         codigo: '4023117',
         nome: 'GABRIELA ANDRESSA DE OLIVEIRA NEPONOCENO',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 27,
         password: 'senha',
@@ -8619,7 +8802,7 @@ async function main() {
       {
         codigo: '4040916',
         nome: 'HORLANDO SOUZA DE FRANÇA  JUNIOR',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8627,7 +8810,7 @@ async function main() {
       {
         codigo: '4208616',
         nome: 'IANQUE SANTOS LEITE',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8635,7 +8818,7 @@ async function main() {
       {
         codigo: '4023203',
         nome: 'JANETE ALBERTON DE. OLIVEIRA NEPONOCENO',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 27,
         password: 'senha',
@@ -8643,7 +8826,7 @@ async function main() {
       {
         codigo: '4066167',
         nome: 'JEMIZAEL NEPONOCENO DA SILVA',
-        idade: 49,
+
         funcao: 'diretoria',
         clubeId: 27,
         password: 'senha',
@@ -8651,7 +8834,7 @@ async function main() {
       {
         codigo: '4023121',
         nome: 'JOÃO PEDRO OLIVI SIMÃO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8659,7 +8842,7 @@ async function main() {
       {
         codigo: '4204053',
         nome: 'JUCIENE FRANCISCA DOS SANTOS ARRUDA',
-        idade: 55,
+
         funcao: 'apoio',
         clubeId: 27,
         password: 'senha',
@@ -8667,7 +8850,7 @@ async function main() {
       {
         codigo: '4204458',
         nome: 'KAICK BRUNO DA SILVA RIBEIRO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8675,7 +8858,7 @@ async function main() {
       {
         codigo: '4187887',
         nome: 'KATYÉLE MARQUES DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8683,7 +8866,7 @@ async function main() {
       {
         codigo: '4023166',
         nome: 'KAUANNE MENDES XAVIER',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8691,7 +8874,7 @@ async function main() {
       {
         codigo: '4040917',
         nome: 'LEONARDO MATOS DOS SANTOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8699,7 +8882,7 @@ async function main() {
       {
         codigo: '4023122',
         nome: 'LUANA SANTANA DE AMORIM',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 27,
         password: 'senha',
@@ -8707,7 +8890,7 @@ async function main() {
       {
         codigo: '4204680',
         nome: 'LUIS FERNANDO DA SILVA',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 27,
         password: 'senha',
@@ -8715,7 +8898,7 @@ async function main() {
       {
         codigo: '4023125',
         nome: 'MATHEUS DE OLIVEIRA NEPONOCENO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8723,7 +8906,7 @@ async function main() {
       {
         codigo: '4040933',
         nome: 'MILENE DA SILVA ARRUDA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 27,
         password: 'senha',
@@ -8731,7 +8914,7 @@ async function main() {
       {
         codigo: '4187807',
         nome: 'SAMOEL MATOS DE ARRUDA',
-        idade: 60,
+
         funcao: 'apoio',
         clubeId: 27,
         password: 'senha',
@@ -8739,7 +8922,7 @@ async function main() {
       {
         codigo: '4066059',
         nome: 'SAMYLLA ANTONIA NASCIMENTO SANTANA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8747,7 +8930,7 @@ async function main() {
       {
         codigo: '4066254',
         nome: 'TAYNAN CRUZ DO ESPIRITO SANTO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8755,7 +8938,7 @@ async function main() {
       {
         codigo: '4023167',
         nome: 'TAYNARA CRUZ DO ESPIRITO SANTO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8763,7 +8946,7 @@ async function main() {
       {
         codigo: '4208619',
         nome: 'TOM ALLAN SILVA TEIXEIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8771,7 +8954,7 @@ async function main() {
       {
         codigo: '4189039',
         nome: 'VITOR HUGO TOLEDO DA CONCEIÇÃO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 27,
         password: 'senha',
@@ -8779,7 +8962,7 @@ async function main() {
       {
         codigo: '4134905',
         nome: 'ABBIE GALLE AIME',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8787,7 +8970,7 @@ async function main() {
       {
         codigo: '4134906',
         nome: 'ADRIA KAGELY MARTINS DA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8795,7 +8978,7 @@ async function main() {
       {
         codigo: '4134908',
         nome: 'ALESSANDRO MOURA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8803,7 +8986,7 @@ async function main() {
       {
         codigo: '4134909',
         nome: 'BEATRIZ GOMES NEGREIROS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8811,7 +8994,7 @@ async function main() {
       {
         codigo: '4134910',
         nome: 'DANIEL LUCAS DA SILVA CINTRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8819,7 +9002,7 @@ async function main() {
       {
         codigo: '4134931',
         nome: 'DANIELIS CAROLINA URBANEJA FUENTES',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 28,
         password: 'senha',
@@ -8827,7 +9010,7 @@ async function main() {
       {
         codigo: '4134948',
         nome: 'DORIANA CARREIRA CAMILO',
-        idade: 29,
+
         funcao: 'apoio',
         clubeId: 28,
         password: 'senha',
@@ -8835,7 +9018,7 @@ async function main() {
       {
         codigo: '4134912',
         nome: 'ESTEVAN CAMILO DOS PASSOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8843,7 +9026,7 @@ async function main() {
       {
         codigo: '4134913',
         nome: 'FRANCISCO DANIEL URBANEJA FUENTES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8851,7 +9034,7 @@ async function main() {
       {
         codigo: '4134946',
         nome: 'IGOR HENRIQUE DA SILVA',
-        idade: 26,
+
         funcao: 'apoio',
         clubeId: 28,
         password: 'senha',
@@ -8859,7 +9042,7 @@ async function main() {
       {
         codigo: '4134915',
         nome: 'JOSE LUCAS SILVA CINTRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8867,7 +9050,7 @@ async function main() {
       {
         codigo: '4134944',
         nome: 'JOSE PAULO GOMES DA SILVA',
-        idade: 20,
+
         funcao: 'apoio',
         clubeId: 28,
         password: 'senha',
@@ -8875,7 +9058,7 @@ async function main() {
       {
         codigo: '4134917',
         nome: 'KEYSMER ALEJANDRO ARZOLAY SABALLO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8883,7 +9066,7 @@ async function main() {
       {
         codigo: '4134930',
         nome: 'LAYLA GABRIELLY EVANGELISTA SANTOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8891,7 +9074,7 @@ async function main() {
       {
         codigo: '4134940',
         nome: 'LEOSMAR ANTONIO GUEVARA LOPEZ',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 28,
         password: 'senha',
@@ -8899,7 +9082,7 @@ async function main() {
       {
         codigo: '4134919',
         nome: 'MILANYELI ALEJANDRA ARZOLAY SABALLO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8907,7 +9090,7 @@ async function main() {
       {
         codigo: '4134935',
         nome: 'MURILO SANTANA SANTOS',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 28,
         password: 'senha',
@@ -8915,7 +9098,7 @@ async function main() {
       {
         codigo: '4134936',
         nome: 'NADIR DOS SANTOS GONÇALVES PEREIRA',
-        idade: 60,
+
         funcao: 'diretoria',
         clubeId: 28,
         password: 'senha',
@@ -8923,7 +9106,7 @@ async function main() {
       {
         codigo: '4134942',
         nome: 'NATHANA MONIQUE CUNHA DE OLIVEIRA',
-        idade: 25,
+
         funcao: 'diretoria',
         clubeId: 28,
         password: 'senha',
@@ -8931,7 +9114,7 @@ async function main() {
       {
         codigo: '4134938',
         nome: 'OMAR ELIAS REQUENA BRICENO',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 28,
         password: 'senha',
@@ -8939,7 +9122,7 @@ async function main() {
       {
         codigo: '4134933',
         nome: 'PATRICIA RAMOS DA SILVA',
-        idade: 19,
+
         funcao: 'apoio',
         clubeId: 28,
         password: 'senha',
@@ -8947,7 +9130,7 @@ async function main() {
       {
         codigo: '4134921',
         nome: 'TITUS MEDJINE WILENSKA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8955,7 +9138,7 @@ async function main() {
       {
         codigo: '4134939',
         nome: 'WEVERTON MENDONÇA SANTANA',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 28,
         password: 'senha',
@@ -8963,7 +9146,7 @@ async function main() {
       {
         codigo: '4134922',
         nome: 'WOL KENSLEY TITUS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8971,7 +9154,7 @@ async function main() {
       {
         codigo: '4134924',
         nome: 'YOFRAINYS VERÓNICA GOYO INFANTE',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 28,
         password: 'senha',
@@ -8979,7 +9162,7 @@ async function main() {
       {
         codigo: '4029077',
         nome: 'ANDERSON LUIS DA SILVA NASCIMENTO',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 29,
         password: 'senha',
@@ -8987,7 +9170,7 @@ async function main() {
       {
         codigo: '4029178',
         nome: 'CAIO AUGUSTO PEREIRA WEBER',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -8995,7 +9178,7 @@ async function main() {
       {
         codigo: '4029079',
         nome: 'CLAUDIA MORAIS GARCIA',
-        idade: 41,
+
         funcao: 'diretoria',
         clubeId: 29,
         password: 'senha',
@@ -9003,7 +9186,7 @@ async function main() {
       {
         codigo: '4029206',
         nome: 'CÉLIO R GARCIA',
-        idade: 51,
+
         funcao: 'apoio',
         clubeId: 29,
         password: 'senha',
@@ -9011,7 +9194,7 @@ async function main() {
       {
         codigo: '4029227',
         nome: 'EDSON MOREIRA DOS SANTOS',
-        idade: 41,
+
         funcao: 'apoio',
         clubeId: 29,
         password: 'senha',
@@ -9019,7 +9202,7 @@ async function main() {
       {
         codigo: '4029177',
         nome: 'FRANCISCO RICARDO DE SOUZA',
-        idade: 30,
+
         funcao: 'diretoria',
         clubeId: 29,
         password: 'senha',
@@ -9027,7 +9210,7 @@ async function main() {
       {
         codigo: '4029185',
         nome: 'GEDEON CARLOS DE SOUZA JUNIOR',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9035,7 +9218,7 @@ async function main() {
       {
         codigo: '4029187',
         nome: 'GISELY DE SOUZA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9043,7 +9226,7 @@ async function main() {
       {
         codigo: '4052399',
         nome: 'HAYANDARA LORRAYNE OLIVEIRA NOVAKOSKI',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9051,7 +9234,7 @@ async function main() {
       {
         codigo: '4029189',
         nome: 'HUDSON DE OLIVEIRA MARTINS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9059,7 +9242,7 @@ async function main() {
       {
         codigo: '4029190',
         nome: 'JOAO AUGUSTO DA SILVA LORAGIAM',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9067,7 +9250,7 @@ async function main() {
       {
         codigo: '4029191',
         nome: 'JULIA KEROLAYNE MORAIS DOS SANTOS ROCHA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9075,7 +9258,7 @@ async function main() {
       {
         codigo: '4186848',
         nome: 'JULIANA MORAIS DOS SANTOS',
-        idade: 33,
+
         funcao: 'apoio',
         clubeId: 29,
         password: 'senha',
@@ -9083,7 +9266,7 @@ async function main() {
       {
         codigo: '4122248',
         nome: 'KAROLYNE BORGES DE MATOS',
-        idade: 25,
+
         funcao: 'apoio',
         clubeId: 29,
         password: 'senha',
@@ -9091,7 +9274,7 @@ async function main() {
       {
         codigo: '4029081',
         nome: 'LAURA LOPES FERREIRA',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 29,
         password: 'senha',
@@ -9099,7 +9282,7 @@ async function main() {
       {
         codigo: '4029193',
         nome: 'LUCAS HENRIQUE DA SILVA NASCIMENTO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9107,7 +9290,7 @@ async function main() {
       {
         codigo: '4029205',
         nome: 'LUCILENE DOS SANTOS ABREU',
-        idade: 50,
+
         funcao: 'apoio',
         clubeId: 29,
         password: 'senha',
@@ -9115,7 +9298,7 @@ async function main() {
       {
         codigo: '4213276',
         nome: 'MARIA ZILDA DE SOUZA SANTANA',
-        idade: 63,
+
         funcao: 'apoio',
         clubeId: 29,
         password: 'senha',
@@ -9123,7 +9306,7 @@ async function main() {
       {
         codigo: '4029195',
         nome: 'PATRICIA BISCOLI DE SOUZA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9131,7 +9314,7 @@ async function main() {
       {
         codigo: '4029203',
         nome: 'PAULO SÉRGIO LÚCIO DA SILVA',
-        idade: 54,
+
         funcao: 'apoio',
         clubeId: 29,
         password: 'senha',
@@ -9139,7 +9322,7 @@ async function main() {
       {
         codigo: '4029199',
         nome: 'SAMUEL MORAIS DOS SANTOS GARCIA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9147,7 +9330,7 @@ async function main() {
       {
         codigo: '4213074',
         nome: 'TAYZA VITORIA ALVES MOREIRA DE SOUZA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9155,7 +9338,7 @@ async function main() {
       {
         codigo: '4029200',
         nome: 'WANDERSON ALVES DA SILVA FILHO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9163,7 +9346,7 @@ async function main() {
       {
         codigo: '4122274',
         nome: 'YACHYMA CAROLINE OLIVERA DA SILVA SOUZA',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 29,
         password: 'senha',
@@ -9171,7 +9354,7 @@ async function main() {
       {
         codigo: '4029201',
         nome: 'YASMIN DOS SANTOS SOUZA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 29,
         password: 'senha',
@@ -9179,7 +9362,7 @@ async function main() {
       {
         codigo: '4149470',
         nome: 'YEAN CARLOS ROJAS',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 29,
         password: 'senha',
@@ -9187,7 +9370,7 @@ async function main() {
       {
         codigo: '4131252',
         nome: 'ADRIELLY ARAUJO DA SILVA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9195,7 +9378,7 @@ async function main() {
       {
         codigo: '4195608',
         nome: 'ALEX MAX SOARES',
-        idade: 40,
+
         funcao: 'apoio',
         clubeId: 30,
         password: 'senha',
@@ -9203,7 +9386,7 @@ async function main() {
       {
         codigo: '4085147',
         nome: 'ALICE REIS SILVA MAGALHÃES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9211,7 +9394,7 @@ async function main() {
       {
         codigo: '4086055',
         nome: 'ANDRE GUSTAVO SOARES',
-        idade: 36,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9219,7 +9402,7 @@ async function main() {
       {
         codigo: '4085120',
         nome: 'BIANCA LARYSSA DE LIMA REIS',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9227,7 +9410,7 @@ async function main() {
       {
         codigo: '4085151',
         nome: 'CALEBE ARAUJO BATISTA SIQUEIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9235,7 +9418,7 @@ async function main() {
       {
         codigo: '4085153',
         nome: 'CINTIA EMANUELLE GONÇALVES REZENDE',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9243,7 +9426,7 @@ async function main() {
       {
         codigo: '4085155',
         nome: 'CLARA BEATRIZ SIQUEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9251,7 +9434,7 @@ async function main() {
       {
         codigo: '4198761',
         nome: 'DEBORA HAPUCK DA SILVA NEVES',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9259,7 +9442,7 @@ async function main() {
       {
         codigo: '4085159',
         nome: 'EVANDRO CESAR DA SILVA FILIPE',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9267,7 +9450,7 @@ async function main() {
       {
         codigo: '4085161',
         nome: 'EVERTON HENRIQUE DA SILVA FILIPE',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9275,7 +9458,7 @@ async function main() {
       {
         codigo: '4085165',
         nome: 'FELIPE GABRIEL ESCOBAR MATORÉ',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9283,7 +9466,7 @@ async function main() {
       {
         codigo: '4128789',
         nome: 'FERNANDA LAUREN SILVA CAMPOS SANTOS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9291,7 +9474,7 @@ async function main() {
       {
         codigo: '4086084',
         nome: 'GABRIEL ANTONY MACEDO PERUZZO',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9299,7 +9482,7 @@ async function main() {
       {
         codigo: '4128785',
         nome: 'GIOVANNA DA CRUZ SANTANA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9307,7 +9490,7 @@ async function main() {
       {
         codigo: '4085171',
         nome: 'GUILHERME GONÇALVES DOS REIS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9315,7 +9498,7 @@ async function main() {
       {
         codigo: '4085172',
         nome: 'HEITOR PAZ GONÇALVES DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9323,7 +9506,7 @@ async function main() {
       {
         codigo: '4085173',
         nome: 'HELDER NAALAAD DA BOA MORTE NEVES',
-        idade: 25,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9331,7 +9514,7 @@ async function main() {
       {
         codigo: '4085175',
         nome: 'HELENA VEDOVATO FERREIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9339,7 +9522,7 @@ async function main() {
       {
         codigo: '4085177',
         nome: 'ISABELE CASTILHO LIRIO CIGANO DE SOUZA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9347,7 +9530,7 @@ async function main() {
       {
         codigo: '4085179',
         nome: 'ISAMARA JUREMEIRA ARRUDA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9355,7 +9538,7 @@ async function main() {
       {
         codigo: '4085243',
         nome: 'ISIS SOPHIA ESCOBAR MATORE',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9363,7 +9546,7 @@ async function main() {
       {
         codigo: '4131250',
         nome: 'JOSIELA PEREIRA BORGES DEVAI',
-        idade: 37,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9371,7 +9554,7 @@ async function main() {
       {
         codigo: '4085247',
         nome: 'JOÃO ANTONIO MOREIRA DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9379,7 +9562,7 @@ async function main() {
       {
         codigo: '4085254',
         nome: 'JOÃO EMANUEL ARRUDA WARMLING',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9387,7 +9570,7 @@ async function main() {
       {
         codigo: '4085259',
         nome: 'JOÃO HENRIQUE BATISTA DA SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9395,7 +9578,7 @@ async function main() {
       {
         codigo: '4086045',
         nome: 'JÚLIA BENTO DOS SANTOS DINIZ',
-        idade: 26,
+
         funcao: 'apoio',
         clubeId: 30,
         password: 'senha',
@@ -9403,7 +9586,7 @@ async function main() {
       {
         codigo: '4085261',
         nome: 'LAURA BORGES DEVAI MARTINS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9411,7 +9594,7 @@ async function main() {
       {
         codigo: '4131251',
         nome: 'LAURA LENE S. CAMPOS SANTOS',
-        idade: 44,
+
         funcao: 'apoio',
         clubeId: 30,
         password: 'senha',
@@ -9419,7 +9602,7 @@ async function main() {
       {
         codigo: '4128787',
         nome: 'LAVINEA WAECHTER DA CRUZ',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9427,7 +9610,7 @@ async function main() {
       {
         codigo: '4128790',
         nome: 'LIVIA PAZ GONÇALVES DA SILVA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9435,7 +9618,7 @@ async function main() {
       {
         codigo: '4085263',
         nome: 'LIZIE PAZ GONÇALVES CUNHA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9443,7 +9626,7 @@ async function main() {
       {
         codigo: '4128793',
         nome: 'LUIZA PAULA DE ARAUJO BATISTA',
-        idade: 53,
+
         funcao: 'apoio',
         clubeId: 30,
         password: 'senha',
@@ -9451,7 +9634,7 @@ async function main() {
       {
         codigo: '4086112',
         nome: 'MARIA EDUARDA VICTORIA MARTINS WELCHEN',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9459,7 +9642,7 @@ async function main() {
       {
         codigo: '4085268',
         nome: 'MARIANE LUIZA SOARES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9467,7 +9650,7 @@ async function main() {
       {
         codigo: '4085274',
         nome: 'MATHEUS KAUAN NUNES DE ARRUDA',
-        idade: 19,
+
         funcao: 'apoio',
         clubeId: 30,
         password: 'senha',
@@ -9475,7 +9658,7 @@ async function main() {
       {
         codigo: '4085276',
         nome: 'MIGUEL BORGES DE FIGUEIREDO SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9483,7 +9666,7 @@ async function main() {
       {
         codigo: '4085283',
         nome: 'MIRIAM ALICE GONÇALVES RIBEIRO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9491,7 +9674,7 @@ async function main() {
       {
         codigo: '4086076',
         nome: 'MONIZE GABRIELLY DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9499,7 +9682,7 @@ async function main() {
       {
         codigo: '4128791',
         nome: 'MYLENA GONÇALVES AZEVEDO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9507,7 +9690,7 @@ async function main() {
       {
         codigo: '4085308',
         nome: 'NICOLAS BATISTA SIQUEIRA BARROS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9515,7 +9698,7 @@ async function main() {
       {
         codigo: '4085365',
         nome: 'NIELY DAYANA BORGES BISPO SOARES',
-        idade: 35,
+
         funcao: 'apoio',
         clubeId: 30,
         password: 'senha',
@@ -9523,7 +9706,7 @@ async function main() {
       {
         codigo: '4203682',
         nome: 'ODAIR GUSTAVO MACARIO MUNIZ',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9531,7 +9714,7 @@ async function main() {
       {
         codigo: '4085315',
         nome: 'RIHANNE VITÓRIA S. CAMPOS SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9539,7 +9722,7 @@ async function main() {
       {
         codigo: '4085318',
         nome: 'SOFIA BORGES MEDEIROS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9547,7 +9730,7 @@ async function main() {
       {
         codigo: '4085330',
         nome: 'THAILA GONCALVES VENTURA DE CAMPOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9555,7 +9738,7 @@ async function main() {
       {
         codigo: '4128788',
         nome: 'THAYLLA CRISTINA CAMPOS SOARES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9563,7 +9746,7 @@ async function main() {
       {
         codigo: '4085350',
         nome: 'THAYNA GONÇALVES VENTURA DE CAMPOS',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9571,7 +9754,7 @@ async function main() {
       {
         codigo: '4085337',
         nome: 'THIAGO ALVES  MAKUS',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9579,7 +9762,7 @@ async function main() {
       {
         codigo: '4085339',
         nome: 'THIAGO VICTOR DE MIRANDA MONTEIRO',
-        idade: 23,
+
         funcao: 'apoio',
         clubeId: 30,
         password: 'senha',
@@ -9587,7 +9770,7 @@ async function main() {
       {
         codigo: '4085342',
         nome: 'VICTOR HUGO TEIXEIRA COELHO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9595,7 +9778,7 @@ async function main() {
       {
         codigo: '4128792',
         nome: 'VITOR FRANCISCO REGIS DE OLIVEIRA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9603,7 +9786,7 @@ async function main() {
       {
         codigo: '4086047',
         nome: 'WESLEY LEANDRO DA SILVA',
-        idade: 23,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9611,7 +9794,7 @@ async function main() {
       {
         codigo: '4085359',
         nome: 'YASMIM LEANDRA DA SILVA',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 30,
         password: 'senha',
@@ -9619,7 +9802,7 @@ async function main() {
       {
         codigo: '4085345',
         nome: 'YASMIN DE OLIVEIRA DA SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 30,
         password: 'senha',
@@ -9627,7 +9810,7 @@ async function main() {
       {
         codigo: '4082775',
         nome: 'ANTÔNIO RUDSON DOS REIS DE SOUSA',
-        idade: 36,
+
         funcao: 'diretoria',
         clubeId: 31,
         password: 'senha',
@@ -9635,7 +9818,7 @@ async function main() {
       {
         codigo: '4083507',
         nome: 'BRYAN VINÍCIUS ECKERT SOARES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9643,7 +9826,7 @@ async function main() {
       {
         codigo: '4082778',
         nome: 'CAIO BACELAR DE CAMPOS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 31,
         password: 'senha',
@@ -9651,7 +9834,7 @@ async function main() {
       {
         codigo: '4082785',
         nome: 'DANIEL BACELAR DE CAMPOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9659,7 +9842,7 @@ async function main() {
       {
         codigo: '4082818',
         nome: 'DAVILA SOUSA PROTACIO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9667,7 +9850,7 @@ async function main() {
       {
         codigo: '4082870',
         nome: 'DEBORA SOUSA PROTACIO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9675,7 +9858,7 @@ async function main() {
       {
         codigo: '4082906',
         nome: 'ELINETI MOREIRA BACELAR DE CAMPOS',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 31,
         password: 'senha',
@@ -9683,7 +9866,7 @@ async function main() {
       {
         codigo: '4083485',
         nome: 'ESTER DOS SANTOS SOUZA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9691,7 +9874,7 @@ async function main() {
       {
         codigo: '4082876',
         nome: 'GABRIELLY GOTARDO VIER',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9699,7 +9882,7 @@ async function main() {
       {
         codigo: '4082853',
         nome: 'GEICIANE BACELAR OISSA',
-        idade: 26,
+
         funcao: 'diretoria',
         clubeId: 31,
         password: 'senha',
@@ -9707,7 +9890,7 @@ async function main() {
       {
         codigo: '4082961',
         nome: 'HELOISA DE SOUZA MOREIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9715,7 +9898,7 @@ async function main() {
       {
         codigo: '4082909',
         nome: 'ITALO DOS SANTOS DA SILVA',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 31,
         password: 'senha',
@@ -9723,7 +9906,7 @@ async function main() {
       {
         codigo: '4083400',
         nome: 'JEFFERSON DOUGLAS DE ARAÚJO DUTRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9731,7 +9914,7 @@ async function main() {
       {
         codigo: '4083390',
         nome: 'JÚLIA GABRIELI SANTOS DO AMARAL',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9739,7 +9922,7 @@ async function main() {
       {
         codigo: '4082860',
         nome: 'KAUA VITOR FERREIRA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9747,7 +9930,7 @@ async function main() {
       {
         codigo: '4082847',
         nome: 'KAUANI DE ARAÚJO DO NASCIMENTO',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 31,
         password: 'senha',
@@ -9755,7 +9938,7 @@ async function main() {
       {
         codigo: '4121731',
         nome: 'MARIA FERNANDA FARIAS DE CARVALHO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9763,7 +9946,7 @@ async function main() {
       {
         codigo: '4083403',
         nome: 'MARIA LEILA DOS SANTOS SOUZA',
-        idade: 40,
+
         funcao: 'apoio',
         clubeId: 31,
         password: 'senha',
@@ -9771,7 +9954,7 @@ async function main() {
       {
         codigo: '4083393',
         nome: 'MARLON HENRIQUE SOARES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9779,7 +9962,7 @@ async function main() {
       {
         codigo: '4082787',
         nome: 'MILENA EVELYN CRUZ DE CARVALHO',
-        idade: 21,
+
         funcao: 'apoio',
         clubeId: 31,
         password: 'senha',
@@ -9787,7 +9970,7 @@ async function main() {
       {
         codigo: '4082828',
         nome: 'RAFAEL BACELAR OISSA',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 31,
         password: 'senha',
@@ -9795,7 +9978,7 @@ async function main() {
       {
         codigo: '4082932',
         nome: 'RAFAEL PROTÁCIO RODRIGUES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9803,7 +9986,7 @@ async function main() {
       {
         codigo: '4082935',
         nome: 'RAFAELA DOS SANTOS COSTA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9811,7 +9994,7 @@ async function main() {
       {
         codigo: '4083508',
         nome: 'RAFAELLA DOS SANTOS PROTÁCIO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9819,7 +10002,7 @@ async function main() {
       {
         codigo: '4083380',
         nome: 'RAYLA PEREIRA DOS SANTOS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9827,7 +10010,7 @@ async function main() {
       {
         codigo: '4082910',
         nome: 'RICARDO PINHEIRO DO NASCIMENTO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 31,
         password: 'senha',
@@ -9835,7 +10018,7 @@ async function main() {
       {
         codigo: '4083305',
         nome: 'SAMUEL SOARES PATEIS',
-        idade: 19,
+
         funcao: 'apoio',
         clubeId: 31,
         password: 'senha',
@@ -9843,7 +10026,7 @@ async function main() {
       {
         codigo: '4082882',
         nome: 'STEPHANIE DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9851,7 +10034,7 @@ async function main() {
       {
         codigo: '4082912',
         nome: 'VALDECIR OISSA',
-        idade: 57,
+
         funcao: 'apoio',
         clubeId: 31,
         password: 'senha',
@@ -9859,7 +10042,7 @@ async function main() {
       {
         codigo: '4082949',
         nome: 'VINICIUS DE SOUZA MOREIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9867,7 +10050,7 @@ async function main() {
       {
         codigo: '4082884',
         nome: 'YONARA PEREIRA SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 31,
         password: 'senha',
@@ -9875,7 +10058,7 @@ async function main() {
       {
         codigo: '4077759',
         nome: 'ABGAIL SOUSA VIANA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -9883,7 +10066,7 @@ async function main() {
       {
         codigo: '4140318',
         nome: 'ALEKSSANDRO ARRUDA PAIXÃO',
-        idade: 46,
+
         funcao: 'apoio',
         clubeId: 32,
         password: 'senha',
@@ -9891,7 +10074,7 @@ async function main() {
       {
         codigo: '4140324',
         nome: 'ALLISON MANGABEIRA HONORIO',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 32,
         password: 'senha',
@@ -9899,7 +10082,7 @@ async function main() {
       {
         codigo: '4082043',
         nome: 'ANTHONY PEREIRA NUNES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -9907,7 +10090,7 @@ async function main() {
       {
         codigo: '4082049',
         nome: 'ARIANY VITÓRIA CARVALHO HONORIO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -9915,7 +10098,7 @@ async function main() {
       {
         codigo: '4082127',
         nome: 'BIANCA BRANDAO DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -9923,7 +10106,7 @@ async function main() {
       {
         codigo: '4140310',
         nome: 'CAIO RAFAEL DA COSTA LOURENO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -9931,7 +10114,7 @@ async function main() {
       {
         codigo: '4204360',
         nome: 'CAMILLA DUARTE SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -9939,7 +10122,7 @@ async function main() {
       {
         codigo: '4208215',
         nome: 'DEUSELY SILVA SOUSA VIANA',
-        idade: 38,
+
         funcao: 'apoio',
         clubeId: 32,
         password: 'senha',
@@ -9947,7 +10130,7 @@ async function main() {
       {
         codigo: '4140363',
         nome: 'EVELYN DUARTE DOS SANTOS',
-        idade: 9,
+
         funcao: 'apoio',
         clubeId: 32,
         password: 'senha',
@@ -9955,7 +10138,7 @@ async function main() {
       {
         codigo: '4146389',
         nome: 'FLAY JUNIOR DOS SANTOS PEIXOTO DA SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 32,
         password: 'senha',
@@ -9963,7 +10146,7 @@ async function main() {
       {
         codigo: '4140368',
         nome: 'FRANCISCA BEATRIZ OLIVEIRA DE LIMA GOMES',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 32,
         password: 'senha',
@@ -9971,7 +10154,7 @@ async function main() {
       {
         codigo: '4140365',
         nome: 'FRANCISCA DEYSE BIANCA OLIVEIRA DE LIMA',
-        idade: 8,
+
         funcao: 'apoio',
         clubeId: 32,
         password: 'senha',
@@ -9979,7 +10162,7 @@ async function main() {
       {
         codigo: '4082130',
         nome: 'FRANCISCO DYASSIS OLIVEIRA DE LIMA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -9987,7 +10170,7 @@ async function main() {
       {
         codigo: '4140372',
         nome: 'GABRIELE BARBOSA CARMOS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -9995,7 +10178,7 @@ async function main() {
       {
         codigo: '4144305',
         nome: 'GABRIELE DOS SANTOS SILVA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 32,
         password: 'senha',
@@ -10003,7 +10186,7 @@ async function main() {
       {
         codigo: '4082094',
         nome: 'ISABELLY VITORIA PEREIRA NUNES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -10011,7 +10194,7 @@ async function main() {
       {
         codigo: '4082106',
         nome: 'JAISSON KAUÃ LEAL PAES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -10019,7 +10202,7 @@ async function main() {
       {
         codigo: '4144308',
         nome: 'JOICI KAUNE DOS SANTOS BORGES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -10027,7 +10210,7 @@ async function main() {
       {
         codigo: '4144312',
         nome: 'JOÃO VICTOR ALVES DA SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 32,
         password: 'senha',
@@ -10035,7 +10218,7 @@ async function main() {
       {
         codigo: '4144316',
         nome: 'KETHELY NAYARA ALVES DA COSTA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -10043,7 +10226,7 @@ async function main() {
       {
         codigo: '4082108',
         nome: 'LARISSA GABRIELY ALVES PEIXOTO DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -10051,7 +10234,7 @@ async function main() {
       {
         codigo: '4144320',
         nome: 'LEANDRO VIEIRA DOS SANTOS',
-        idade: 45,
+
         funcao: 'diretoria',
         clubeId: 32,
         password: 'senha',
@@ -10059,7 +10242,7 @@ async function main() {
       {
         codigo: '4144322',
         nome: 'LEONARDO NEVES DE OLIVEIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -10067,7 +10250,7 @@ async function main() {
       {
         codigo: '4144324',
         nome: 'LEONECIO MARCIANO GOMES DE LIMA',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 32,
         password: 'senha',
@@ -10075,7 +10258,7 @@ async function main() {
       {
         codigo: '4149398',
         nome: 'LUIZA VITORIA PEREIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -10083,7 +10266,7 @@ async function main() {
       {
         codigo: '4207501',
         nome: 'MARIA JOSE GONÇALVES PEREIRA',
-        idade: 46,
+
         funcao: 'apoio',
         clubeId: 32,
         password: 'senha',
@@ -10091,7 +10274,7 @@ async function main() {
       {
         codigo: '4144329',
         nome: 'MARYANNA DA CRUZ MOREIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -10099,7 +10282,7 @@ async function main() {
       {
         codigo: '4144356',
         nome: 'NAYARA SANTANA PAIXÃO JULIANI',
-        idade: 25,
+
         funcao: 'diretoria',
         clubeId: 32,
         password: 'senha',
@@ -10107,7 +10290,7 @@ async function main() {
       {
         codigo: '4144355',
         nome: 'PEDRO HENRIQUE ALVES PEIXOTO DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -10115,7 +10298,7 @@ async function main() {
       {
         codigo: '4144358',
         nome: 'RENATA ALVES DOS SANTOS',
-        idade: 34,
+
         funcao: 'diretoria',
         clubeId: 32,
         password: 'senha',
@@ -10123,7 +10306,7 @@ async function main() {
       {
         codigo: '4208102',
         nome: 'ROZELI BACH FERGUTZ',
-        idade: 54,
+
         funcao: 'apoio',
         clubeId: 32,
         password: 'senha',
@@ -10131,7 +10314,7 @@ async function main() {
       {
         codigo: '4146398',
         nome: 'SANDRA DUARTE DA SILVA',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 32,
         password: 'senha',
@@ -10139,7 +10322,7 @@ async function main() {
       {
         codigo: '4144398',
         nome: 'SARA FREITAS MENDONÇA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 32,
         password: 'senha',
@@ -10147,7 +10330,7 @@ async function main() {
       {
         codigo: '4189383',
         nome: 'ANDRESSA MARTINS MORETO',
-        idade: 26,
+
         funcao: 'apoio',
         clubeId: 33,
         password: 'senha',
@@ -10155,7 +10338,7 @@ async function main() {
       {
         codigo: '4067826',
         nome: 'ANDRÉ MARQUES DOS SANTOS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 33,
         password: 'senha',
@@ -10163,7 +10346,7 @@ async function main() {
       {
         codigo: '4067810',
         nome: 'ANNA CRISTINA SANTOS LEAL',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10171,7 +10354,7 @@ async function main() {
       {
         codigo: '4067829',
         nome: 'ANNA JULIA CAMARGO SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10179,7 +10362,7 @@ async function main() {
       {
         codigo: '4088634',
         nome: 'BRUNO TRINDADE DOS SANTOS',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 33,
         password: 'senha',
@@ -10187,7 +10370,7 @@ async function main() {
       {
         codigo: '4067835',
         nome: 'DAVID GUSTAVO FÉLIX DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10195,7 +10378,7 @@ async function main() {
       {
         codigo: '4088576',
         nome: 'EDUARDO NEPOMUCENA LANDVOIGT DE OLIVEIRA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10203,7 +10386,7 @@ async function main() {
       {
         codigo: '4067830',
         nome: 'EMANOELY MARETO CORDEIRO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10211,7 +10394,7 @@ async function main() {
       {
         codigo: '4067837',
         nome: 'IASMIM MARQUES DOS SANTOS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10219,7 +10402,7 @@ async function main() {
       {
         codigo: '4067832',
         nome: 'IGOR LOPES DOS SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10227,7 +10410,7 @@ async function main() {
       {
         codigo: '4067839',
         nome: 'JAEDER GUIMARAES COLOMBO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10235,7 +10418,7 @@ async function main() {
       {
         codigo: '4189385',
         nome: 'JOSÉ LUCAS OLIVEIRA ALVES',
-        idade: 23,
+
         funcao: 'diretoria',
         clubeId: 33,
         password: 'senha',
@@ -10243,7 +10426,7 @@ async function main() {
       {
         codigo: '4067842',
         nome: 'MARIA ISABEL CAMARGO DA LUZ',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10251,7 +10434,7 @@ async function main() {
       {
         codigo: '4202000',
         nome: 'NATHALI DE OLIVEIRA SHULTZ MACHADO',
-        idade: 18,
+
         funcao: 'apoio',
         clubeId: 33,
         password: 'senha',
@@ -10259,7 +10442,7 @@ async function main() {
       {
         codigo: '4201974',
         nome: 'ROSENY DE OLIVEIRA MACHADO',
-        idade: 49,
+
         funcao: 'apoio',
         clubeId: 33,
         password: 'senha',
@@ -10267,7 +10450,7 @@ async function main() {
       {
         codigo: '4202003',
         nome: 'ROSILAINE APARECIDA FREITAS MATTOS',
-        idade: 41,
+
         funcao: 'apoio',
         clubeId: 33,
         password: 'senha',
@@ -10275,7 +10458,7 @@ async function main() {
       {
         codigo: '4088589',
         nome: 'SAMIRA FERREIRA DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10283,7 +10466,7 @@ async function main() {
       {
         codigo: '4067846',
         nome: 'SAMUEL CORREIA SOUZA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10291,7 +10474,7 @@ async function main() {
       {
         codigo: '4088631',
         nome: 'VICTOR GABRIEL REIS SARAIVA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 33,
         password: 'senha',
@@ -10299,7 +10482,7 @@ async function main() {
       {
         codigo: '4067847',
         nome: 'VICTORIA MENDONÇA PIMENTEL ALVES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10307,7 +10490,7 @@ async function main() {
       {
         codigo: '4067849',
         nome: 'WILLIAN MATTOS WEBER',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 33,
         password: 'senha',
@@ -10315,7 +10498,7 @@ async function main() {
       {
         codigo: '4088649',
         nome: 'YASMIN DOS SANTOS SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 33,
         password: 'senha',
@@ -10323,7 +10506,7 @@ async function main() {
       {
         codigo: '4123903',
         nome: 'ANNA RACKELLY RODRIGUES GONÇALVES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10331,7 +10514,7 @@ async function main() {
       {
         codigo: '4197858',
         nome: 'CARLOS MIGUEL BABINSKI',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10339,7 +10522,7 @@ async function main() {
       {
         codigo: '4002381',
         nome: 'CREODETE DA COSTA PRADO MARTINS',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 34,
         password: 'senha',
@@ -10347,7 +10530,7 @@ async function main() {
       {
         codigo: '4123913',
         nome: 'ENDER JESUS GARCIA LOPEZ',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10355,7 +10538,7 @@ async function main() {
       {
         codigo: '4197862',
         nome: 'GABRIEL BORGES MATIAS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10363,7 +10546,7 @@ async function main() {
       {
         codigo: '4002496',
         nome: 'GEOVANA DE SOUZA CAMPOS',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 34,
         password: 'senha',
@@ -10371,7 +10554,7 @@ async function main() {
       {
         codigo: '4123911',
         nome: 'HENDIMAR ALEXANDRA VILLA LOBOS GARCIA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10379,7 +10562,7 @@ async function main() {
       {
         codigo: '4203699',
         nome: 'ISADORA EDUARDA LEORATTO SARAIVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10387,7 +10570,7 @@ async function main() {
       {
         codigo: '4002385',
         nome: 'ISAQUE OLIVEIRA DE ALMEIDA FIGUEIREDO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10395,7 +10578,7 @@ async function main() {
       {
         codigo: '4204728',
         nome: 'JHUAN CASTILHO OLIVEIRA LIRIO',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 34,
         password: 'senha',
@@ -10403,7 +10586,7 @@ async function main() {
       {
         codigo: '4002390',
         nome: 'LORENA OLIVEIRA DE ALMEIDA FIGUEIREDO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10411,7 +10594,7 @@ async function main() {
       {
         codigo: '4002540',
         nome: 'LUANNA OHANNA SANTOS OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10419,7 +10602,7 @@ async function main() {
       {
         codigo: '4203704',
         nome: 'LUCAS EDUARDO SOARES DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10427,7 +10610,7 @@ async function main() {
       {
         codigo: '4002392',
         nome: 'LUCIANA FIGUEIREDO DA CRUZ',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10435,7 +10618,7 @@ async function main() {
       {
         codigo: '4123908',
         nome: 'MARIA EDUARDA FERREIRA DE MIRANDA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10443,7 +10626,7 @@ async function main() {
       {
         codigo: '4203978',
         nome: 'MARINÊZ DE OLIVEIRA CRUZ DOS SANTOS',
-        idade: 55,
+
         funcao: 'apoio',
         clubeId: 34,
         password: 'senha',
@@ -10451,7 +10634,7 @@ async function main() {
       {
         codigo: '4125066',
         nome: 'NICOLAS DE SOUZA MENEZES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10459,7 +10642,7 @@ async function main() {
       {
         codigo: '4203701',
         nome: 'ODETE ACELINA CARVALHO LIMA',
-        idade: 39,
+
         funcao: 'apoio',
         clubeId: 34,
         password: 'senha',
@@ -10467,7 +10650,7 @@ async function main() {
       {
         codigo: '4123906',
         nome: 'PABLO MIGUEL DOS SANTOS RODRIGUES FERREIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10475,7 +10658,7 @@ async function main() {
       {
         codigo: '4132818',
         nome: 'PAOLA MARTINS DA COSTA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 34,
         password: 'senha',
@@ -10483,7 +10666,7 @@ async function main() {
       {
         codigo: '4203710',
         nome: 'PEDRO HENRIQUE DAVID SANTANA CRUZ',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10491,7 +10674,7 @@ async function main() {
       {
         codigo: '4002397',
         nome: 'PRISCILLA DA COSTA MARTINS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 34,
         password: 'senha',
@@ -10499,7 +10682,7 @@ async function main() {
       {
         codigo: '4132816',
         nome: 'RAIANE NAYARA LIMA DE OLIVEIRA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 34,
         password: 'senha',
@@ -10507,7 +10690,7 @@ async function main() {
       {
         codigo: '4002403',
         nome: 'RIAN VIEIRA DE ALMEIDA FERREIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10515,7 +10698,7 @@ async function main() {
       {
         codigo: '4152539',
         nome: 'RICARDO DA COSTA MARTINS',
-        idade: 25,
+
         funcao: 'diretoria',
         clubeId: 34,
         password: 'senha',
@@ -10523,7 +10706,7 @@ async function main() {
       {
         codigo: '4195606',
         nome: 'RICARDO GONÇALVES DA CRUZ',
-        idade: 37,
+
         funcao: 'apoio',
         clubeId: 34,
         password: 'senha',
@@ -10531,7 +10714,7 @@ async function main() {
       {
         codigo: '4195618',
         nome: 'SABRINA VITÓRIA SOUZA TAQUES MARTINS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 34,
         password: 'senha',
@@ -10539,7 +10722,7 @@ async function main() {
       {
         codigo: '4002659',
         nome: 'VILMA TIEEN  LÍRIO',
-        idade: 61,
+
         funcao: 'apoio',
         clubeId: 34,
         password: 'senha',
@@ -10547,7 +10730,7 @@ async function main() {
       {
         codigo: '4002404',
         nome: 'WELYSSON AQUINO FERGUSON',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 34,
         password: 'senha',
@@ -10555,7 +10738,7 @@ async function main() {
       {
         codigo: '4204508',
         nome: 'ALDENILSON BULCÃO FERREIRA',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 36,
         password: 'senha',
@@ -10563,7 +10746,7 @@ async function main() {
       {
         codigo: '4126818',
         nome: 'ANNA KAROLINA CARDOSO PEREIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10571,7 +10754,7 @@ async function main() {
       {
         codigo: '4204058',
         nome: 'ARTUR ALVES LUZ',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10579,7 +10762,7 @@ async function main() {
       {
         codigo: '4120648',
         nome: 'BONYER BEATRIZ ARAUJO DA SILVA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 36,
         password: 'senha',
@@ -10587,7 +10770,7 @@ async function main() {
       {
         codigo: '4120659',
         nome: 'BRENO CESAR MAGALHÃES DE OLIVEIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10595,7 +10778,7 @@ async function main() {
       {
         codigo: '4084479',
         nome: 'CAUAN RODRIGUES DE SOUZA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10603,7 +10786,7 @@ async function main() {
       {
         codigo: '4084488',
         nome: 'DANIEL SANTOS FRAISSAT',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10611,7 +10794,7 @@ async function main() {
       {
         codigo: '4194770',
         nome: 'ELIMAR DOS SANTOS SILVA',
-        idade: 40,
+
         funcao: 'apoio',
         clubeId: 36,
         password: 'senha',
@@ -10619,7 +10802,7 @@ async function main() {
       {
         codigo: '4084495',
         nome: 'EMMILY VITORIA MEDRADO DE MOURA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10627,7 +10810,7 @@ async function main() {
       {
         codigo: '4120661',
         nome: 'FAGNER GONÇALVES DE MELO',
-        idade: 35,
+
         funcao: 'apoio',
         clubeId: 36,
         password: 'senha',
@@ -10635,7 +10818,7 @@ async function main() {
       {
         codigo: '4126593',
         nome: 'FAGNER LUZ PIMENTEL',
-        idade: 32,
+
         funcao: 'apoio',
         clubeId: 36,
         password: 'senha',
@@ -10643,7 +10826,7 @@ async function main() {
       {
         codigo: '4120664',
         nome: 'GABRIEL NUNES DE MORAEIS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 36,
         password: 'senha',
@@ -10651,7 +10834,7 @@ async function main() {
       {
         codigo: '4204496',
         nome: 'HADASSA CHARROW PEREIRA COSTA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10659,7 +10842,7 @@ async function main() {
       {
         codigo: '4120667',
         nome: 'IOLANDA LOURENÇO DE SOUZA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 36,
         password: 'senha',
@@ -10667,7 +10850,7 @@ async function main() {
       {
         codigo: '4084525',
         nome: 'JOÃO VICTOR CALISTO DOS REIS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10675,7 +10858,7 @@ async function main() {
       {
         codigo: '4194780',
         nome: 'KELLY JEANE RAMOS CAMPOS',
-        idade: 19,
+
         funcao: 'apoio',
         clubeId: 36,
         password: 'senha',
@@ -10683,7 +10866,7 @@ async function main() {
       {
         codigo: '4143530',
         nome: 'LAYRANA ARAÚJO SILVA SOUZA',
-        idade: 27,
+
         funcao: 'apoio',
         clubeId: 36,
         password: 'senha',
@@ -10691,7 +10874,7 @@ async function main() {
       {
         codigo: '4204568',
         nome: 'LAYS FERREIRA COSTA',
-        idade: 35,
+
         funcao: 'apoio',
         clubeId: 36,
         password: 'senha',
@@ -10699,7 +10882,7 @@ async function main() {
       {
         codigo: '4120672',
         nome: 'LUCAS FRANCISCO DE SOUZA MORAES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10707,7 +10890,7 @@ async function main() {
       {
         codigo: '4120804',
         nome: 'MARCELO BARBOSA DOS SANTOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10715,7 +10898,7 @@ async function main() {
       {
         codigo: '4120679',
         nome: 'MARIA APARECIDA GONÇALVES DO NASCIMENTO',
-        idade: 54,
+
         funcao: 'diretoria',
         clubeId: 36,
         password: 'senha',
@@ -10723,7 +10906,7 @@ async function main() {
       {
         codigo: '4120683',
         nome: 'MARIA LUIZA ARAÚJO MARACAIPES.',
-        idade: 44,
+
         funcao: 'diretoria',
         clubeId: 36,
         password: 'senha',
@@ -10731,7 +10914,7 @@ async function main() {
       {
         codigo: '4199912',
         nome: 'MIGUEL NUNES DE MORAES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10739,7 +10922,7 @@ async function main() {
       {
         codigo: '4204055',
         nome: 'QUENTINO SEVERNO ALVES',
-        idade: 78,
+
         funcao: 'apoio',
         clubeId: 36,
         password: 'senha',
@@ -10747,7 +10930,7 @@ async function main() {
       {
         codigo: '4203983',
         nome: 'RAQUEL OZORIO DE SOUZA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10755,7 +10938,7 @@ async function main() {
       {
         codigo: '4204498',
         nome: 'REBECA CHARROW PEREIRA COSTA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10763,7 +10946,7 @@ async function main() {
       {
         codigo: '4120685',
         nome: 'RODRIGO MIRANDA SOARES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10771,7 +10954,7 @@ async function main() {
       {
         codigo: '4204693',
         nome: 'SIMÃO COSTA DE JESUS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 36,
         password: 'senha',
@@ -10779,7 +10962,7 @@ async function main() {
       {
         codigo: '4120689',
         nome: 'WILLY GONÇALVES NASCIMENTO',
-        idade: 31,
+
         funcao: 'apoio',
         clubeId: 36,
         password: 'senha',
@@ -10787,7 +10970,7 @@ async function main() {
       {
         codigo: '4204562',
         nome: 'AGEU MARTINS ARAUJO',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -10795,7 +10978,7 @@ async function main() {
       {
         codigo: '4082438',
         nome: 'ALINNE EDUARDA SIQUEIRA NOGUEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10803,7 +10986,7 @@ async function main() {
       {
         codigo: '4082439',
         nome: 'ANA CAROLLYNE CIRQUEIRA DE MORAIS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10811,7 +10994,7 @@ async function main() {
       {
         codigo: '4204559',
         nome: 'ANA JULIA DA SILVA GIEHL',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10819,7 +11002,7 @@ async function main() {
       {
         codigo: '4082442',
         nome: 'ANA ZATTA MARIN',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10827,7 +11010,7 @@ async function main() {
       {
         codigo: '4136650',
         nome: 'ANTÔNIO CARLOS AMORIM CAMARGO',
-        idade: 29,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -10835,7 +11018,7 @@ async function main() {
       {
         codigo: '4188991',
         nome: 'ANÍZIA CRISTINY GONÇALVES PEREIRA SOUZA',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -10843,7 +11026,7 @@ async function main() {
       {
         codigo: '4188994',
         nome: 'CARLA DOS REIS DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10851,7 +11034,7 @@ async function main() {
       {
         codigo: '4130210',
         nome: 'CHARLES LEONARDO DE OLIVEIRA DO NASCIMENTO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10859,7 +11042,7 @@ async function main() {
       {
         codigo: '4082443',
         nome: 'CLARA CRAUSS SOLETTI',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10867,7 +11050,7 @@ async function main() {
       {
         codigo: '4121782',
         nome: 'DANIEL STECKER SANTOS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10875,7 +11058,7 @@ async function main() {
       {
         codigo: '4196283',
         nome: 'DENISE GALVAN BRAFF DE CASTELLO BRANCO',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 37,
         password: 'senha',
@@ -10883,7 +11066,7 @@ async function main() {
       {
         codigo: '4082551',
         nome: 'ELIENE FÁTIMA DE LARA SILVA',
-        idade: 40,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -10891,7 +11074,7 @@ async function main() {
       {
         codigo: '4082453',
         nome: 'ELISA REINISCH',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10899,7 +11082,7 @@ async function main() {
       {
         codigo: '4189013',
         nome: 'ENILDA RODRIGUES TERRES ANTUNES',
-        idade: 63,
+
         funcao: 'apoio',
         clubeId: 37,
         password: 'senha',
@@ -10907,7 +11090,7 @@ async function main() {
       {
         codigo: '4082456',
         nome: 'ERICA CRISTINA CIRQUEIRA DA SILVA DE MORAIS',
-        idade: 33,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -10915,7 +11098,7 @@ async function main() {
       {
         codigo: '4082458',
         nome: 'FRANCIELLE TERRES ANTUNES',
-        idade: 38,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -10923,7 +11106,7 @@ async function main() {
       {
         codigo: '4082500',
         nome: 'GABRIEL SILVA DE CARVALHO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10931,7 +11114,7 @@ async function main() {
       {
         codigo: '4082503',
         nome: 'GABRIELA TERRES DE OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10939,7 +11122,7 @@ async function main() {
       {
         codigo: '4082504',
         nome: 'GRAZIELLA LOPES DOS SANTOS E SILVA',
-        idade: 36,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -10947,7 +11130,7 @@ async function main() {
       {
         codigo: '4188993',
         nome: 'GUILERME HENRIQUE LEITE RUAS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10955,7 +11138,7 @@ async function main() {
       {
         codigo: '4082507',
         nome: 'GUSTAVO NICOLAO',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -10963,7 +11146,7 @@ async function main() {
       {
         codigo: '4082510',
         nome: 'HELENA BRAFF DE CASTELLO BRANCO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10971,7 +11154,7 @@ async function main() {
       {
         codigo: '4196278',
         nome: 'HYAN PIETRO BEZERRA DOS SANTOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -10979,7 +11162,7 @@ async function main() {
       {
         codigo: '4082513',
         nome: 'JOSIVALDO NASCIMENTO DE AMORIM',
-        idade: 44,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -10987,7 +11170,7 @@ async function main() {
       {
         codigo: '4082516',
         nome: 'JOSMÁRIO RODRIGUES DE OLIVEIRA',
-        idade: 40,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -10995,7 +11178,7 @@ async function main() {
       {
         codigo: '4082518',
         nome: 'JOÃO PEDRO BRAFF DE CASTELO BRANCO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11003,7 +11186,7 @@ async function main() {
       {
         codigo: '4204572',
         nome: 'JOÃO VITOR RIGO LEITE',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11011,7 +11194,7 @@ async function main() {
       {
         codigo: '4196279',
         nome: 'KAUAN LEANDRO ALBRECHT',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11019,7 +11202,7 @@ async function main() {
       {
         codigo: '4082520',
         nome: 'LARA CRAUSS PEDÓ',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11027,7 +11210,7 @@ async function main() {
       {
         codigo: '4136635',
         nome: 'LAYRONN WISLEY DA LUZ RIBEIRO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11035,7 +11218,7 @@ async function main() {
       {
         codigo: '4121781',
         nome: 'LORRAINE BERNARDO DE SOUZA',
-        idade: 21,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11043,7 +11226,7 @@ async function main() {
       {
         codigo: '4082523',
         nome: 'LUDMILA DA SILVA MARQUES',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -11051,7 +11234,7 @@ async function main() {
       {
         codigo: '4189000',
         nome: 'MAIREN BEATRIZ SOUZA DA SILVA',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -11059,7 +11242,7 @@ async function main() {
       {
         codigo: '4203445',
         nome: 'MARILEI HILLER GHEDINI',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 37,
         password: 'senha',
@@ -11067,7 +11250,7 @@ async function main() {
       {
         codigo: '4129054',
         nome: 'MICHELLE CRISTINA ROCHA DA CRUZ',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -11075,7 +11258,7 @@ async function main() {
       {
         codigo: '4204506',
         nome: 'NATALLY PEREIRA DE MELLO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11083,7 +11266,7 @@ async function main() {
       {
         codigo: '4204503',
         nome: 'NATAN DA SILVA CAMPOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11091,7 +11274,7 @@ async function main() {
       {
         codigo: '4121790',
         nome: 'NUBIA REGINA STECKER SANTOS',
-        idade: 33,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -11099,7 +11282,7 @@ async function main() {
       {
         codigo: '4082525',
         nome: 'OTÁVIO  MIGUEL ARAÚJO PRIMON',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11107,7 +11290,7 @@ async function main() {
       {
         codigo: '4082528',
         nome: 'OTÁVIO LEANDRO RODRIGUES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11115,7 +11298,7 @@ async function main() {
       {
         codigo: '4082529',
         nome: 'REBECA BOTELHO DE CAMPOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11123,7 +11306,7 @@ async function main() {
       {
         codigo: '4082533',
         nome: 'VINICIUS NICOLAO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11131,7 +11314,7 @@ async function main() {
       {
         codigo: '4121796',
         nome: 'VITORIA MELK VIEIRA NUNES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11139,7 +11322,7 @@ async function main() {
       {
         codigo: '4121799',
         nome: 'WELLINGTON JOSE MEIRA RAMOS',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 37,
         password: 'senha',
@@ -11147,7 +11330,7 @@ async function main() {
       {
         codigo: '4082536',
         nome: 'YANN DA SILVA SOUSA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11155,7 +11338,7 @@ async function main() {
       {
         codigo: '4082539',
         nome: 'YASMIN LARA COSTA MARQUES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 37,
         password: 'senha',
@@ -11163,7 +11346,7 @@ async function main() {
       {
         codigo: '4082009',
         nome: 'ALANA LOUISE SANTOS DE CASTRO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11171,7 +11354,7 @@ async function main() {
       {
         codigo: '4072593',
         nome: 'ANNE GABRIELLA DE SOUZA MARINHO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11179,7 +11362,7 @@ async function main() {
       {
         codigo: '4072681',
         nome: 'ARTHUR FERREIRA DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11187,7 +11370,7 @@ async function main() {
       {
         codigo: '4070081',
         nome: 'CAUANE QUEIROS MARTINS LAIKOVSKI',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11195,7 +11378,7 @@ async function main() {
       {
         codigo: '4081980',
         nome: 'CHRYSTIAN PEREIRA COSTA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11203,7 +11386,7 @@ async function main() {
       {
         codigo: '4082001',
         nome: 'DAYANE SAMARA CAMPOS ALVES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11211,7 +11394,7 @@ async function main() {
       {
         codigo: '4065537',
         nome: 'ELIDA PINHEIRO DA SILVA CRUZ',
-        idade: 31,
+
         funcao: 'diretoria',
         clubeId: 35,
         password: 'senha',
@@ -11219,7 +11402,7 @@ async function main() {
       {
         codigo: '4070087',
         nome: 'ELLEN CRISTHINY PINHEIRO DA CRUZ',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11227,7 +11410,7 @@ async function main() {
       {
         codigo: '4148024',
         nome: 'EMANUELLY SILVA QUEIROZ',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11235,7 +11418,7 @@ async function main() {
       {
         codigo: '4065494',
         nome: 'EMILY R ARTIAGA',
-        idade: 25,
+
         funcao: 'diretoria',
         clubeId: 35,
         password: 'senha',
@@ -11243,7 +11426,7 @@ async function main() {
       {
         codigo: '4185676',
         nome: 'ERSIVAL PEREIRA ARTIAGA',
-        idade: 67,
+
         funcao: 'apoio',
         clubeId: 35,
         password: 'senha',
@@ -11251,7 +11434,7 @@ async function main() {
       {
         codigo: '4065495',
         nome: 'FRANCIS PEREIRA ARTIAGA',
-        idade: 62,
+
         funcao: 'apoio',
         clubeId: 35,
         password: 'senha',
@@ -11259,7 +11442,7 @@ async function main() {
       {
         codigo: '4065496',
         nome: 'FRANCISCO SOARES DA SILVA',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 35,
         password: 'senha',
@@ -11267,7 +11450,7 @@ async function main() {
       {
         codigo: '4082004',
         nome: 'GEOVANA VELHO DO VALE',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11275,7 +11458,7 @@ async function main() {
       {
         codigo: '4068421',
         nome: 'HYGOR HENRIQUE DE ARAUJO ARTIAGA',
-        idade: 28,
+
         funcao: 'diretoria',
         clubeId: 35,
         password: 'senha',
@@ -11283,7 +11466,7 @@ async function main() {
       {
         codigo: '4204463',
         nome: 'JANNE AMORIM ARTIAGA',
-        idade: 53,
+
         funcao: 'apoio',
         clubeId: 35,
         password: 'senha',
@@ -11291,7 +11474,7 @@ async function main() {
       {
         codigo: '4148026',
         nome: 'KEIRRISSON RODRIGUES DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11299,7 +11482,7 @@ async function main() {
       {
         codigo: '4147972',
         nome: 'KELY CRISTINA RODRIGUES DA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11307,7 +11490,7 @@ async function main() {
       {
         codigo: '4082016',
         nome: 'LAURA CHRISTINA DOS SANTOS CASTRO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11315,7 +11498,7 @@ async function main() {
       {
         codigo: '4065542',
         nome: 'LEANDRO SILVA DE LIMA',
-        idade: 25,
+
         funcao: 'diretoria',
         clubeId: 35,
         password: 'senha',
@@ -11323,7 +11506,7 @@ async function main() {
       {
         codigo: '4072603',
         nome: 'LUIZ SÉRGIO ROSA DA CRUZ',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11331,7 +11514,7 @@ async function main() {
       {
         codigo: '4070085',
         nome: 'MAIMISSON PEREIRA DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11339,7 +11522,7 @@ async function main() {
       {
         codigo: '4065540',
         nome: 'MARCIA PEREIRA DE MORAIS',
-        idade: 31,
+
         funcao: 'diretoria',
         clubeId: 35,
         password: 'senha',
@@ -11347,7 +11530,7 @@ async function main() {
       {
         codigo: '4185696',
         nome: 'MARCOS ANTÔNIO PEREIRA DE SOUSA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11355,7 +11538,7 @@ async function main() {
       {
         codigo: '4204316',
         nome: 'MARIA ANTÔNIA CORREIA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11363,7 +11546,7 @@ async function main() {
       {
         codigo: '4065533',
         nome: 'MARIA JANETE CUSTÓDIO BATISTA',
-        idade: 52,
+
         funcao: 'diretoria',
         clubeId: 35,
         password: 'senha',
@@ -11371,7 +11554,7 @@ async function main() {
       {
         codigo: '4072606',
         nome: 'MATEUS DA SILVA BARROS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11379,7 +11562,7 @@ async function main() {
       {
         codigo: '4072679',
         nome: 'NICOLA SILVA BARROS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11387,7 +11570,7 @@ async function main() {
       {
         codigo: '4081966',
         nome: 'PRISCILLA ALVES DE MATOS',
-        idade: 28,
+
         funcao: 'diretoria',
         clubeId: 35,
         password: 'senha',
@@ -11395,7 +11578,7 @@ async function main() {
       {
         codigo: '4072612',
         nome: 'SABRINA OLIVEIRA COSTA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11403,7 +11586,7 @@ async function main() {
       {
         codigo: '4065492',
         nome: 'SILVIA MARIA R. ARTIAGA',
-        idade: 46,
+
         funcao: 'diretoria',
         clubeId: 35,
         password: 'senha',
@@ -11411,7 +11594,7 @@ async function main() {
       {
         codigo: '4151422',
         nome: 'VALDINEIVA SOUZA SILVA',
-        idade: 50,
+
         funcao: 'apoio',
         clubeId: 35,
         password: 'senha',
@@ -11419,7 +11602,7 @@ async function main() {
       {
         codigo: '4072617',
         nome: 'VICTOR GABRIEL MARINHO NEPOMUCENO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11427,7 +11610,7 @@ async function main() {
       {
         codigo: '4082003',
         nome: 'YASMIM LOPES DE ALMEIDA',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 35,
         password: 'senha',
@@ -11435,7 +11618,7 @@ async function main() {
       {
         codigo: '4081974',
         nome: 'YASMIN MARQUES CONSOLI',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 35,
         password: 'senha',
@@ -11443,7 +11626,7 @@ async function main() {
       {
         codigo: '4136665',
         nome: 'ADNA KERLLEN DOS SANTOS SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11451,7 +11634,7 @@ async function main() {
       {
         codigo: '4203662',
         nome: 'ALEXANDRE SANTOS MACEDO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11459,7 +11642,7 @@ async function main() {
       {
         codigo: '4139042',
         nome: 'ALINE KACHINSKI RIBEIRO',
-        idade: 23,
+
         funcao: 'apoio',
         clubeId: 38,
         password: 'senha',
@@ -11467,7 +11650,7 @@ async function main() {
       {
         codigo: '4136670',
         nome: 'CAUÃ FERREIRA DE MELLO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11475,7 +11658,7 @@ async function main() {
       {
         codigo: '4138988',
         nome: 'CLEINE CORREIA DA SILVA',
-        idade: 52,
+
         funcao: 'apoio',
         clubeId: 38,
         password: 'senha',
@@ -11483,7 +11666,7 @@ async function main() {
       {
         codigo: '4138975',
         nome: 'DIEGO MOURA SANTOS',
-        idade: 31,
+
         funcao: 'apoio',
         clubeId: 38,
         password: 'senha',
@@ -11491,7 +11674,7 @@ async function main() {
       {
         codigo: '4136679',
         nome: 'FERNANDA GONÇALVES WANDERLEY',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11499,7 +11682,7 @@ async function main() {
       {
         codigo: '4136680',
         nome: 'FRANCILENE DOS SANTOS SILVA',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 38,
         password: 'senha',
@@ -11507,7 +11690,7 @@ async function main() {
       {
         codigo: '4136682',
         nome: 'ISABELLA DE PAULA CARDOSO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11515,7 +11698,7 @@ async function main() {
       {
         codigo: '4136707',
         nome: 'JACIRA MACHADO BARBOSA',
-        idade: 59,
+
         funcao: 'diretoria',
         clubeId: 38,
         password: 'senha',
@@ -11523,7 +11706,7 @@ async function main() {
       {
         codigo: '4208707',
         nome: 'KETHLYN ISABELLA SOARES ALVES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11531,7 +11714,7 @@ async function main() {
       {
         codigo: '4203657',
         nome: 'LUISA MIRIAN FERREIRA DA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11539,7 +11722,7 @@ async function main() {
       {
         codigo: '4203659',
         nome: 'LUNA ALVES DA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11547,7 +11730,7 @@ async function main() {
       {
         codigo: '4136691',
         nome: 'MARIA ISABELY BRITO BELEM',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11555,7 +11738,7 @@ async function main() {
       {
         codigo: '4136700',
         nome: 'MEIRE DA SILVA',
-        idade: 46,
+
         funcao: 'apoio',
         clubeId: 38,
         password: 'senha',
@@ -11563,7 +11746,7 @@ async function main() {
       {
         codigo: '4136711',
         nome: 'MILENA NATALINE PROCOPIO',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 38,
         password: 'senha',
@@ -11571,7 +11754,7 @@ async function main() {
       {
         codigo: '4208729',
         nome: 'MIRELLY SOUSA DE ALMEIDA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11579,7 +11762,7 @@ async function main() {
       {
         codigo: '4208710',
         nome: 'MONALISA SILVA ARANTES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11587,7 +11770,7 @@ async function main() {
       {
         codigo: '4136694',
         nome: 'ROBSON GUSTAVO SANTOS RESENDE',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11595,7 +11778,7 @@ async function main() {
       {
         codigo: '4203661',
         nome: 'VALENTINA VITORIA ALVES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 38,
         password: 'senha',
@@ -11603,7 +11786,7 @@ async function main() {
       {
         codigo: '4136718',
         nome: 'VALQUIRIA FERREIRA DOS ANJOS',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 38,
         password: 'senha',
@@ -11611,7 +11794,7 @@ async function main() {
       {
         codigo: '4136715',
         nome: 'VANDERLÉIA DA LUZ DE PAULA',
-        idade: 32,
+
         funcao: 'diretoria',
         clubeId: 38,
         password: 'senha',
@@ -11619,7 +11802,7 @@ async function main() {
       {
         codigo: '4136709',
         nome: 'WILLEN RARYTTON DE SOUZA ROSA',
-        idade: 25,
+
         funcao: 'diretoria',
         clubeId: 38,
         password: 'senha',
@@ -11627,7 +11810,7 @@ async function main() {
       {
         codigo: '4147230',
         nome: 'CARLOS EDUARDO MOREIRA FARIA',
-        idade: 40,
+
         funcao: 'apoio',
         clubeId: 39,
         password: 'senha',
@@ -11635,7 +11818,7 @@ async function main() {
       {
         codigo: '4146762',
         nome: 'CHRYSTIAN MIGUEL FERREIRA DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11643,7 +11826,7 @@ async function main() {
       {
         codigo: '4146763',
         nome: 'CLARA BEATRIZ ATAIDES JESUS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11651,7 +11834,7 @@ async function main() {
       {
         codigo: '4147254',
         nome: 'DÂMARYS TAVARES DA SILVA',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 39,
         password: 'senha',
@@ -11659,7 +11842,7 @@ async function main() {
       {
         codigo: '4149697',
         nome: 'EDREANO JUNIOR ROSSI RINALDI',
-        idade: 44,
+
         funcao: 'diretoria',
         clubeId: 39,
         password: 'senha',
@@ -11667,7 +11850,7 @@ async function main() {
       {
         codigo: '4149686',
         nome: 'ELISAMA GOETZ',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 39,
         password: 'senha',
@@ -11675,7 +11858,7 @@ async function main() {
       {
         codigo: '4146776',
         nome: 'FERNANDA GABRIELA CAMPOS DE OLIVEIRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11683,7 +11866,7 @@ async function main() {
       {
         codigo: '4146781',
         nome: 'GUILHERME RAFAEL KLEIN DA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11691,7 +11874,7 @@ async function main() {
       {
         codigo: '4146784',
         nome: 'JHONNY OLIVEIRA RIBEIRO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11699,7 +11882,7 @@ async function main() {
       {
         codigo: '4186298',
         nome: 'LAURIENE BORGES SILVA',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 39,
         password: 'senha',
@@ -11707,7 +11890,7 @@ async function main() {
       {
         codigo: '4146785',
         nome: 'LUKS GABRIEL CAMPOS DE OLIVEIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11715,7 +11898,7 @@ async function main() {
       {
         codigo: '4146789',
         nome: 'MAYARA CRISTYNA BASSO DE JESUS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11723,7 +11906,7 @@ async function main() {
       {
         codigo: '4146793',
         nome: 'MIGUEL FIGUEIREDO DANTAS ELIAS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11731,7 +11914,7 @@ async function main() {
       {
         codigo: '4146795',
         nome: 'MIRELLA ESTELINA NASCIMENTO SANTANA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11739,7 +11922,7 @@ async function main() {
       {
         codigo: '4186303',
         nome: 'NATHALYA EVANGELISTA MARQUES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11747,7 +11930,7 @@ async function main() {
       {
         codigo: '4146800',
         nome: 'NAÃMIH DA SILVA HONORATO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11755,7 +11938,7 @@ async function main() {
       {
         codigo: '4146997',
         nome: 'RAFAEL FERREIRA FARIA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11763,7 +11946,7 @@ async function main() {
       {
         codigo: '4200825',
         nome: 'RENACY SOARES MARQUES',
-        idade: 35,
+
         funcao: 'apoio',
         clubeId: 39,
         password: 'senha',
@@ -11771,7 +11954,7 @@ async function main() {
       {
         codigo: '4186334',
         nome: 'ROBSOM RODRIGO BATISTA  DA SILVA',
-        idade: 45,
+
         funcao: 'diretoria',
         clubeId: 39,
         password: 'senha',
@@ -11779,7 +11962,7 @@ async function main() {
       {
         codigo: '4147000',
         nome: 'SAMIRA GOETZ',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11787,7 +11970,7 @@ async function main() {
       {
         codigo: '4186331',
         nome: 'SUELI DA  SILVA',
-        idade: 54,
+
         funcao: 'diretoria',
         clubeId: 39,
         password: 'senha',
@@ -11795,7 +11978,7 @@ async function main() {
       {
         codigo: '4147158',
         nome: 'SUELLEN SILVA HONORATO',
-        idade: 30,
+
         funcao: 'diretoria',
         clubeId: 39,
         password: 'senha',
@@ -11803,7 +11986,7 @@ async function main() {
       {
         codigo: '4147002',
         nome: 'VITÓRIA MEDEIROS ESTEVES CARLOS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11811,7 +11994,7 @@ async function main() {
       {
         codigo: '4188612',
         nome: 'WALQUIRIA NASCIMENTO',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 39,
         password: 'senha',
@@ -11819,7 +12002,7 @@ async function main() {
       {
         codigo: '4147165',
         nome: 'WANDERSON FRANCISCO DE JESUS',
-        idade: 44,
+
         funcao: 'diretoria',
         clubeId: 39,
         password: 'senha',
@@ -11827,7 +12010,7 @@ async function main() {
       {
         codigo: '4186097',
         nome: 'YURI FERNANDES DOS SANTOS',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 39,
         password: 'senha',
@@ -11835,7 +12018,7 @@ async function main() {
       {
         codigo: '4147003',
         nome: 'ÉRICK ANDRADE SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 39,
         password: 'senha',
@@ -11843,7 +12026,7 @@ async function main() {
       {
         codigo: '4066804',
         nome: 'ALANNA LIMA DE MATOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11851,7 +12034,7 @@ async function main() {
       {
         codigo: '4066808',
         nome: 'ALBERT COSTA HOFFMAN',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11859,7 +12042,7 @@ async function main() {
       {
         codigo: '4066810',
         nome: 'ALEX ALEXANDRE DE OLIVEIRA VIANA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11867,7 +12050,7 @@ async function main() {
       {
         codigo: '4066814',
         nome: 'ALEX DOS SANTOS DA COSTA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11875,7 +12058,7 @@ async function main() {
       {
         codigo: '4066812',
         nome: 'ALINA EMANUELLE DA SILVA LIMA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11883,7 +12066,7 @@ async function main() {
       {
         codigo: '4066815',
         nome: 'ANA CAROLINA ARRUDA SOARES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11891,7 +12074,7 @@ async function main() {
       {
         codigo: '4066817',
         nome: 'ANA CAROLINE CÂMARA AMORIM PEREIRA',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -11899,7 +12082,7 @@ async function main() {
       {
         codigo: '4066818',
         nome: 'ANA JÚLIA ARRUDA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11907,7 +12090,7 @@ async function main() {
       {
         codigo: '4066820',
         nome: 'ANGELINA CIOTTA SELES BERNINE',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11915,7 +12098,7 @@ async function main() {
       {
         codigo: '4066821',
         nome: 'ARLAN CAMPOS',
-        idade: 30,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -11923,7 +12106,7 @@ async function main() {
       {
         codigo: '4066823',
         nome: 'ARTHUR BARBOSA CARDOSO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11931,7 +12114,7 @@ async function main() {
       {
         codigo: '4066825',
         nome: 'ARTHUR DA COSTA HOFFMANN',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -11939,7 +12122,7 @@ async function main() {
       {
         codigo: '4121412',
         nome: 'ARTHUR DE LIMA REIS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11947,7 +12130,7 @@ async function main() {
       {
         codigo: '4186729',
         nome: 'BRENDA ROCHA ZAZATT',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11955,7 +12138,7 @@ async function main() {
       {
         codigo: '4066827',
         nome: 'DANIEL GUSTAVO SABINO DE LIMA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11963,7 +12146,7 @@ async function main() {
       {
         codigo: '4066831',
         nome: 'DAVI VICENTE SILVA DE SOUZA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11971,7 +12154,7 @@ async function main() {
       {
         codigo: '4187860',
         nome: 'ELOYSA   FURQUIM  PAES  DOS  SANTOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11979,7 +12162,7 @@ async function main() {
       {
         codigo: '4066833',
         nome: 'EMANUELLY RIBEIRO DE CASTRO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11987,7 +12170,7 @@ async function main() {
       {
         codigo: '4066837',
         nome: 'ENDREW RODRIGUES DA SILVA CAROLLO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -11995,7 +12178,7 @@ async function main() {
       {
         codigo: '4066839',
         nome: 'ERICK GABRIEL OLIVEIRA DE ANDRADE',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12003,7 +12186,7 @@ async function main() {
       {
         codigo: '4185769',
         nome: 'EYTOR FURQUIM PAES DOS SANTOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12011,7 +12194,7 @@ async function main() {
       {
         codigo: '4066843',
         nome: 'FELIPE BARBOSA GOUVEIA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12019,7 +12202,7 @@ async function main() {
       {
         codigo: '4067048',
         nome: 'FRANCISCA DE SALES BEZERRA',
-        idade: 61,
+
         funcao: 'apoio',
         clubeId: 40,
         password: 'senha',
@@ -12027,7 +12210,7 @@ async function main() {
       {
         codigo: '4066846',
         nome: 'GABRIEL SABINO SOARES DA SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12035,7 +12218,7 @@ async function main() {
       {
         codigo: '4066852',
         nome: 'GABRIELLI NUNES LAUREANO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12043,7 +12226,7 @@ async function main() {
       {
         codigo: '4066951',
         nome: 'HELENA GABRIELA DE MOURA PAZ',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12051,7 +12234,7 @@ async function main() {
       {
         codigo: '4066952',
         nome: 'ISABELLE  ASSUNÇÃO DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12059,7 +12242,7 @@ async function main() {
       {
         codigo: '4066954',
         nome: 'ISABELLE THAYNÁ BRAZ DE AZEVEDO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12067,7 +12250,7 @@ async function main() {
       {
         codigo: '4066955',
         nome: 'ISRAEL AUGUSTO DE OLIVEIRA VARANDA',
-        idade: 20,
+
         funcao: 'apoio',
         clubeId: 40,
         password: 'senha',
@@ -12075,7 +12258,7 @@ async function main() {
       {
         codigo: '4066957',
         nome: 'JOAO VICTOR ALVES DE CASTRO E SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12083,7 +12266,7 @@ async function main() {
       {
         codigo: '4066958',
         nome: 'JOAO VITOR RONDON DE OLIVEIRA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12091,7 +12274,7 @@ async function main() {
       {
         codigo: '4066959',
         nome: 'JORGE LOURENÇO ARAÚJO DOS SANTOS',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12099,7 +12282,7 @@ async function main() {
       {
         codigo: '4066963',
         nome: 'JOSÉ ENRIQUE ANDRADE FIGUEIREDO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12107,7 +12290,7 @@ async function main() {
       {
         codigo: '4066967',
         nome: 'JULIA NATALI MARTINS AMORIN',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12115,7 +12298,7 @@ async function main() {
       {
         codigo: '4066969',
         nome: 'KARINY RIBERO OLEGÁRIO',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12123,7 +12306,7 @@ async function main() {
       {
         codigo: '4066971',
         nome: 'KAUAN SOUZA SCHNEIDER',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12131,7 +12314,7 @@ async function main() {
       {
         codigo: '4066972',
         nome: 'KLARISSE YASMIN SOUSA DIAS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12139,7 +12322,7 @@ async function main() {
       {
         codigo: '4066980',
         nome: 'LAURA FERNANDA VAZ RIBEIRO DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12147,7 +12330,7 @@ async function main() {
       {
         codigo: '4066974',
         nome: 'LUCAS DE EMÍDIO FARIAS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12155,7 +12338,7 @@ async function main() {
       {
         codigo: '4066978',
         nome: 'LUIS FELIPE ALVES DE OLIVEIRA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12163,7 +12346,7 @@ async function main() {
       {
         codigo: '4066984',
         nome: 'LUIZ FERNANDO SANTOS RIBEIRO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12171,7 +12354,7 @@ async function main() {
       {
         codigo: '4066982',
         nome: 'LUÍS FELLYPE ALMEIDA DE AZEVEDO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12179,7 +12362,7 @@ async function main() {
       {
         codigo: '4066987',
         nome: 'MAELI CRISTINA DE SIQUEIRA COSTA',
-        idade: 30,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12187,7 +12370,7 @@ async function main() {
       {
         codigo: '4066994',
         nome: 'MANOEL FRANCELINO DA SILVA NETO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12195,7 +12378,7 @@ async function main() {
       {
         codigo: '4066989',
         nome: 'MANOEL HENRIQUE LIMA DOS REIS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12203,7 +12386,7 @@ async function main() {
       {
         codigo: '4215061',
         nome: 'MARCOS SANTOS ANDRADE',
-        idade: 37,
+
         funcao: 'apoio',
         clubeId: 40,
         password: 'senha',
@@ -12211,7 +12394,7 @@ async function main() {
       {
         codigo: '4066991',
         nome: 'MARIA CLARA DOS SANTOS RIBEIRO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12219,7 +12402,7 @@ async function main() {
       {
         codigo: '4067046',
         nome: 'MARIA DAS GRAÇAS SILVA COSTA',
-        idade: 71,
+
         funcao: 'apoio',
         clubeId: 40,
         password: 'senha',
@@ -12227,7 +12410,7 @@ async function main() {
       {
         codigo: '4066996',
         nome: 'MARIA EDUARDA MOURA BASTOS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12235,7 +12418,7 @@ async function main() {
       {
         codigo: '4067002',
         nome: 'MARIA FERNANDA DE MORAES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12243,7 +12426,7 @@ async function main() {
       {
         codigo: '4067004',
         nome: 'MARIA FERNANDA DE SOUZA PEDROSA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12251,7 +12434,7 @@ async function main() {
       {
         codigo: '4067007',
         nome: 'MARIA LUCIANA E SILVA ROSA',
-        idade: 32,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12259,7 +12442,7 @@ async function main() {
       {
         codigo: '4067008',
         nome: 'MARIANA SOUZA HOUKLEF',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12267,7 +12450,7 @@ async function main() {
       {
         codigo: '4067010',
         nome: 'MIGUEL DE EMÍDIO FARIAS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12275,7 +12458,7 @@ async function main() {
       {
         codigo: '4067012',
         nome: 'NATHALIA CRISTINA DE SIQUEIRA COSTA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12283,7 +12466,7 @@ async function main() {
       {
         codigo: '4186731',
         nome: 'NICOLAS ROCHA ZAZATT',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12291,7 +12474,7 @@ async function main() {
       {
         codigo: '4067013',
         nome: 'NICOLLY BEVILACQUA CONTRIN',
-        idade: 29,
+
         funcao: 'apoio',
         clubeId: 40,
         password: 'senha',
@@ -12299,7 +12482,7 @@ async function main() {
       {
         codigo: '4067014',
         nome: 'PATRICK ADAN SANTANA DOS SANTOS',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12307,7 +12490,7 @@ async function main() {
       {
         codigo: '4067015',
         nome: 'PEDRO CARLOS BATISTA SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12315,7 +12498,7 @@ async function main() {
       {
         codigo: '4067017',
         nome: 'PEDRO FELIX DE MIRANDA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12323,7 +12506,7 @@ async function main() {
       {
         codigo: '4067020',
         nome: 'PEDRO LUCAS GONÇALVES DE LIMA MACHARET',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12331,7 +12514,7 @@ async function main() {
       {
         codigo: '4067022',
         nome: 'RANDER PAULO DA COSTA',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12339,7 +12522,7 @@ async function main() {
       {
         codigo: '4067024',
         nome: 'RAPHAEL DE PAULA ARRUDA CAMPOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12347,7 +12530,7 @@ async function main() {
       {
         codigo: '4067025',
         nome: 'REBECCA BUENO GONZALES',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12355,7 +12538,7 @@ async function main() {
       {
         codigo: '4067026',
         nome: 'ROBERT WESLEY DE MOURA PAZ',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12363,7 +12546,7 @@ async function main() {
       {
         codigo: '4067029',
         nome: 'SAMARA THAIS CARVALHO QUARESMA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12371,7 +12554,7 @@ async function main() {
       {
         codigo: '4067031',
         nome: 'SARA TEIXEIRA TARGINO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12379,7 +12562,7 @@ async function main() {
       {
         codigo: '4067034',
         nome: 'SARAH EMANUELLY P DE ANDRADE',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12387,7 +12570,7 @@ async function main() {
       {
         codigo: '4067047',
         nome: 'SEBASTIANA MARQUES DE SOUZA',
-        idade: 71,
+
         funcao: 'apoio',
         clubeId: 40,
         password: 'senha',
@@ -12395,7 +12578,7 @@ async function main() {
       {
         codigo: '4067035',
         nome: 'THALLES PIETRO LEAL SILVA DOS SANTOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12403,7 +12586,7 @@ async function main() {
       {
         codigo: '4067036',
         nome: 'THAYLLA IZABELLY MORAES DE AGUIAR',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12411,7 +12594,7 @@ async function main() {
       {
         codigo: '4067424',
         nome: 'VÍTOR HUGO ZANATTA',
-        idade: 30,
+
         funcao: 'diretoria',
         clubeId: 40,
         password: 'senha',
@@ -12419,7 +12602,7 @@ async function main() {
       {
         codigo: '4067038',
         nome: 'YAGO GABRIEL BEZERRA MORAES DE OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 40,
         password: 'senha',
@@ -12427,7 +12610,7 @@ async function main() {
       {
         codigo: '4204050',
         nome: 'ADRIANO SANTOS MALTA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12435,7 +12618,7 @@ async function main() {
       {
         codigo: '4151643',
         nome: 'ANA GABRIELLY DOS REIS CARVALHO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12443,7 +12626,7 @@ async function main() {
       {
         codigo: '4151228',
         nome: 'CARLOS EDUARDO MORAES SOARES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12451,7 +12634,7 @@ async function main() {
       {
         codigo: '4149535',
         nome: 'CRISOLITO MILENIO DOS SANTOS',
-        idade: 22,
+
         funcao: 'diretoria',
         clubeId: 41,
         password: 'senha',
@@ -12459,7 +12642,7 @@ async function main() {
       {
         codigo: '4150970',
         nome: 'DANILO DIVINO  FERNANDES JUNIOR',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12467,7 +12650,7 @@ async function main() {
       {
         codigo: '4151728',
         nome: 'DEBOH MARINE SILVA CRUZ',
-        idade: 21,
+
         funcao: 'apoio',
         clubeId: 41,
         password: 'senha',
@@ -12475,7 +12658,7 @@ async function main() {
       {
         codigo: '4149416',
         nome: 'DENNER PIETRO SOUZA PATRICIO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12483,7 +12666,7 @@ async function main() {
       {
         codigo: '4149438',
         nome: 'EDILAINE TÁSSIA FERREIRA CRUZ',
-        idade: 38,
+
         funcao: 'diretoria',
         clubeId: 41,
         password: 'senha',
@@ -12491,7 +12674,7 @@ async function main() {
       {
         codigo: '4151507',
         nome: 'EDILEISE BANDEIRA DE JESUS',
-        idade: 35,
+
         funcao: 'apoio',
         clubeId: 41,
         password: 'senha',
@@ -12499,7 +12682,7 @@ async function main() {
       {
         codigo: '4149620',
         nome: 'ERICK PATRICK LIMA ANDRADE',
-        idade: 23,
+
         funcao: 'diretoria',
         clubeId: 41,
         password: 'senha',
@@ -12507,7 +12690,7 @@ async function main() {
       {
         codigo: '4151658',
         nome: 'ESTER DOS SANTOS PEREIRA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12515,7 +12698,7 @@ async function main() {
       {
         codigo: '4151394',
         nome: 'FERNANDO COSTA SANTOS',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 41,
         password: 'senha',
@@ -12523,7 +12706,7 @@ async function main() {
       {
         codigo: '4150887',
         nome: 'GABRYELLE CAMILO RODRIGUES DA SILVA',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 41,
         password: 'senha',
@@ -12531,7 +12714,7 @@ async function main() {
       {
         codigo: '4151515',
         nome: 'GUSTAVO BEZERRA DOS SANTOS',
-        idade: 20,
+
         funcao: 'diretoria',
         clubeId: 41,
         password: 'senha',
@@ -12539,7 +12722,7 @@ async function main() {
       {
         codigo: '4149440',
         nome: 'HALANA VITÓRIA SOUSA TAVARES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12547,7 +12730,7 @@ async function main() {
       {
         codigo: '4204676',
         nome: 'HEITOR SORES MOURA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12555,7 +12738,7 @@ async function main() {
       {
         codigo: '4149472',
         nome: 'HELIO VICTOR KULCENTY SA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12563,7 +12746,7 @@ async function main() {
       {
         codigo: '4151032',
         nome: 'HELLEN NAYARA PEREIRA NEVES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12571,7 +12754,7 @@ async function main() {
       {
         codigo: '4149422',
         nome: 'INGO SERGIO DA SILVA FILHO',
-        idade: 39,
+
         funcao: 'diretoria',
         clubeId: 41,
         password: 'senha',
@@ -12579,7 +12762,7 @@ async function main() {
       {
         codigo: '4204677',
         nome: 'IRACEMA FERNANDES DA CONCEIÇÃO',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 41,
         password: 'senha',
@@ -12587,7 +12770,7 @@ async function main() {
       {
         codigo: '4150977',
         nome: 'ISAAC ARAUJO GUIMARAES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12595,7 +12778,7 @@ async function main() {
       {
         codigo: '4149465',
         nome: 'JAMILLY LIMA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12603,7 +12786,7 @@ async function main() {
       {
         codigo: '4149469',
         nome: 'JEMIME BARREIRA CAMPOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12611,7 +12794,7 @@ async function main() {
       {
         codigo: '4204673',
         nome: 'JOYLSON SOUZA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12619,7 +12802,7 @@ async function main() {
       {
         codigo: '4151234',
         nome: 'JULIA MICAELLY SILVA CONCEIÇÃO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12627,7 +12810,7 @@ async function main() {
       {
         codigo: '4149632',
         nome: 'KAROLYNE COSTA SANTOS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12635,7 +12818,7 @@ async function main() {
       {
         codigo: '4151556',
         nome: 'KAYKY SOARES DOS SANTOS',
-        idade: 18,
+
         funcao: 'apoio',
         clubeId: 41,
         password: 'senha',
@@ -12643,7 +12826,7 @@ async function main() {
       {
         codigo: '4149635',
         nome: 'KELY PATRICIA SOUZA DE LIMA',
-        idade: 24,
+
         funcao: 'diretoria',
         clubeId: 41,
         password: 'senha',
@@ -12651,7 +12834,7 @@ async function main() {
       {
         codigo: '4149426',
         nome: 'LARISSA KELLY FERREIRA DA SILVA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 41,
         password: 'senha',
@@ -12659,7 +12842,7 @@ async function main() {
       {
         codigo: '4151290',
         nome: 'LIAN SINHORELI DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12667,7 +12850,7 @@ async function main() {
       {
         codigo: '4151506',
         nome: 'LIGIA S.KULCENTY',
-        idade: 35,
+
         funcao: 'apoio',
         clubeId: 41,
         password: 'senha',
@@ -12675,7 +12858,7 @@ async function main() {
       {
         codigo: '4149531',
         nome: 'LUDMILA ARAUJO DA COSTA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12683,7 +12866,7 @@ async function main() {
       {
         codigo: '4149562',
         nome: 'MARIELE SOUSA FERNANDES',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 41,
         password: 'senha',
@@ -12691,7 +12874,7 @@ async function main() {
       {
         codigo: '4149474',
         nome: 'PIETRO HAGAEL DE ALMEIDA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12699,7 +12882,7 @@ async function main() {
       {
         codigo: '4149800',
         nome: 'PRISCILLA CAMILO RODRIGUES DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12707,7 +12890,7 @@ async function main() {
       {
         codigo: '4150356',
         nome: 'RAISLANE MOREIRA MACHADO',
-        idade: 26,
+
         funcao: 'apoio',
         clubeId: 41,
         password: 'senha',
@@ -12715,7 +12898,7 @@ async function main() {
       {
         codigo: '4151334',
         nome: 'RAYNER SILVA COELHO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12723,7 +12906,7 @@ async function main() {
       {
         codigo: '4151056',
         nome: 'RODRIGO LOPES FREITAS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12731,7 +12914,7 @@ async function main() {
       {
         codigo: '4204051',
         nome: 'ROSANGELA FERREIRA CAMILO',
-        idade: 37,
+
         funcao: 'apoio',
         clubeId: 41,
         password: 'senha',
@@ -12739,7 +12922,7 @@ async function main() {
       {
         codigo: '4149403',
         nome: 'SERGIO AUGUSTO FERREIRA DA SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12747,7 +12930,7 @@ async function main() {
       {
         codigo: '4149431',
         nome: 'SERGIO GABRIEL SOUZA PATRICIO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12755,7 +12938,7 @@ async function main() {
       {
         codigo: '4149546',
         nome: 'VICTOR HUGO SILVA ARAUJO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 41,
         password: 'senha',
@@ -12763,7 +12946,7 @@ async function main() {
       {
         codigo: '4149657',
         nome: 'VICTOR MATEUS BARREIRA DA SILVA',
-        idade: 18,
+
         funcao: 'apoio',
         clubeId: 41,
         password: 'senha',
@@ -12771,7 +12954,7 @@ async function main() {
       {
         codigo: '4151579',
         nome: 'WESLEY COSTA NERATH',
-        idade: 21,
+
         funcao: 'apoio',
         clubeId: 41,
         password: 'senha',
@@ -12779,7 +12962,7 @@ async function main() {
       {
         codigo: '4203675',
         nome: 'ADILSON EXPEDITO DA SILVA',
-        idade: 28,
+
         funcao: 'apoio',
         clubeId: 42,
         password: 'senha',
@@ -12787,7 +12970,7 @@ async function main() {
       {
         codigo: '4202688',
         nome: 'ANA CLARA SOUSA OZZA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12795,7 +12978,7 @@ async function main() {
       {
         codigo: '4203652',
         nome: 'BRUNO RINALDI DO SANTOS',
-        idade: 28,
+
         funcao: 'diretoria',
         clubeId: 42,
         password: 'senha',
@@ -12803,7 +12986,7 @@ async function main() {
       {
         codigo: '4202698',
         nome: 'CAROLINE RIBEIRO FRANCO',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 42,
         password: 'senha',
@@ -12811,7 +12994,7 @@ async function main() {
       {
         codigo: '4202523',
         nome: 'ENZO GABRIEL SOUZA DE ALMEIDA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12819,7 +13002,7 @@ async function main() {
       {
         codigo: '4202813',
         nome: 'ERONEIDE GOMES ARRUDA',
-        idade: 53,
+
         funcao: 'apoio',
         clubeId: 42,
         password: 'senha',
@@ -12827,7 +13010,7 @@ async function main() {
       {
         codigo: '4202724',
         nome: 'JHENNEFY JHÚLIA SOUSA RODRIGUES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12835,7 +13018,7 @@ async function main() {
       {
         codigo: '4202725',
         nome: 'JHOSEFI SOUSA RODRIGUES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12843,7 +13026,7 @@ async function main() {
       {
         codigo: '4202691',
         nome: 'JOÃO CARLOS BARBOSA DANTAS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12851,7 +13034,7 @@ async function main() {
       {
         codigo: '4202583',
         nome: 'JULIANA  SANTANA CLARO RODRIGUES DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12859,7 +13042,7 @@ async function main() {
       {
         codigo: '4202692',
         nome: 'KALEO ANDERSON ALMEIDA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12867,7 +13050,7 @@ async function main() {
       {
         codigo: '4202696',
         nome: 'KASSIANO ROSENO DE JESUS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12875,7 +13058,7 @@ async function main() {
       {
         codigo: '4203683',
         nome: 'M-LAYNEE COELHO LOPES DA CRUZ MARTINS',
-        idade: 28,
+
         funcao: 'apoio',
         clubeId: 42,
         password: 'senha',
@@ -12883,7 +13066,7 @@ async function main() {
       {
         codigo: '4204456',
         nome: 'MATEUS HENRIQUE ALVES CAMARGO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12891,7 +13074,7 @@ async function main() {
       {
         codigo: '4202718',
         nome: 'PAULO ROGÉRIO BATISTA DA COSTA',
-        idade: 49,
+
         funcao: 'apoio',
         clubeId: 42,
         password: 'senha',
@@ -12899,7 +13082,7 @@ async function main() {
       {
         codigo: '4202519',
         nome: 'RAICA DE OLIVEIRA ARRUDA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12907,7 +13090,7 @@ async function main() {
       {
         codigo: '4202513',
         nome: 'RAISSA CRISTINA DE OLIVERIA A. SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12915,7 +13098,7 @@ async function main() {
       {
         codigo: '4202694',
         nome: 'RAQUEL LIONES DA COSTA',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 42,
         password: 'senha',
@@ -12923,7 +13106,7 @@ async function main() {
       {
         codigo: '4202716',
         nome: 'SARAH MIELICA DE  ALCÂNTARA ARAUJO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12931,7 +13114,7 @@ async function main() {
       {
         codigo: '4202689',
         nome: 'VALDIVINO MARTINS DE FREITAS',
-        idade: 50,
+
         funcao: 'apoio',
         clubeId: 42,
         password: 'senha',
@@ -12939,7 +13122,7 @@ async function main() {
       {
         codigo: '4203970',
         nome: 'VANESSA LIONES DA COSTA',
-        idade: 28,
+
         funcao: 'apoio',
         clubeId: 42,
         password: 'senha',
@@ -12947,7 +13130,7 @@ async function main() {
       {
         codigo: '4202697',
         nome: 'VITOR GABRIEL SAMPAIO DA COSTA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12955,7 +13138,7 @@ async function main() {
       {
         codigo: '4203986',
         nome: 'VIVIAN THAINA SAMPAIO COSTA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12963,7 +13146,7 @@ async function main() {
       {
         codigo: '4202509',
         nome: 'WILLIAN ALMEIDA DE ABREU',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 42,
         password: 'senha',
@@ -12971,7 +13154,7 @@ async function main() {
       {
         codigo: '4126364',
         nome: 'ANA JULIA PORTELLA PANOSSO',
-        idade: 16,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -12979,7 +13162,7 @@ async function main() {
       {
         codigo: '4126433',
         nome: 'ANTONIO REIS DA SILVA FILHO',
-        idade: 40,
+
         funcao: 'diretoria',
         clubeId: 43,
         password: 'senha',
@@ -12987,7 +13170,7 @@ async function main() {
       {
         codigo: '4126362',
         nome: 'ARTHUR MORALES CARVALHO DE JESUS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -12995,7 +13178,7 @@ async function main() {
       {
         codigo: '4126365',
         nome: 'BRENDA GABRIELLY AMARAL PONTES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13003,7 +13186,7 @@ async function main() {
       {
         codigo: '4126419',
         nome: 'BRUNA DOS SANTOS SOUZA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13011,7 +13194,7 @@ async function main() {
       {
         codigo: '4126367',
         nome: 'CAROLINA CLAUDIA BORTOLOTTO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13019,7 +13202,7 @@ async function main() {
       {
         codigo: '4126434',
         nome: 'CLEITON DOS SANTOS SILVA',
-        idade: 21,
+
         funcao: 'diretoria',
         clubeId: 43,
         password: 'senha',
@@ -13027,7 +13210,7 @@ async function main() {
       {
         codigo: '4126361',
         nome: 'DANIELA PRATI SILVA',
-        idade: 44,
+
         funcao: 'diretoria',
         clubeId: 43,
         password: 'senha',
@@ -13035,7 +13218,7 @@ async function main() {
       {
         codigo: '4126432',
         nome: 'DANIELY MUZZO ALVES GRASSIA',
-        idade: 32,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13043,7 +13226,7 @@ async function main() {
       {
         codigo: '4126485',
         nome: 'ELEN DOS SANTOS',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13051,7 +13234,7 @@ async function main() {
       {
         codigo: '4126404',
         nome: 'ELIANE MAITELLI PEREIRA DE MORAES',
-        idade: 48,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13059,7 +13242,7 @@ async function main() {
       {
         codigo: '4126375',
         nome: 'EMILI VITÓRIA DE OLIVEIRA DE ARRUDA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13067,7 +13250,7 @@ async function main() {
       {
         codigo: '4126371',
         nome: 'ENZO MOURA CRIVELLI',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13075,7 +13258,7 @@ async function main() {
       {
         codigo: '4126428',
         nome: 'ENZO ZEMBRSKI CASTRO LORINI',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13083,7 +13266,7 @@ async function main() {
       {
         codigo: '4126370',
         nome: 'EVANDRO PIAIA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13091,7 +13274,7 @@ async function main() {
       {
         codigo: '4126376',
         nome: 'FRANCISCA MYKAELLEM DE JESUS LIRA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13099,7 +13282,7 @@ async function main() {
       {
         codigo: '4126527',
         nome: 'GABRIELLE VITORIA DE MELLO CAMPOS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13107,7 +13290,7 @@ async function main() {
       {
         codigo: '4126393',
         nome: 'GUILHERME RODRIGO CAVALIERI CARVALHO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13115,7 +13298,7 @@ async function main() {
       {
         codigo: '4126395',
         nome: 'GUSTAVO FERREIRA DE JESUS',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13123,7 +13306,7 @@ async function main() {
       {
         codigo: '4126360',
         nome: 'HARLEI NEANDER KAPTEINAT',
-        idade: 56,
+
         funcao: 'diretoria',
         clubeId: 43,
         password: 'senha',
@@ -13131,7 +13314,7 @@ async function main() {
       {
         codigo: '4126488',
         nome: 'ISAQUE ALVES CARDOSO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13139,7 +13322,7 @@ async function main() {
       {
         codigo: '4126418',
         nome: 'JOSIANE CLAUDIA DOS SANTOS',
-        idade: 36,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13147,7 +13330,7 @@ async function main() {
       {
         codigo: '4126417',
         nome: 'JULIA DE FREITAS BORGES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13155,7 +13338,7 @@ async function main() {
       {
         codigo: '4126491',
         nome: 'JULIETE DE SOUZA CASTRO',
-        idade: 33,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13163,7 +13346,7 @@ async function main() {
       {
         codigo: '4126490',
         nome: 'KAUA DE MELLO GAUDENCIO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13171,7 +13354,7 @@ async function main() {
       {
         codigo: '4126459',
         nome: 'KEVILYN FASSICOLO DE ALMEIDA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13179,7 +13362,7 @@ async function main() {
       {
         codigo: '4126431',
         nome: 'LETÍCIA CONCEIÇÃO DE OLIVEIRA',
-        idade: 34,
+
         funcao: 'diretoria',
         clubeId: 43,
         password: 'senha',
@@ -13187,7 +13370,7 @@ async function main() {
       {
         codigo: '4126410',
         nome: 'MARCOS BATISTA DE MORAES',
-        idade: 40,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13195,7 +13378,7 @@ async function main() {
       {
         codigo: '4126435',
         nome: 'MARIA EDUARDA VILELA DE SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13203,7 +13386,7 @@ async function main() {
       {
         codigo: '4204358',
         nome: 'MARIA HELOISA CABRAL SANTOS',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13211,7 +13394,7 @@ async function main() {
       {
         codigo: '4126421',
         nome: 'MARLI DE MOURA KAPTEINAT',
-        idade: 60,
+
         funcao: 'diretoria',
         clubeId: 43,
         password: 'senha',
@@ -13219,7 +13402,7 @@ async function main() {
       {
         codigo: '4126455',
         nome: 'MATHEUS VINICIUS LEITE COSTA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13227,7 +13410,7 @@ async function main() {
       {
         codigo: '4126373',
         nome: 'MIGUEL PORTELLA PANOSSO',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13235,7 +13418,7 @@ async function main() {
       {
         codigo: '4126453',
         nome: 'PAULA RAISSA DE LIMA MAIA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13243,7 +13426,7 @@ async function main() {
       {
         codigo: '4126396',
         nome: 'PAULO HENRIQUEDA SILVA COIMBRA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13251,7 +13434,7 @@ async function main() {
       {
         codigo: '4126427',
         nome: 'RAFAEL DOS SANTOS RIBEIRO',
-        idade: 16,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13259,7 +13442,7 @@ async function main() {
       {
         codigo: '4126398',
         nome: 'RAISSA MAITELLI D. DE MORAES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13267,7 +13450,7 @@ async function main() {
       {
         codigo: '4126472',
         nome: 'RENAN DE MOURA KAPTEINAT',
-        idade: 30,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13275,7 +13458,7 @@ async function main() {
       {
         codigo: '4126389',
         nome: 'RENAN LUIS VAEZ FASSICOLO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13283,7 +13466,7 @@ async function main() {
       {
         codigo: '4126450',
         nome: 'RHAPHAEL PHELLYPE PINHEIRO DE SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13291,7 +13474,7 @@ async function main() {
       {
         codigo: '4126420',
         nome: 'ROGERIO ANTONIO BORGES',
-        idade: 42,
+
         funcao: 'diretoria',
         clubeId: 43,
         password: 'senha',
@@ -13299,7 +13482,7 @@ async function main() {
       {
         codigo: '4126438',
         nome: 'ROSENILDA VILELA DO REGO',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13307,7 +13490,7 @@ async function main() {
       {
         codigo: '4126422',
         nome: 'ROSENILZA DE FATIMA FREITAS',
-        idade: 38,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13315,7 +13498,7 @@ async function main() {
       {
         codigo: '4126415',
         nome: 'SOFIA SCHMIDT',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13323,7 +13506,7 @@ async function main() {
       {
         codigo: '4126467',
         nome: 'THAYS PEREIRA BARBOSA',
-        idade: 26,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13331,7 +13514,7 @@ async function main() {
       {
         codigo: '4126413',
         nome: 'VALCELÍ DE LIMA GONÇALVES',
-        idade: 37,
+
         funcao: 'diretoria',
         clubeId: 43,
         password: 'senha',
@@ -13339,7 +13522,7 @@ async function main() {
       {
         codigo: '4126386',
         nome: 'VALENTINA MORBECK SAMPAIO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13347,7 +13530,7 @@ async function main() {
       {
         codigo: '4126379',
         nome: 'VALENTINA MOURA CRIVELLI',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13355,7 +13538,7 @@ async function main() {
       {
         codigo: '4126425',
         nome: 'VINICIUS FERREIRA DE JESUS',
-        idade: 18,
+
         funcao: 'apoio',
         clubeId: 43,
         password: 'senha',
@@ -13363,7 +13546,7 @@ async function main() {
       {
         codigo: '4126391',
         nome: 'VITOR DE FREITAS BORGES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13371,7 +13554,7 @@ async function main() {
       {
         codigo: '4126387',
         nome: 'VITORIA PEREIRA MARTINS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13379,7 +13562,7 @@ async function main() {
       {
         codigo: '4126525',
         nome: 'WESCLEY ZEMBRZUSKI CASTRO LORINI',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 43,
         password: 'senha',
@@ -13387,7 +13570,7 @@ async function main() {
       {
         codigo: '4132319',
         nome: 'ANA LUZIA DE OLIVEIRA CRUZ',
-        idade: 54,
+
         funcao: 'apoio',
         clubeId: 44,
         password: 'senha',
@@ -13395,7 +13578,7 @@ async function main() {
       {
         codigo: '4132311',
         nome: 'BENEDITO TADEU DEL BARCO',
-        idade: 58,
+
         funcao: 'apoio',
         clubeId: 44,
         password: 'senha',
@@ -13403,7 +13586,7 @@ async function main() {
       {
         codigo: '4132346',
         nome: 'DANIEL MARTINS DOS ANJOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13411,7 +13594,7 @@ async function main() {
       {
         codigo: '4204325',
         nome: 'DARALINE GOMES XAVIER',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 44,
         password: 'senha',
@@ -13419,7 +13602,7 @@ async function main() {
       {
         codigo: '4132299',
         nome: 'EDUARDO HENRIQUE SANTANA SILVA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13427,7 +13610,7 @@ async function main() {
       {
         codigo: '4135228',
         nome: 'ELIEL PIRES GONCALVES',
-        idade: 38,
+
         funcao: 'diretoria',
         clubeId: 44,
         password: 'senha',
@@ -13435,7 +13618,7 @@ async function main() {
       {
         codigo: '4130',
         nome: 'EMILY KAROLYNE SANTANA SILVA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 44,
         password: 'senha',
@@ -13443,7 +13626,7 @@ async function main() {
       {
         codigo: '4132306',
         nome: 'EMYLLY SILVA FILSINGER',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13451,7 +13634,7 @@ async function main() {
       {
         codigo: '4132291',
         nome: 'GEANDRO SOUZA BARROS',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13459,7 +13642,7 @@ async function main() {
       {
         codigo: '4132301',
         nome: 'GIULLIA MARIA BARROS SILVA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13467,7 +13650,7 @@ async function main() {
       {
         codigo: '4132297',
         nome: 'GUSTAVO AUGUSTO SILVA FARIAS.',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13475,7 +13658,7 @@ async function main() {
       {
         codigo: '4132285',
         nome: 'IZABELLA SOARES DA CRUZ NASCIMENTO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13483,7 +13666,7 @@ async function main() {
       {
         codigo: '4132345',
         nome: 'JORGE GABRIEL SILVA ALBUQUERQUE',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13491,7 +13674,7 @@ async function main() {
       {
         codigo: '4138',
         nome: 'KAWANNE MYRELLE LIMA RIBEIRO',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 44,
         password: 'senha',
@@ -13499,7 +13682,7 @@ async function main() {
       {
         codigo: '4132309',
         nome: 'KLEBER AUGUSTO PIRES',
-        idade: 36,
+
         funcao: 'diretoria',
         clubeId: 44,
         password: 'senha',
@@ -13507,7 +13690,7 @@ async function main() {
       {
         codigo: '4132305',
         nome: 'LARISSA ADRIANE DA SILVA FARIA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13515,7 +13698,7 @@ async function main() {
       {
         codigo: '4134',
         nome: 'LUCINEIDE DA SILVA RIBEIRO DOS SANTOS',
-        idade: 56,
+
         funcao: 'apoio',
         clubeId: 44,
         password: 'senha',
@@ -13523,7 +13706,7 @@ async function main() {
       {
         codigo: '4132292',
         nome: 'MARCELO HENRIQUE DOS SANTOS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13531,7 +13714,7 @@ async function main() {
       {
         codigo: '4132317',
         nome: 'MARIA SANTANA',
-        idade: 60,
+
         funcao: 'apoio',
         clubeId: 44,
         password: 'senha',
@@ -13539,7 +13722,7 @@ async function main() {
       {
         codigo: '4204318',
         nome: 'MAYCON WENDISLEY FERNANDES MORAES',
-        idade: 31,
+
         funcao: 'diretoria',
         clubeId: 44,
         password: 'senha',
@@ -13547,7 +13730,7 @@ async function main() {
       {
         codigo: '4132283',
         nome: 'SOPHYE CAROLINE DA CRUZ',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13555,7 +13738,7 @@ async function main() {
       {
         codigo: '4132296',
         nome: 'ÀVILA ESTHER BARBOSA DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 44,
         password: 'senha',
@@ -13563,7 +13746,7 @@ async function main() {
       {
         codigo: '4198606',
         nome: 'ALDORI BORGES DE QUADROS',
-        idade: 45,
+
         funcao: 'apoio',
         clubeId: 45,
         password: 'senha',
@@ -13571,7 +13754,7 @@ async function main() {
       {
         codigo: '4088202',
         nome: 'ANA CAROLINE PORTELA PINHEIRO',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13579,7 +13762,7 @@ async function main() {
       {
         codigo: '4088203',
         nome: 'ANAHI RAFAELA HELFENSTEIN SCHIPANSKI',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13587,7 +13770,7 @@ async function main() {
       {
         codigo: '4088204',
         nome: 'BRUNNA MYLENY SILVA ALVES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13595,7 +13778,7 @@ async function main() {
       {
         codigo: '4088206',
         nome: 'CAMILI LANGER R. PFEIFER',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13603,7 +13786,7 @@ async function main() {
       {
         codigo: '4197314',
         nome: 'CARLOS EDUARDO ARAUJO DE FARIAS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13611,7 +13794,7 @@ async function main() {
       {
         codigo: '4088215',
         nome: 'CATIANE REINHEIMER PFEIFER',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13619,7 +13802,7 @@ async function main() {
       {
         codigo: '4088217',
         nome: 'CRISTIANE DE SOUZA',
-        idade: 38,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13627,7 +13810,7 @@ async function main() {
       {
         codigo: '4088218',
         nome: 'CRISTIANE SANTANA GUIMARÃES',
-        idade: 38,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13635,7 +13818,7 @@ async function main() {
       {
         codigo: '4088219',
         nome: 'DAVID SANTANA ALVES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13643,7 +13826,7 @@ async function main() {
       {
         codigo: '4088223',
         nome: 'ELLEN FERNANDA PFEIFER',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13651,7 +13834,7 @@ async function main() {
       {
         codigo: '4088225',
         nome: 'ENZO SILVESTRE AGUIAR CAVALCANTE',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13659,7 +13842,7 @@ async function main() {
       {
         codigo: '4088227',
         nome: 'FELYPPE PFEIFER DIAS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13667,7 +13850,7 @@ async function main() {
       {
         codigo: '4088228',
         nome: 'FLÁVIO MACIEL SOUSA CARDOSO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13675,7 +13858,7 @@ async function main() {
       {
         codigo: '4088197',
         nome: 'GERLANIA DANTAS DA SILVA VALADAO',
-        idade: 43,
+
         funcao: 'apoio',
         clubeId: 45,
         password: 'senha',
@@ -13683,7 +13866,7 @@ async function main() {
       {
         codigo: '4088230',
         nome: 'GRAZIELLE SILVA DA SILVA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13691,7 +13874,7 @@ async function main() {
       {
         codigo: '4189632',
         nome: 'GUSTAVO HENRIQUE ARAUJO SILVA',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13699,7 +13882,7 @@ async function main() {
       {
         codigo: '4197306',
         nome: 'ISABELI SOUZA REZENDE',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13707,7 +13890,7 @@ async function main() {
       {
         codigo: '4088263',
         nome: 'ISABELLA CAROLINE SILVA GOMES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13715,7 +13898,7 @@ async function main() {
       {
         codigo: '4088233',
         nome: 'JHENIFER SANTANA ALVES',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13723,7 +13906,7 @@ async function main() {
       {
         codigo: '4088234',
         nome: 'JOSE AGUIAR ALVES',
-        idade: 38,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13731,7 +13914,7 @@ async function main() {
       {
         codigo: '4088235',
         nome: 'JOÃO EMANUEL BEZERRA DA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13739,7 +13922,7 @@ async function main() {
       {
         codigo: '4088237',
         nome: 'KARINY SILVA MENEZES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13747,7 +13930,7 @@ async function main() {
       {
         codigo: '4088238',
         nome: 'KELVIN HENRIQUE HOEHN BOLSANELLI',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13755,7 +13938,7 @@ async function main() {
       {
         codigo: '4088240',
         nome: 'KETLYN VITÓRIA DE OLIVEIRA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13763,7 +13946,7 @@ async function main() {
       {
         codigo: '4088242',
         nome: 'LEONARDO COLINS DOS PASSOS',
-        idade: 29,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13771,7 +13954,7 @@ async function main() {
       {
         codigo: '4189633',
         nome: 'LUDMILA DE SOUSA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13779,7 +13962,7 @@ async function main() {
       {
         codigo: '4088243',
         nome: 'MARCIO DOS SANTOS BARBOSA',
-        idade: 42,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13787,7 +13970,7 @@ async function main() {
       {
         codigo: '4088245',
         nome: 'MAXUEL MENDES BARBOSA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13795,7 +13978,7 @@ async function main() {
       {
         codigo: '4088247',
         nome: 'MICAEL PEREIRA BARBOSA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13803,7 +13986,7 @@ async function main() {
       {
         codigo: '4203120',
         nome: 'MOISES SILVA LUZ',
-        idade: 37,
+
         funcao: 'apoio',
         clubeId: 45,
         password: 'senha',
@@ -13811,7 +13994,7 @@ async function main() {
       {
         codigo: '4088248',
         nome: 'PATRICIA DE OLIVEIRA SILVA',
-        idade: 40,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13819,7 +14002,7 @@ async function main() {
       {
         codigo: '4088249',
         nome: 'PEDRO EMANOEL SOUZA FERREIRA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13827,7 +14010,7 @@ async function main() {
       {
         codigo: '4198604',
         nome: 'PEDRO HENRIQUE DA SILVA ANDRADE',
-        idade: 19,
+
         funcao: 'apoio',
         clubeId: 45,
         password: 'senha',
@@ -13835,7 +14018,7 @@ async function main() {
       {
         codigo: '4088253',
         nome: 'PEDRO HENRIQUE DE SOUZA BUZZIN',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13843,7 +14026,7 @@ async function main() {
       {
         codigo: '4189636',
         nome: 'RENATA CAVALCANTE DE ASSUNÇÃO',
-        idade: 43,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13851,7 +14034,7 @@ async function main() {
       {
         codigo: '4088254',
         nome: 'RENNAN PORTELO RODRIGUES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13859,15 +14042,15 @@ async function main() {
       {
         codigo: '4189638',
         nome: 'SIDINEI BUZZIN',
-        idade: 41,
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
       },
       {
         codigo: '4088259',
-        nome: 'THAIS SOLidade DE SOUSA SILVA',
-        idade: 28,
+        nome: 'THAIS SOLIDADE DE SOUSA SILVA',
+
         funcao: 'diretoria',
         clubeId: 45,
         password: 'senha',
@@ -13875,7 +14058,7 @@ async function main() {
       {
         codigo: '4088261',
         nome: 'WALQUIRIA SOUZA BARROS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 45,
         password: 'senha',
@@ -13883,7 +14066,7 @@ async function main() {
       {
         codigo: '4057103',
         nome: 'ALCIDES GOMES',
-        idade: 51,
+
         funcao: 'apoio',
         clubeId: 46,
         password: 'senha',
@@ -13891,7 +14074,7 @@ async function main() {
       {
         codigo: '4056470',
         nome: 'ALICE SOPHYA PEREIRA DE OLIVEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -13899,7 +14082,7 @@ async function main() {
       {
         codigo: '4015837',
         nome: 'ANDREIA BARBOSA DA SILVA',
-        idade: 35,
+
         funcao: 'diretoria',
         clubeId: 46,
         password: 'senha',
@@ -13907,7 +14090,7 @@ async function main() {
       {
         codigo: '4137533',
         nome: 'ANTHONY KAWAN RIBEIRO DA CONCEIÇÃO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -13915,7 +14098,7 @@ async function main() {
       {
         codigo: '4185500',
         nome: 'CARLOS HENRIQUE DA SILVA JORDAO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -13923,7 +14106,7 @@ async function main() {
       {
         codigo: '4015846',
         nome: 'CRISTIAN CARLA DE CAMPOS',
-        idade: 33,
+
         funcao: 'diretoria',
         clubeId: 46,
         password: 'senha',
@@ -13931,7 +14114,7 @@ async function main() {
       {
         codigo: '4015870',
         nome: 'DANUZA MORAES FERREIRA ANDRADE',
-        idade: 38,
+
         funcao: 'apoio',
         clubeId: 46,
         password: 'senha',
@@ -13939,7 +14122,7 @@ async function main() {
       {
         codigo: '4016203',
         nome: 'DIEGO BENICIO BARRETO BITENCOURT',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -13947,7 +14130,7 @@ async function main() {
       {
         codigo: '4015848',
         nome: 'DIOGO MAKARVER SIMÕES DE SOUZA',
-        idade: 35,
+
         funcao: 'apoio',
         clubeId: 46,
         password: 'senha',
@@ -13955,7 +14138,7 @@ async function main() {
       {
         codigo: '4015868',
         nome: 'EDUARDO FELIPE PEREIRA VARGAS LOBO',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -13963,7 +14146,7 @@ async function main() {
       {
         codigo: '4015844',
         nome: 'ELOIZA MORAES ANDRADE',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 46,
         password: 'senha',
@@ -13971,7 +14154,7 @@ async function main() {
       {
         codigo: '4133049',
         nome: 'FABIO ALEXANDRE ALVES DE ALMEIDA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -13979,7 +14162,7 @@ async function main() {
       {
         codigo: '4052599',
         nome: 'GUILHERME AUGUSTO CAMPOS DOS SANTOS',
-        idade: 17,
+
         funcao: 'diretoria',
         clubeId: 46,
         password: 'senha',
@@ -13987,7 +14170,7 @@ async function main() {
       {
         codigo: '4015853',
         nome: 'HEITOR MATHEUS SOARES GOMES',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -13995,7 +14178,7 @@ async function main() {
       {
         codigo: '4015841',
         nome: 'ISAQUE SOARES DOS SANTOS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -14003,7 +14186,7 @@ async function main() {
       {
         codigo: '4015839',
         nome: 'KENIER ROBERT DA SILVA',
-        idade: 27,
+
         funcao: 'diretoria',
         clubeId: 46,
         password: 'senha',
@@ -14011,7 +14194,7 @@ async function main() {
       {
         codigo: '4052594',
         nome: 'LUIZ GABRIEL LIMA GOMES',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -14019,7 +14202,7 @@ async function main() {
       {
         codigo: '4015855',
         nome: 'LUÍZA BARBOSA SELVÁTICO',
-        idade: 16,
+
         funcao: 'diretoria',
         clubeId: 46,
         password: 'senha',
@@ -14027,7 +14210,7 @@ async function main() {
       {
         codigo: '4016205',
         nome: 'MARCOS VINICÍUS DA SILVA PRADO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -14035,7 +14218,7 @@ async function main() {
       {
         codigo: '4015849',
         nome: 'MATEUS ARMANDO RIBEIRO DE FREITAS',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -14043,7 +14226,7 @@ async function main() {
       {
         codigo: '4016213',
         nome: 'MICAEL MORAES ANDRADE',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -14051,7 +14234,7 @@ async function main() {
       {
         codigo: '4015856',
         nome: 'RAYANE NERY SOUZA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -14059,7 +14242,7 @@ async function main() {
       {
         codigo: '4015851',
         nome: 'REBECA ARMANDO RIBEIRO DE FREITAS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -14067,7 +14250,7 @@ async function main() {
       {
         codigo: '4133060',
         nome: 'REBECA MOREIRA LUCAS FREIRE',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -14075,7 +14258,7 @@ async function main() {
       {
         codigo: '4015871',
         nome: 'ROMILDA ARANTES PINHEIRO',
-        idade: 53,
+
         funcao: 'apoio',
         clubeId: 46,
         password: 'senha',
@@ -14083,7 +14266,7 @@ async function main() {
       {
         codigo: '4015843',
         nome: 'SOFIA RESENDE FRAGA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -14091,7 +14274,7 @@ async function main() {
       {
         codigo: '4015858',
         nome: 'SOPHIA DA SILVA MAXIMIANO',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 46,
         password: 'senha',
@@ -14099,7 +14282,7 @@ async function main() {
       {
         codigo: '4065926',
         nome: 'ADRIANO SILVA DE SOUZA',
-        idade: 19,
+
         funcao: 'diretoria',
         clubeId: 1,
         password: 'senha',
@@ -14107,7 +14290,7 @@ async function main() {
       {
         codigo: '4065930',
         nome: 'ANNA VITORIA SIQUEIRA DA SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14115,7 +14298,7 @@ async function main() {
       {
         codigo: '4087011',
         nome: 'ARLENE PINHO DOS SANTOS SILVA',
-        idade: 44,
+
         funcao: 'apoio',
         clubeId: 1,
         password: 'senha',
@@ -14123,7 +14306,7 @@ async function main() {
       {
         codigo: '4075186',
         nome: 'CARLOS GABRIEL  ANDRADE',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14131,7 +14314,7 @@ async function main() {
       {
         codigo: '4148900',
         nome: 'ECLAUDEMIR BRUGNOLI',
-        idade: 54,
+
         funcao: 'apoio',
         clubeId: 1,
         password: 'senha',
@@ -14139,7 +14322,7 @@ async function main() {
       {
         codigo: '4075123',
         nome: 'EDER CARLOS DA SILVA',
-        idade: 37,
+
         funcao: 'apoio',
         clubeId: 1,
         password: 'senha',
@@ -14147,7 +14330,7 @@ async function main() {
       {
         codigo: '4065936',
         nome: 'ELIANE PINHO DOS SANTOS',
-        idade: 42,
+
         funcao: 'diretoria',
         clubeId: 1,
         password: 'senha',
@@ -14155,7 +14338,7 @@ async function main() {
       {
         codigo: '4087071',
         nome: 'ELMA REGINA MARTINS VARGAS',
-        idade: 51,
+
         funcao: 'apoio',
         clubeId: 1,
         password: 'senha',
@@ -14163,7 +14346,7 @@ async function main() {
       {
         codigo: '4075263',
         nome: 'EVANIA SANTANA DE MORAES',
-        idade: 53,
+
         funcao: 'apoio',
         clubeId: 1,
         password: 'senha',
@@ -14171,7 +14354,7 @@ async function main() {
       {
         codigo: '4203635',
         nome: 'FLÁVIA ALESSANDRA ALVES DA SILVA',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14179,7 +14362,7 @@ async function main() {
       {
         codigo: '4148928',
         nome: 'GIANLUCA MEDEIROS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14187,7 +14370,7 @@ async function main() {
       {
         codigo: '4148910',
         nome: 'GIULIA MEDEIROS COSTA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14195,7 +14378,7 @@ async function main() {
       {
         codigo: '4075121',
         nome: 'GUILHERME AMORIM FRANÇA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14203,7 +14386,7 @@ async function main() {
       {
         codigo: '4075124',
         nome: 'HEYLANDER ALEXANDRE RODRIGUES FERNANDES',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14211,7 +14394,7 @@ async function main() {
       {
         codigo: '4065933',
         nome: 'IZADORA OLIVEIRA PINHO DOS SANTOS',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14219,7 +14402,7 @@ async function main() {
       {
         codigo: '4075187',
         nome: 'JOAO GABRIEL DA SILVA SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14227,7 +14410,7 @@ async function main() {
       {
         codigo: '4065934',
         nome: 'JOEDILSON LUIZ DE MORAES',
-        idade: 45,
+
         funcao: 'diretoria',
         clubeId: 1,
         password: 'senha',
@@ -14235,7 +14418,7 @@ async function main() {
       {
         codigo: '4065928',
         nome: 'JOILSON SANTOS DE MORAES',
-        idade: 25,
+
         funcao: 'diretoria',
         clubeId: 1,
         password: 'senha',
@@ -14243,7 +14426,7 @@ async function main() {
       {
         codigo: '4065938',
         nome: 'JÚLIA FRATARI ANDRADE',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14251,7 +14434,7 @@ async function main() {
       {
         codigo: '4203565',
         nome: 'KELVIN DOS REIS MARINHO',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14259,7 +14442,7 @@ async function main() {
       {
         codigo: '4203633',
         nome: 'KIMBERLY LORRAINE RODRIGUES LECHENER',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14267,7 +14450,7 @@ async function main() {
       {
         codigo: '4075023',
         nome: 'LORENA CRISTINA MACHADO BRUNO DA SILVA',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14275,7 +14458,7 @@ async function main() {
       {
         codigo: '4075172',
         nome: 'LUCAS DA SILVA COSTA',
-        idade: 14,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14283,7 +14466,7 @@ async function main() {
       {
         codigo: '4075174',
         nome: 'LUIS GUSTAVO SILVA DE MORAES',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14291,7 +14474,7 @@ async function main() {
       {
         codigo: '4065932',
         nome: 'LUIZ AUGUSTO OLIVEIRA DOS SANTOS',
-        idade: 44,
+
         funcao: 'apoio',
         clubeId: 1,
         password: 'senha',
@@ -14299,7 +14482,7 @@ async function main() {
       {
         codigo: '4204293',
         nome: 'LUIZ FELIPE NEVES SOUZA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14307,7 +14490,7 @@ async function main() {
       {
         codigo: '4086964',
         nome: 'LURDES APARECIDA DE SOUZA',
-        idade: 69,
+
         funcao: 'apoio',
         clubeId: 1,
         password: 'senha',
@@ -14315,7 +14498,7 @@ async function main() {
       {
         codigo: '4075185',
         nome: 'MARCIA RAQUEL DE AMORIM FRANÇA',
-        idade: 33,
+
         funcao: 'diretoria',
         clubeId: 1,
         password: 'senha',
@@ -14323,7 +14506,7 @@ async function main() {
       {
         codigo: '4086953',
         nome: 'NAYARA PESSIDONIO  NASCIMENTO MACHADO',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14331,7 +14514,7 @@ async function main() {
       {
         codigo: '4075183',
         nome: 'PEDRO HENRIQUE FRATARI DA CRUZ',
-        idade: 13,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14339,7 +14522,7 @@ async function main() {
       {
         codigo: '4148976',
         nome: 'PEDRO KAUAN DOS SANTOS BORGES',
-        idade: 12,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14347,7 +14530,7 @@ async function main() {
       {
         codigo: '4203636',
         nome: 'ROBSON DE MELO ANDRADE',
-        idade: 42,
+
         funcao: 'apoio',
         clubeId: 1,
         password: 'senha',
@@ -14355,7 +14538,7 @@ async function main() {
       {
         codigo: '4087073',
         nome: 'SAMUEL PINHO DOS SANTOS SILVA',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14363,7 +14546,7 @@ async function main() {
       {
         codigo: '4075063',
         nome: 'SIDNEY ANTUNES JÚNIOR',
-        idade: 10,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14371,7 +14554,7 @@ async function main() {
       {
         codigo: '4075180',
         nome: 'SILVANIA DOS SANTOS  E SILVA MORAES',
-        idade: 50,
+
         funcao: 'diretoria',
         clubeId: 1,
         password: 'senha',
@@ -14379,7 +14562,7 @@ async function main() {
       {
         codigo: '4148913',
         nome: 'THAWANY GABRIELLY DE LIMA MARTINS',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14387,7 +14570,7 @@ async function main() {
       {
         codigo: '4086955',
         nome: 'WANDERSON LECHENER',
-        idade: 18,
+
         funcao: 'diretoria',
         clubeId: 1,
         password: 'senha',
@@ -14395,7 +14578,7 @@ async function main() {
       {
         codigo: '4075111',
         nome: 'WILLIAM ROCHA DA GLORIA',
-        idade: 15,
+
         funcao: 'desbravador',
         clubeId: 1,
         password: 'senha',
@@ -14403,9 +14586,4265 @@ async function main() {
       {
         codigo: '4075178',
         nome: 'YGOR MOREIRA DE SIQUEIRA',
-        idade: 11,
+
         funcao: 'desbravador',
         clubeId: 1,
+        password: 'senha',
+      },
+      {
+        codigo: '4207500',
+        nome: 'AGATHA DA SILVA FEREIRA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4207409',
+        nome: 'CRISTÓVÃO RODRIGUES DA SILVA',
+        funcao: 'apoio',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4185485',
+        nome: 'MARCIONE RIBEIRO FERNANDES',
+        funcao: 'apoio',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4185483',
+        nome: 'VALERIA TAVARES PEREIRA BRASILEIRA',
+        funcao: 'apoio',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4180878',
+        nome: 'AGATHA DANIELLY MIRANDA EISTEDT',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4059657',
+        nome: 'LUCIENE BONIFÁCIO DOS SANTOS',
+        funcao: 'apoio',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4057683',
+        nome: 'MARISA GEWEHR DE SOUZA',
+        funcao: 'diretoria',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4057669',
+        nome: 'OTAVIO OLIVEIRA SANTOS',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4049011',
+        nome: 'DAVI LOPES BOLSON',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043174',
+        nome: 'PATRÍCIA SILVA PAULA RODRIGUES',
+        funcao: 'diretoria',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043173',
+        nome: 'PAULO KAUAN RIBEIRO CAMPOS',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043172',
+        nome: 'RAFAEL TIRLONI',
+        funcao: 'diretoria',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043170',
+        nome: 'RIVALDO VALENZUELA GAMARRA',
+        funcao: 'apoio',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043169',
+        nome: 'SAMUEL ANDRADE OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043167',
+        nome: 'SAULLO DE LIMA RIZZI',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043165',
+        nome: 'SIMONE GONÇALVES BUENO',
+        funcao: 'diretoria',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043164',
+        nome: 'SOPHIA BRITO NUNES',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043163',
+        nome: 'THAÍSA KAWTHEN MOREIRA CORREIA',
+        funcao: 'diretoria',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043159',
+        nome: 'SORAIA SANTOS GIACOMINI',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043156',
+        nome: 'VITOR CRISTIANO TAVARES FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043153',
+        nome: 'OTAVIO MARIANO ALENCAR GARCIA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043148',
+        nome: 'NILSON DOS SANTOS PENTEADO',
+        funcao: 'diretoria',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043136',
+        nome: 'MICHELE GEWEHR MOTTA',
+        funcao: 'diretoria',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4043135',
+        nome: 'MELISSA SILVA LOURES',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042626',
+        nome: 'MELISSA GUIMARÃES DE AZEVEDO',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042617',
+        nome: 'MELISSA GEWEHR MOTTA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042613',
+        nome: 'MARLENE BORGES DE QUADROS',
+        funcao: 'diretoria',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042611',
+        nome: 'LUCIO ADALBERTO MOTTA FILHO',
+        funcao: 'apoio',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042609',
+        nome: 'LETICIA MENDES DELLAI',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042606',
+        nome: 'LEO BARBOSA LUFT',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042605',
+        nome: 'LAURA GABRIELLY BONIFÁCIO DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042603',
+        nome: 'JOAQUIM TORRES SALAMONI',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042524',
+        nome: 'LARYSSA RODRIGUES PENTEADO',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042523',
+        nome: 'ISMAEL DOS SANTOS SOUSA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042521',
+        nome: 'ISABELLY VITÓRIA DOS SANTOS',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042519',
+        nome: 'ISABELLA FERNANDES ANADÃO MOLINA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042517',
+        nome: 'ISAAC OLIVEIRA ZANDONÁ',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042513',
+        nome: 'ISAAC FERNANDES MARTINEZ',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042511',
+        nome: 'HELENA BEATRIZ MURIBECA COSTA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042509',
+        nome: 'GUILHERME SOARES GARCIA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042507',
+        nome: 'GABRIELLY ARAUJO DEBASTIANI',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042505',
+        nome: 'FERNANDO ARTUR FERREIRA DE MORAES',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042501',
+        nome: 'ELOISA FERREIRA DE SOUZA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042500',
+        nome: 'DAVI OLIVEIRA GIANSANTE',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042499',
+        nome: 'CLEONICE RODRIGUES PEREIRA',
+        funcao: 'apoio',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042497',
+        nome: 'BENJAMIN ANTONIO DE JESUS VARJAO',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042495',
+        nome: 'ARTHUR ZAMBENETTI',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042494',
+        nome: 'ANA MARIA SOUZA DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042493',
+        nome: 'LUANA AMBROSIO DA SILVA DUTRA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042489',
+        nome: 'SOPHIA SOUZA OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042487',
+        nome: 'EDSON LUCAS SOUZA OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4042483',
+        nome: 'PATRICIA RODRIGUES DA SILVA PENTEADO',
+        funcao: 'apoio',
+        clubeId: 47,
+        password: 'senha',
+      },
+      {
+        codigo: '4052991',
+        nome: 'ANA JULIA PORTELLA PANOSSO',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4052990',
+        nome: 'APARECIDO DE MENEZES',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4043613',
+        nome: 'JOSE WALDIR FERREIRA GRAIA',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4041182',
+        nome: 'AGATHA CAMILY MORAES FELIPE',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4041181',
+        nome: 'MARIA INES TAVELLA',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4041179',
+        nome: 'SOLANGE FERREIRA BRÁS',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4041163',
+        nome: 'SANDRA XAVIER DO AMARAL',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4041161',
+        nome: 'JULIETE DE SOUZA CASTRO',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4041056',
+        nome: 'BRYAN ASRIEL DE OLIVEIRA GONÇALVES',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4041055',
+        nome: 'AMANDA LIMA DE MATOS',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4031025',
+        nome: 'MARIA  PEREIRA ALVES DE LIMA',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4030958',
+        nome: 'ANA PAULA DA ROCHA TORRES',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023650',
+        nome: 'LUIS SAMUEL PEREIRA ALVES LIMA',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023642',
+        nome: 'VICTOR GABRIEL SILVA',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023641',
+        nome: 'LUCAS DA SILVA COIMBRA',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023638',
+        nome: 'ELIANE MAITELLI PEREIRA DE MORAES',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023636',
+        nome: 'JHEMYS MOISES DA SILVA NUNES',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023634',
+        nome: 'ALINE CRISTINA SANTOS RODRIGUES NUNES',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023633',
+        nome: 'ALICE EMANUELLY RODRIGUES NUNES',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023632',
+        nome: 'ADRYAN LUAN LOPES NUNES',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023630',
+        nome: 'MARISA BEATRIZ POLITO',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023628',
+        nome: 'LARISSA VITORIA AMARAL RIBEIRO',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023626',
+        nome: 'MAYKA VICTORIA CASTRO LORINI',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023624',
+        nome: 'MARIA VICTORIA DA ROCHA O.CALDEIRA',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023622',
+        nome: 'YASMIM DE MELO GUDÊNCIO',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023620',
+        nome: 'MIGUEL AMARAL PONTES',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023619',
+        nome: 'DANIELY MUZZO ALVES',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4023618',
+        nome: 'ANNA BELLY VARGAS LIMA',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '3967623',
+        nome: 'RONEI VILAS BOAS DE SOUZA',
+        funcao: 'diretoria',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '3953679',
+        nome: 'RIANE ABREU VILAS BOAS',
+        funcao: 'desbravador',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '3953677',
+        nome: 'LUCIRLENE MARIA DE JESUS NUNES',
+        funcao: 'diretoria',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '3953676',
+        nome: 'MARCOS BATISTA DE MORAES',
+        funcao: 'apoio',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '3953674',
+        nome: 'CAMILA PORTELLA PANOSSO',
+        funcao: 'diretoria',
+        clubeId: 48,
+        password: 'senha',
+      },
+      {
+        codigo: '4203717',
+        nome: 'ROSIANE DOS SANTOS W. LEITE',
+        funcao: 'apoio',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4056453',
+        nome: 'PEDRO HENRIQUE MARQUES PADILHA',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4056389',
+        nome: 'FLÁVIO MARCÍLIO BISPO BRANDÃO',
+        funcao: 'apoio',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4056388',
+        nome: 'EDIANA PAULA DUARTE DA SILVA',
+        funcao: 'apoio',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4052784',
+        nome: 'CLECIANE MAXIMIANO TABILE',
+        funcao: 'apoio',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4052618',
+        nome: 'ISABEL MOIA SOUZA',
+        funcao: 'apoio',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4052527',
+        nome: 'DANIELLE PINHEIRO DE SOUSA',
+        funcao: 'apoio',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4039923',
+        nome: 'NATHAN AQUINO FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016118',
+        nome: 'KAUAN BRYAN MOIA CABRAL',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016117',
+        nome: 'ISABELLA LEME NETO BRANDÃO',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016116',
+        nome: 'PAULA VANESSA LEME NETO BRANDÃO',
+        funcao: 'diretoria',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016115',
+        nome: 'HELENA MAXIMIANO GONÇALVES',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016113',
+        nome: 'SÉRGIO CORRÊA GONÇALVES',
+        funcao: 'apoio',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016112',
+        nome: 'POLLIANA DE JESUS FRAGA DA CRUZ',
+        funcao: 'diretoria',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016110',
+        nome: 'RHUAN LEONARDO NERES DUARTE',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016109',
+        nome: 'RAFAELLE DOS SANTOS LEITE',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016105',
+        nome: 'MURILO RESENDE FRAGA',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016103',
+        nome: 'NILVA SUELY SILVA RESENDE',
+        funcao: 'diretoria',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016100',
+        nome: 'MELISSA EVILYN SILVA RESENDE',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016099',
+        nome: 'LUIZA PINHEIRO RAMALHO',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016097',
+        nome: 'ISABELLA KAUANY DE ALMEIDA SANTOS',
+        funcao: 'desbravador',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016006',
+        nome: 'ILANA DE OLIVEIRA SHULTZ MACHADO',
+        funcao: 'diretoria',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016005',
+        nome: 'KENIER ROBERT DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4016004',
+        nome: 'ANA IZADORA CARNEIRO DOS SANTOS',
+        funcao: 'diretoria',
+        clubeId: 49,
+        password: 'senha',
+      },
+      {
+        codigo: '4151783',
+        nome: 'JOSÉ ROBERTO PACHECO JÚNIOR',
+        funcao: 'apoio',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4126902',
+        nome: 'BRUNA ROSA DE ANDRADE',
+        funcao: 'diretoria',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4063675',
+        nome: 'MARIA APARECIDA S.N.TEIXEIRA',
+        funcao: 'diretoria',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4054653',
+        nome: 'GUSTTAVO LORENZO DA SILVA SOUZA PACHECO',
+        funcao: 'desbravador',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4054652',
+        nome: 'ENZO GABRIEL DA SILVA PACHECO',
+        funcao: 'desbravador',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4054650',
+        nome: 'ELIANE MARIA DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4054647',
+        nome: 'THEILLOR GABRIEL PEREIRA DE SOUZA',
+        funcao: 'desbravador',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4054646',
+        nome: 'MARIA EDUARDA DE LIMA PACHECO',
+        funcao: 'desbravador',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4054644',
+        nome: 'LUCAS SILVA SANTOS',
+        funcao: 'desbravador',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4054641',
+        nome: 'MONICA NOGUEIRA DE LIMA',
+        funcao: 'apoio',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4018914',
+        nome: 'LARYSSA ANDRADE DE JESUS',
+        funcao: 'desbravador',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4018904',
+        nome: 'SAMARA REBEKA GOMES DE OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4018899',
+        nome: 'LEONARDO CESAR MARQUES DE SOUSA',
+        funcao: 'desbravador',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4018896',
+        nome: 'ICARO KAUAN DE JESUS',
+        funcao: 'desbravador',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4018812',
+        nome: 'NILDA GOMES DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4018810',
+        nome: 'FELLIPE FERREIRA DE SOUZA',
+        funcao: 'desbravador',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4018808',
+        nome: 'VALDINEIA SANTOS LIMA',
+        funcao: 'apoio',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4018748',
+        nome: 'ADILÂINE GUTIERRES',
+        funcao: 'diretoria',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4018744',
+        nome: 'ELIS REGINA LOPES DE SOUZA',
+        funcao: 'diretoria',
+        clubeId: 50,
+        password: 'senha',
+      },
+      {
+        codigo: '4134903',
+        nome: 'NATHIELLY MARA LEIDE SILVA',
+        funcao: 'diretoria',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4134901',
+        nome: 'VITÓRIA APARECIDA OLIVEIRA CASTRO',
+        funcao: 'desbravador',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4134897',
+        nome: 'CALDENI MARTINS DE OLIVEIRA',
+        funcao: 'apoio',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4134896',
+        nome: 'GLAUCIA TRINDADE LIMA DE OLIVEIRA',
+        funcao: 'apoio',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043419',
+        nome: 'HELOISA DA TRINDADE OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043417',
+        nome: 'LAÍS SANTOS FUGIMURA CORREA',
+        funcao: 'desbravador',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043415',
+        nome: 'GABRIELA GOMES DE MELO',
+        funcao: 'desbravador',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043413',
+        nome: 'BRUNA FERNANDA CARDOSO',
+        funcao: 'diretoria',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043411',
+        nome: 'LIVIA CAROLINE SANTOS DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043410',
+        nome: 'TANIA IZABEL SANTOS DE SOUZA',
+        funcao: 'diretoria',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043409',
+        nome: 'YAM MARCHESE OLIVEIRA FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043408',
+        nome: 'YASMIM ALVES MARCHESE',
+        funcao: 'diretoria',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043407',
+        nome: 'ALEXANDRA GOMES SEREIA',
+        funcao: 'desbravador',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043405',
+        nome: 'LUIZ HENRIQUE LOREIAN SILVA',
+        funcao: 'desbravador',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043403',
+        nome: 'ETHYELLE DAMACENA DE ALMEIDA',
+        funcao: 'desbravador',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043401',
+        nome: 'JANAINA DAMACENA ZANOLI DE ALMEIDA',
+        funcao: 'diretoria',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043399',
+        nome: 'ELIEZER SIMÃO DE ALMEIDA',
+        funcao: 'diretoria',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043398',
+        nome: 'NATHALYA VITORIA OLIVEIRA ALMEIDA',
+        funcao: 'desbravador',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4043397',
+        nome: 'MARCIA HELENA DE OLIVEIRA ABREU',
+        funcao: 'diretoria',
+        clubeId: 51,
+        password: 'senha',
+      },
+      {
+        codigo: '4213163',
+        nome: 'DEUZIRENE BORBA DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4213161',
+        nome: 'CAMILA ALVES RODRIGUES',
+        funcao: 'diretoria',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4203559',
+        nome: 'PEDRO HYNACIO SILVA LOIOLA',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4154126',
+        nome: 'YURE GEHAD FERNANDES SILVA',
+        funcao: 'diretoria',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4056524',
+        nome: 'TAWAN DOS REIS SILVA SOUZA',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4056504',
+        nome: 'JOSIMAR SOUSA GOMES',
+        funcao: 'diretoria',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4056501',
+        nome: 'KAUAN ABELARDO PIETROBON SIPAUBA',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055232',
+        nome: 'GUILHERME OLIVEIRA FERNANDES',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055211',
+        nome: 'JHONATTAN KALLEBE SILVA SANTOS',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055193',
+        nome: 'DAVI OLIVEIRA BARBOSA',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055190',
+        nome: 'JOAO VITOR ANASTACIO SILVA',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055183',
+        nome: 'GUSTAVO HENRIQUE ANASTACIO SOBRINHO',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055180',
+        nome: 'YASMIN RODRIGUES',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055178',
+        nome: 'KEMILLY ABREU SOUSA',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055175',
+        nome: 'CALEBE AIRES LUZ',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055173',
+        nome: 'KETLEN NAYARA LOPES ABREU',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055171',
+        nome: 'STEFANY LATIFY ANDRADE DE JESUS',
+        funcao: 'desbravador',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055167',
+        nome: 'ROSICLER A. REZENDE MACHADO',
+        funcao: 'apoio',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055165',
+        nome: 'GILVANIA SOUZA GOMES',
+        funcao: 'apoio',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055161',
+        nome: 'RUTIMAR LOPES DE CARVALHO DANTAS',
+        funcao: 'diretoria',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055159',
+        nome: 'CLEIDE CORREIA DA SILVA MENESES',
+        funcao: 'diretoria',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055157',
+        nome: 'JOELMA DA SILVA LUZ',
+        funcao: 'apoio',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055156',
+        nome: 'JOAO BOSCO TELES SANTOS',
+        funcao: 'apoio',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4055153',
+        nome: 'JODACY GASPAR DANTAS',
+        funcao: 'apoio',
+        clubeId: 52,
+        password: 'senha',
+      },
+      {
+        codigo: '4196190',
+        nome: 'ARTHUR MOACIR DE OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4196184',
+        nome: 'MIGUEL BELIZARIO DE PAULA',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4196179',
+        nome: 'HENRIQUE EMANUEL SANTOS DE LIMA',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4196169',
+        nome: 'EMMANUEL CAMPOS D SILVEIRA',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4055300',
+        nome: 'DAVI SANTOS DE LIMA',
+        funcao: 'apoio',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4054519',
+        nome: 'EVELIN LAVIGNE MARQUES SILVA',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4053182',
+        nome: 'MARIA NAZARETH RODRIGUES',
+        funcao: 'apoio',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4045313',
+        nome: 'VITORIA HELENA SOUSA SANTOS',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4043810',
+        nome: 'CLAUCIA JULIA WOLFF KEMP',
+        funcao: 'apoio',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4043808',
+        nome: 'FELIPE ALVES DE SOUZA',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4043301',
+        nome: 'EMANUELLY FERREIRA LOPES MARTINS',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4043036',
+        nome: 'JUSTINA ALVES DE SOUZA',
+        funcao: 'apoio',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4043031',
+        nome: 'CLEIDEMAR CABRAL CAMPOS',
+        funcao: 'apoio',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4042799',
+        nome: 'MÁRCIA DA SILVA PAULINO MATOS',
+        funcao: 'diretoria',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4042435',
+        nome: 'KELY CRISTINA VIEIRA DE SOUZA',
+        funcao: 'apoio',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041862',
+        nome: 'MARIA DANIELE LOPES DA SILVA',
+        funcao: 'apoio',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041802',
+        nome: 'MARIANA MARIA FERREIRA DE ARAUJO',
+        funcao: 'apoio',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041684',
+        nome: 'REBECA NICOLE ARAÚJO MATOS',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041682',
+        nome: 'HAISON NICOLAS ARAUJO MATOS',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041545',
+        nome: 'SARA AURORA SANTOS DE LIMA',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041542',
+        nome: 'PEDRO FERREIRA LOPES MARTINS',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041540',
+        nome: 'PAULO PEREIRA CAMPOS',
+        funcao: 'diretoria',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041538',
+        nome: 'JOÃO LUCAS FERREIRA DE BARROS',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041537',
+        nome: 'MARIA JULIA EVALDT BORGES DOS SANTOS',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041535',
+        nome: 'KAIQUE MARQUES DE OLEIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041534',
+        nome: 'MARIA FERNANDA TIBÚRCIA DE OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041531',
+        nome: 'EDER PORTIL DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041528',
+        nome: 'LUCIENE TIBURCIO DE OLIVEIRA',
+        funcao: 'diretoria',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041527',
+        nome: 'GUILHERME GLVES BRIDI',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041525',
+        nome: 'DAVI ELIAS WOLF KENP',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041523',
+        nome: 'ERIKA MARIANA SANTOS SOUZA',
+        funcao: 'diretoria',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041522',
+        nome: 'GABRIELLA OLIVEIRA PORTI SILVA',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041521',
+        nome: 'JAIR VARGAS DA VEIGA',
+        funcao: 'diretoria',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041520',
+        nome: 'FELIPE LOURENÇO PAULINO MATOS',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041519',
+        nome: 'ISABELLY LOUISE MARTINS',
+        funcao: 'desbravador',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041517',
+        nome: 'GRACIELLA OLIVEIRA SILVA',
+        funcao: 'diretoria',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4041515',
+        nome: 'BEATRIZ VEIGA FRANCISCO DE OLIVEIRA',
+        funcao: 'diretoria',
+        clubeId: 53,
+        password: 'senha',
+      },
+      {
+        codigo: '4201125',
+        nome: 'GEISIANE OLIVEIRA DE SOUZA',
+        funcao: 'apoio',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4201124',
+        nome: 'EULÁLIA DA SILVA BOTELHO',
+        funcao: 'diretoria',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4198734',
+        nome: 'LUCCA SILVA PANIAGO',
+        funcao: 'desbravador',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4198699',
+        nome: 'KARLA CRISTINA BATISTA SANTOS',
+        funcao: 'apoio',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4198694',
+        nome: 'FÁBIO FÁTIMO SILVA DE SOUZA',
+        funcao: 'apoio',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4198691',
+        nome: 'ELIAS SOUZA DUTRA',
+        funcao: 'desbravador',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056972',
+        nome: 'FABIO FATIMO SILVA DE SOUZA',
+        funcao: 'apoio',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056962',
+        nome: 'SOFIA CRISTINA DE CAMPOS',
+        funcao: 'desbravador',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056955',
+        nome: 'SARA TERESA ALMEIDA GOMES',
+        funcao: 'desbravador',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056953',
+        nome: 'NICOLLY DA SILVA PAELO',
+        funcao: 'desbravador',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056952',
+        nome: 'ISABELLA BATISTA SANTOS',
+        funcao: 'desbravador',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056950',
+        nome: 'ISABELA SILVA CORREIA',
+        funcao: 'desbravador',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056948',
+        nome: 'FELIPE SOARES DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056945',
+        nome: 'ELIZABETH DA LUZ GONÇALVES',
+        funcao: 'diretoria',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056943',
+        nome: 'DAVI FERNANDO MACEDO DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056942',
+        nome: 'CRISLENI FARIA DE CAMPOS',
+        funcao: 'diretoria',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056940',
+        nome: 'CLAUDINEI DA SILVA GOMES',
+        funcao: 'apoio',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056939',
+        nome: 'ANTHONNY RAPHAEL DA CRUZ BOTELHO',
+        funcao: 'desbravador',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056937',
+        nome: 'ANA MARIA VALDIVINO DA SILVA',
+        funcao: 'apoio',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4056936',
+        nome: 'ADNIR MIRANDA NUNES',
+        funcao: 'diretoria',
+        clubeId: 54,
+        password: 'senha',
+      },
+      {
+        codigo: '4204377',
+        nome: 'NAICEMIRA FERNANDES PILICIE',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4204375',
+        nome: 'CLEUDESON SOUZA E SILVA',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4204373',
+        nome: 'ROSA GABRIELA FERNANDES NERES',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4204371',
+        nome: 'MARLEI MENDES FONSECA',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4204367',
+        nome: 'GILSON MIRANDADOS SANTOS',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4147886',
+        nome: 'CLARA LUCIA FERREIRA MIRANDA MENDES',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4146676',
+        nome: 'CLARISLEY SILVA SOUZA',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4146372',
+        nome: 'SOPHIA AIRES MIRANDA',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4146367',
+        nome: 'DAIANA DE OLIVEIRA',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4146358',
+        nome: 'ANGELLYCA BEATRYS MIRANDA DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4061369',
+        nome: 'JOÃO EMANUEL SERAFIM BASTOS',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4061308',
+        nome: 'JOÃO LUCAS BATISTA DA COSTA',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4061302',
+        nome: 'VITOR VALDEZ DOS SANTOS',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059603',
+        nome: 'NATHÁLIA MARQUES PANZERA',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059594',
+        nome: 'MARIANA MIRANDA MACHADO',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059586',
+        nome: 'ISABELA BATISTA NOGUEIRA DO SANTOS',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059583',
+        nome: 'KELVIN KAIQUE',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059582',
+        nome: 'JOSÉ FABIO MIRANDA FERRAZ',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059577',
+        nome: 'GUSTAVO MIRANDA FERRAZ',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059575',
+        nome: 'GUILHERME OLIVEIRA DOS SANTOS',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059573',
+        nome: 'CALOS JOSÉ MARQUES PANIAGO',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059568',
+        nome: 'LUCAS MIRANDA FERRAZ',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059565',
+        nome: 'CARLOS DANIEL MIRANDA LUZ',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059562',
+        nome: 'MIGUEL CRUZ SOUZA',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059560',
+        nome: 'MARIA EDUARDA CRISTO MENDONÇA',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059559',
+        nome: 'EVELYN EMANUELLE DE SOUZA MIRANDA',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059557',
+        nome: 'MATHEUS SOKOLOSKI SENA',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059556',
+        nome: 'TIFFANY REZENDE SOARES',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059554',
+        nome: 'VITOR ROCHA SOCOLOSKI',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059553',
+        nome: 'NELCELI MIRANDA DE AZEVEDO',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059552',
+        nome: 'MAYTÊ FIDELIS FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059550',
+        nome: 'LAIS FIDELIS SOUSA MARTINS',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059549',
+        nome: 'HEITOR ROCHA SOCOLOSKI',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059545',
+        nome: 'DAVI SANTOS FRAISSAT',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059532',
+        nome: 'MARIA LUIZA ARAÚJO MARACAIPES.',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059530',
+        nome: 'VANESSA LUZ DE PAULA MIRANDA',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059526',
+        nome: 'LUCINAITH MARIA CRISTO',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059522',
+        nome: 'MAISA PEREIRA COSTA SOKOLOSKI',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059514',
+        nome: 'IEDA JOSÉ DE O. ARAUJO',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059507',
+        nome: 'GUILHERME SILVA CABRAL',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059505',
+        nome: 'FAGNER LUZ PIMENTEL',
+        funcao: 'diretoria',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059504',
+        nome: 'LAYRANA ARAÚJO SILVA SOUZA',
+        funcao: 'diretoria',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059502',
+        nome: 'ELIMAR DOS SANTOS SILVA',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059501',
+        nome: 'BONYER BEATRIZ ARAUJO DA SILVA',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059499',
+        nome: 'ANA LIMA DOS SANTOS',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059498',
+        nome: 'FABIANA APARECIDA REZENDE DA SILVA SOARES',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059480',
+        nome: 'FELIPE FERNANDES COSTA CABRAL',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059470',
+        nome: 'MARIZETE ARAUJO DA SILVA',
+        funcao: 'apoio',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4059182',
+        nome: 'ADRIEL CONCEIÇÃO NUNES FILHO',
+        funcao: 'desbravador',
+        clubeId: 55,
+        password: 'senha',
+      },
+      {
+        codigo: '4207303',
+        nome: 'GILMEIRE ALBERTONI ROMERA',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4201910',
+        nome: 'GYSELE MARTINS DE MENEZES MORAIS',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4146325',
+        nome: 'CLAUDINEI SOTO RUIZ',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4143869',
+        nome: 'CAMILLA SANTOS MACHADO',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055240',
+        nome: 'GEAN LUCAS MENEZES MORAIS',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055239',
+        nome: 'ALLANA MARIA LIMA OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055237',
+        nome: 'CELISVÂNIA DA SILVA LIMA',
+        funcao: 'diretoria',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055231',
+        nome: 'KARLA ANDREINA MARTELO CASTRO',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055213',
+        nome: 'LOURIVAL LEIF LEAL',
+        funcao: 'diretoria',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055205',
+        nome: 'GENYERBETH ABEL ESHLEIDER QUILARQUE MARTELO',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055202',
+        nome: 'GABRIEL SANTIAGO MOURA',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055191',
+        nome: 'JOÃO VITOR BARCELOS VILELA',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055187',
+        nome: 'ARTHUR BARCELOS VILELA',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055184',
+        nome: 'ISABELLY GERMANO DOS SANTOS',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055181',
+        nome: 'LIZ EDUARDA MACHADO TREVISOL',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055177',
+        nome: 'MATHEUS HENRIQUE MENDES CAMPOS',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055154',
+        nome: 'PEDRO RAFAEL BARRETO RAMOS',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055152',
+        nome: 'REBEKA VITÓRIA PORTO',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055150',
+        nome: 'THAYSA MARIA DO ESPIRITO SANTO',
+        funcao: 'diretoria',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055138',
+        nome: 'VALDENOR DA SILVA DIAS',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055137',
+        nome: 'SABRINA FONSECA MACHADO EFRREIRA',
+        funcao: 'diretoria',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055134',
+        nome: 'SOFIA DE MELLO DIAS',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055131',
+        nome: 'THEO VITOR GOMES RUIZ',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055130',
+        nome: 'ROSILENE BATISTA PANIAGO DE MIRANDA',
+        funcao: 'diretoria',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055128',
+        nome: 'RAY - LENTZ GREGOIRE',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055125',
+        nome: 'RAQUEL MIRIAN P. ALVES OLIVEIRA',
+        funcao: 'diretoria',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055121',
+        nome: 'NICOLAS FAVRETTO CAETANO',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055119',
+        nome: 'MÁRCIA PIRES DOS SANTOS MATZEMBACKER',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055116',
+        nome: 'MIGUEL PIRES MATZEMBACKER',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055114',
+        nome: 'MARVEL GREGOIRE',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055110',
+        nome: 'MARIA EDUARDA MACHADO FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055099',
+        nome: 'LINCOLN CAETANO DE SOUZA',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055081',
+        nome: 'LEANDRO DA SILVA MEDEIROS',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055078',
+        nome: 'LEIZA CARLA DE MELLO DIAS',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055075',
+        nome: 'JOÃO MARCELO MACHADO FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055070',
+        nome: 'IZABELLA ROCHA GONÇALVES',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055067',
+        nome: 'HOMERO LUCENA MASSUIA',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055064',
+        nome: 'HENRIQUE RODRIGUES MASSON',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055061',
+        nome: 'HEITOR MATOS FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055037',
+        nome: 'GISLAINE DANIELE PEREIRA GOMES SILVA',
+        funcao: 'diretoria',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055026',
+        nome: 'GABRIELLI ALVES OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055024',
+        nome: 'FERNANDA MARIANO MASSUIA',
+        funcao: 'apoio',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055019',
+        nome: 'FELIPE DE SOUZA MEDEIROS',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055016',
+        nome: 'ELISA CAROLINA HANTT MASSON',
+        funcao: 'diretoria',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4055012',
+        nome: 'DOUGLAS RODRIGO FERREIRA',
+        funcao: 'diretoria',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4054851',
+        nome: 'CLAUDIA DA SILVA BARRETO',
+        funcao: 'diretoria',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4054849',
+        nome: 'CAROLINA HANTT MASSON',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4054848',
+        nome: 'ARTHUR DE MELLO DIAS',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4054659',
+        nome: 'ANA CLARA LEAL',
+        funcao: 'desbravador',
+        clubeId: 56,
+        password: 'senha',
+      },
+      {
+        codigo: '4203951',
+        nome: 'LARA REBECA MENDES MEIRELES',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4203950',
+        nome: 'BERNARDO FERNANDES CONCEIÇÃO',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4203946',
+        nome: 'MARINÊS DE FÁTIMA DA SILVA',
+        funcao: 'apoio',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4189782',
+        nome: 'MELISSA DANIELLY DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4152047',
+        nome: 'WOLLACE ALMEIDA BACURI',
+        funcao: 'apoio',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4151938',
+        nome: 'LORHAYNE MIRIÃ BARBOSA WELCHEN',
+        funcao: 'diretoria',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4151933',
+        nome: 'EDUARDO GUILHERME WELCHEN PEDAÇO',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4056649',
+        nome: 'NEUTON EVANGELISTA DE MEDEIROS',
+        funcao: 'diretoria',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055621',
+        nome: 'PALOMA SILVA MENDES',
+        funcao: 'diretoria',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055529',
+        nome: 'CRISTIANE SOUZA DOS SANTOS SILVA',
+        funcao: 'apoio',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055494',
+        nome: 'JOSIAS GOMES BORGES',
+        funcao: 'apoio',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055473',
+        nome: 'SANDRA CECÍLIA SANTOS DE MEDEIROS',
+        funcao: 'diretoria',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055471',
+        nome: 'RAPHAEL BARBOSA MEDEIROS',
+        funcao: 'diretoria',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055469',
+        nome: 'ROZANE BORGES MEDEIROS',
+        funcao: 'diretoria',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055463',
+        nome: 'RHANIEL BELTRAME DE ARRUDA BORGES',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055433',
+        nome: 'NATHALIE OLIVEIRA ALMEIDA',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055431',
+        nome: 'JUCILENE ALVES DE ARRUDA',
+        funcao: 'diretoria',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055426',
+        nome: 'JOÃO LUCAS GOMES BARANOSKI',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055417',
+        nome: 'HADASSA BELTRAME DE ARRUDA BORGES',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055413',
+        nome: 'GEAN ADRIANO BARANOSKI',
+        funcao: 'diretoria',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055409',
+        nome: 'FERNANDO MACARIO MUNIZ',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055404',
+        nome: 'DANIEL SANTOS SILVA',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055399',
+        nome: 'DAVI SCHNEIDER PAZ GONÇALVES',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4055393',
+        nome: 'BENJAMIM BORGES MEDEIROS',
+        funcao: 'desbravador',
+        clubeId: 57,
+        password: 'senha',
+      },
+      {
+        codigo: '4206847',
+        nome: 'IRACEMA FERNANDES DA CONCEIÇÃO',
+        funcao: 'apoio',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4203343',
+        nome: 'JESSIKA MARTINS PIMENTA DE OLIVEIRA',
+        funcao: 'apoio',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4193290',
+        nome: 'JORDANA OLIVEIRA TELES',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4191915',
+        nome: 'GABRIEL LUCAS AZEVEDO FARIAS',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4191882',
+        nome: 'ELIEZER BERTOTTI PERES',
+        funcao: 'apoio',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4187559',
+        nome: 'SOLARA  NARVAES  DE ALMEIDA',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4186552',
+        nome: 'LAURA CRISTINA SCHIRMANN',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4186394',
+        nome: 'RUTH PEREIRA DE MIRANDA',
+        funcao: 'apoio',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059767',
+        nome: 'MARIA AGUIAR COSTA',
+        funcao: 'apoio',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059765',
+        nome: 'JUDITH DA SILVEIRA CARLOS',
+        funcao: 'apoio',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059490',
+        nome: 'ALEANE CARNEIRO RIBEIRO',
+        funcao: 'apoio',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059469',
+        nome: 'OSMAR LEIDE ALVES TORRES SILVA',
+        funcao: 'diretoria',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059467',
+        nome: 'REGINALDO RIBEIRO DA SILVA',
+        funcao: 'apoio',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059464',
+        nome: 'LUCIA DE FATIMA DE S ARAUJO',
+        funcao: 'diretoria',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059460',
+        nome: 'LUCEANDRO RODRIGUES DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059458',
+        nome: 'KAREN MORGANA LIMA DE SOUZA',
+        funcao: 'diretoria',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059456',
+        nome: 'GEREMIAS SILVA LUZ',
+        funcao: 'apoio',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059454',
+        nome: 'GISLEI MIRANDA SANTOS',
+        funcao: 'diretoria',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059443',
+        nome: 'REBECA TORRES SILVA',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059439',
+        nome: 'MARIAH KULCENTY LUZ',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059434',
+        nome: 'LUCAS RODRIGO ZINELLI BERTOTTI',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059433',
+        nome: 'KAMILY LIMA SILVA',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059274',
+        nome: 'GABRIEL COSTA MORAIS',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059268',
+        nome: 'DAVI MIRANDA LIMA',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4059265',
+        nome: 'ADÃO ALVES DA COSTA FILHO',
+        funcao: 'desbravador',
+        clubeId: 58,
+        password: 'senha',
+      },
+      {
+        codigo: '4203688',
+        nome: 'UGOR SAMUEL DA SILVA FELIX',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4050747',
+        nome: 'ABGAIR JOVINA DA COSTA',
+        funcao: 'apoio',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4050742',
+        nome: 'EVERSON NICOLI',
+        funcao: 'apoio',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4050731',
+        nome: 'CLAUDETE VIEIRA GUERINO',
+        funcao: 'apoio',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4044010',
+        nome: 'NUBIA ELLEN RIBEIRO ALVES',
+        funcao: 'apoio',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4044003',
+        nome: 'VANUSA SILVA LOPES',
+        funcao: 'apoio',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4044002',
+        nome: 'THAISA RIBEIRO FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4044001',
+        nome: 'SOFIA ROCHA DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043997',
+        nome: 'SOFIA DA SILVA VIEIRA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043995',
+        nome: 'SAMUEL DA SILVA CARDOSO',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043994',
+        nome: 'SABRINA LORENZI',
+        funcao: 'diretoria',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043993',
+        nome: 'PIETRO CABRAL FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043992',
+        nome: 'PAULA JANING NICOLE',
+        funcao: 'diretoria',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043991',
+        nome: 'NICOLLY MARQUES SILVA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043989',
+        nome: 'MILENA RODRIGUES DOS SANTOS',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043988',
+        nome: 'YASMIN EVARISTO CAZAL',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043987',
+        nome: 'MIGUEL JANING NICOLI',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043986',
+        nome: 'MARIO COSTA DE MELO',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043984',
+        nome: 'MARIA SANTANA RODRIGUES PEREIRA',
+        funcao: 'apoio',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043982',
+        nome: 'MARIA RITA R. DA SILVA CARDOSO',
+        funcao: 'apoio',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043980',
+        nome: 'MARIA LUIZA NUNES GARCIA',
+        funcao: 'diretoria',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043979',
+        nome: 'MARIA JOSE DE OLIVEIRA GOES',
+        funcao: 'apoio',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043977',
+        nome: 'MAIRLA TEIXEIRA RODRIGUES',
+        funcao: 'diretoria',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043974',
+        nome: 'LUIZA MONTINELLE KRAUSER',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043972',
+        nome: 'LUIZ MESSI SATURNINO DANTAS',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043970',
+        nome: 'LUCAS HENRIQUE RODRIGUES DE OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043968',
+        nome: 'LEVI DA CONCEICAO VIEIRA DE SOUSA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043967',
+        nome: 'LAUREN RODRIGUES PEREIRA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043966',
+        nome: 'LARA SOFIA NUNES GARCIA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043964',
+        nome: 'KELLI MARQUES DOS SANTOS SILVA',
+        funcao: 'diretoria',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043962',
+        nome: 'ISABELLY CRISTINE LIMA DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043960',
+        nome: 'GUSTAVO ALVES DA COSTA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043944',
+        nome: 'EMANUELLY NUNES DA COSTA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043938',
+        nome: 'DAIANA DE OLIVEIRA MELLO MATHIAS',
+        funcao: 'diretoria',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043921',
+        nome: 'ARTHUR RIBEIRO ALVES',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043919',
+        nome: 'ARTHUR LOPES DE OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4043914',
+        nome: 'ANA JULIA NOBERTO SILVA',
+        funcao: 'desbravador',
+        clubeId: 59,
+        password: 'senha',
+      },
+      {
+        codigo: '4214142',
+        nome: 'ELLEN GONÇALVES DE SOUSA',
+        funcao: 'apoio',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4204692',
+        nome: 'MIGUEL NATHAE CARLOS KEMERICH',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4202185',
+        nome: 'THALITA PEREIRA CARLOS KEMERICH',
+        funcao: 'apoio',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4132731',
+        nome: 'UANDERSON GOMES DE OLIVEIRA',
+        funcao: 'diretoria',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4132729',
+        nome: 'ELIANE PEREIRA DE MIRANDA',
+        funcao: 'diretoria',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4056605',
+        nome: 'FERNANDO SILVA FERNANDES',
+        funcao: 'diretoria',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4056540',
+        nome: 'DAIANE MIRANDA DE SOUZA FERNANDES',
+        funcao: 'apoio',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4052993',
+        nome: 'NOÉLIA GOMES DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4052988',
+        nome: 'GABRIELLE MORAES RODRIGUES',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4052987',
+        nome: 'MARIZA BELA DA SILVA REIS',
+        funcao: 'apoio',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4052985',
+        nome: 'SULAMITA SANTOS PERUCCE MENEZES',
+        funcao: 'apoio',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4052983',
+        nome: 'VALDEMAR CARLOS DOS REIS',
+        funcao: 'apoio',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4051062',
+        nome: 'IDAILDES BATISTA DOS SANTOS LESSA',
+        funcao: 'diretoria',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4051059',
+        nome: 'CARINI REINHEIMER PFEIFER LESSA',
+        funcao: 'diretoria',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4051021',
+        nome: 'YASMIM TEODORA MIRANDA',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4051019',
+        nome: 'PEDRO HENRIQUE PERES DE OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4051018',
+        nome: 'PEDRO EMANUEL NATHAE KEMERICH',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4051012',
+        nome: 'MELISSA DE SOUZA FERNANDES',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4051011',
+        nome: 'LUIS HENRIQUE DOS SANTOS LESSA',
+        funcao: 'apoio',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4051008',
+        nome: 'LIVIA OLIVEIRA SILVA',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4051003',
+        nome: 'LARA VITORIA ROSA DA CRUZ',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4050995',
+        nome: 'HENRY GABRIEL VIEIRA BUENO',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4050988',
+        nome: 'GABRIEL MALDONADO MASS',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4050980',
+        nome: 'ELOAH MIRANDA SEIXAS',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4050976',
+        nome: 'ARTHUR SOARES DINIZ',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4050966',
+        nome: 'AMANDA DOS REIS SOARES',
+        funcao: 'desbravador',
+        clubeId: 60,
+        password: 'senha',
+      },
+      {
+        codigo: '4204356',
+        nome: 'MAIREN BEATRIZ SOUZA DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4204355',
+        nome: 'ARTHUR ALMEIDA FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4204354',
+        nome: 'MARIANA SIQUEIRA NOGUEIRA',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4203446',
+        nome: 'ERICA CRISTINA CIRQUEIRA DA SILVA DE MORAIS',
+        funcao: 'diretoria',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4203443',
+        nome: 'WELLINGTON JOSE MEIRA RAMOS',
+        funcao: 'diretoria',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4203406',
+        nome: 'PEDRO MARCELO CAETANO DE SOUZA',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4203377',
+        nome: 'BENICIO RAPHAEL RIGO',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056878',
+        nome: 'PEDRO MIGUEL DIONÍSIO DE SOUZA',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056877',
+        nome: 'PHETALA FERNANDA PARANHOS DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056875',
+        nome: 'SARA NEUBUSER',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056873',
+        nome: 'YURI SILVA SOUSA',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056871',
+        nome: 'RENATO MATEUS GRACIA',
+        funcao: 'apoio',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056868',
+        nome: 'MICHELLI SERAMIM',
+        funcao: 'apoio',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056866',
+        nome: 'MARIA DE FATIMA OLIVEIRA NASCIMENTO',
+        funcao: 'apoio',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056865',
+        nome: 'LUDMILA DA SILVA MARQUES',
+        funcao: 'diretoria',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056863',
+        nome: 'LUDIELLY DA SILVA MARQUES',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056861',
+        nome: 'KEMILLY VICTORIA BEZERRA DOS SANTOS',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056860',
+        nome: 'JULIANO DA SILVA GIEHL',
+        funcao: 'apoio',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056859',
+        nome: 'JULIA RODRIGUES LIMA',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056857',
+        nome: 'JORGE LUCAS GOMES SILVA',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056855',
+        nome: 'JONAS NEUBUSER',
+        funcao: 'diretoria',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056853',
+        nome: 'JESSICA RODRIGUES PEREIRA E SILVA',
+        funcao: 'apoio',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056852',
+        nome: 'JANICE CRAUS',
+        funcao: 'apoio',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056849',
+        nome: 'INARA CRAUSS DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056847',
+        nome: 'HELENA PLANTES PEREIRA DE JESUS',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056844',
+        nome: 'HEITOR DIOGO DE OLIVEIRA RODRIGUES',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056842',
+        nome: 'EDUARDO LORENZO NASCIMENTO COELHO',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056841',
+        nome: 'DULCE NOEMIA MAICA',
+        funcao: 'apoio',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056837',
+        nome: 'CECILIA SERAMIN ZATTA',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056834',
+        nome: 'BRENO HENRIQUE TRINDADE RAMOS',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056832',
+        nome: 'AYSLA GABRIELA LEITE RUAS',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056764',
+        nome: 'ANA PAULA DE BARROS NASCIMENTO',
+        funcao: 'apoio',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056762',
+        nome: 'ANA JULIA NASCIMENTO ZAGHI',
+        funcao: 'desbravador',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4056753',
+        nome: 'ALEXANDRE DOS SANTOS N. CHAVES',
+        funcao: 'diretoria',
+        clubeId: 61,
+        password: 'senha',
+      },
+      {
+        codigo: '4204351',
+        nome: 'JOSÉ MATIAS VALADÃO',
+        funcao: 'apoio',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4204350',
+        nome: 'ACSSA CECILLYA SOUZA SILVA',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4149263',
+        nome: 'MARILENE PFEIFER',
+        funcao: 'apoio',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4149254',
+        nome: 'TATIANE SILVA DE ASSIS SAMPAIO',
+        funcao: 'apoio',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4149248',
+        nome: 'CRISTIANE DE SOUZA',
+        funcao: 'apoio',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4056285',
+        nome: 'PAULO HENRIQUE QUEIROZ DA COSTA',
+        funcao: 'apoio',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055707',
+        nome: 'DELCIDE GOMES VANDERLEY LIMA',
+        funcao: 'diretoria',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055704',
+        nome: 'MARCIANE SILVA DE SOUZA',
+        funcao: 'diretoria',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055703',
+        nome: 'GERLANIA DANTAS DA SILVA VALADAO',
+        funcao: 'diretoria',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055701',
+        nome: 'AMANDA DA SILVA VALADÃO',
+        funcao: 'diretoria',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055699',
+        nome: 'CÍCERO MONTEIRO DOS SANTOS',
+        funcao: 'diretoria',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055697',
+        nome: 'ALDENEIDE RODRIGUES OLIVEIRA COSTA',
+        funcao: 'diretoria',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055623',
+        nome: 'MAX FELICIO SILVA DE SOUSA',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055524',
+        nome: 'FERNANDA PRESTES SONNEBORN',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055522',
+        nome: 'ESTHER GONÇALVES DOS SANTOS',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055521',
+        nome: 'GRACIELA BERNADINA ROSA BORGES',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055517',
+        nome: 'GUYLHERME PEREIRA BARBOSA SILVA',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055515',
+        nome: 'ISABELLA DE LIMA SOUSA',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055513',
+        nome: 'MIZAEL LEVY SILVA SAMPAIO',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055511',
+        nome: 'NICOLLAS DE JESUS VIEIRA',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055509',
+        nome: 'RAIFRAN LOPES DE SOUSA',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055507',
+        nome: 'VICTOR NASCIMENTO MUCHEL',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055505',
+        nome: 'VITORIA LOPES SILVA',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055503',
+        nome: 'YASMIN MARQUES BENTES',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055501',
+        nome: 'JOSUÉ MARTINS LIONCIO DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055498',
+        nome: 'ENZO GABRIEL RODRIGUES LOPES',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4055497',
+        nome: 'ALLAN JACKSON SILVA',
+        funcao: 'desbravador',
+        clubeId: 62,
+        password: 'senha',
+      },
+      {
+        codigo: '4191734',
+        nome: 'SILVIA RODRIGUES GOMES LEMES',
+        funcao: 'apoio',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4188810',
+        nome: 'JANIRA MARIA DOS SANTOS',
+        funcao: 'apoio',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4186881',
+        nome: 'KATIANE RODRIGUES BRINQUEDO GUSMAO',
+        funcao: 'diretoria',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4126643',
+        nome: 'SUELI DA  SILVA',
+        funcao: 'apoio',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4122565',
+        nome: 'JOQUEBEDE MARIA GONÇALVES',
+        funcao: 'apoio',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4122561',
+        nome: 'VILMAR NUNES NETO',
+        funcao: 'apoio',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052531',
+        nome: 'MELISSA REINY DE OLIVEIRA FREITAS',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052496',
+        nome: 'LEA CORREA NUNES',
+        funcao: 'diretoria',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052494',
+        nome: 'WASHINGTON JUNIO OLIVEIRA  SILVA',
+        funcao: 'apoio',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052493',
+        nome: 'WANDERSON FRANCISCO DE JESUS',
+        funcao: 'diretoria',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052477',
+        nome: 'YAN CANTUARIO PIRES',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052474',
+        nome: 'VALENTINA FONSECA DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052470',
+        nome: 'SOPHIA FERREIRA DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052469',
+        nome: 'SOPHIA DANTAS DIAS',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052465',
+        nome: 'SOPHIA CANTUARIO PIRES',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052460',
+        nome: 'SOFIA RODRIGUES BRINQUEDO GUSMÃO',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052457',
+        nome: 'SAYMON LUIZ BEE DE SOUZA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052453',
+        nome: 'ROGERIA FERREIRA LIMA',
+        funcao: 'apoio',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052450',
+        nome: 'PEDRO JORGE ASSUNÇÃO OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052449',
+        nome: 'LUIZ MIGUEL BORGES PIMENTA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052445',
+        nome: 'MAURINE FONSECA CIRINO DE SOUZA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052444',
+        nome: 'MARIA EDUARDA FERREIRA LIMA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052443',
+        nome: 'MARESA DOS SANTOS JESUS',
+        funcao: 'diretoria',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052433',
+        nome: 'LUCAS GABRIEL RAMOS DE OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052431',
+        nome: 'LIVIA GONÇALVES DO NASCIMENTO ROSSI RINALDI',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052430',
+        nome: 'LIVIA CORREA SANTOS LEITE DE BRITO',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052359',
+        nome: 'LAURIENE BORGES SILVA',
+        funcao: 'diretoria',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052357',
+        nome: 'JULYEINE MONIKE PIVA FERNANDES',
+        funcao: 'diretoria',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052355',
+        nome: 'JOAO PEDRO PIVA BEZERRA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052354',
+        nome: 'JOAO GUILHERME PIVA BEZERRA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052351',
+        nome: 'GLAUBER DOS SANTOS GOMES',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052349',
+        nome: 'FABIANA GONÇALVES DO NASCIMENTO ROSSI RINALDI',
+        funcao: 'diretoria',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052344',
+        nome: 'DAVI BORGES PIMENTEL ARRUDA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052343',
+        nome: 'CRISTIANE BARROS DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052341',
+        nome: 'CRISTIANA BUENO RAMOS',
+        funcao: 'apoio',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052336',
+        nome: 'CECILIA NUNES CORREA',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052335',
+        nome: 'CAUÃ VINICIUS GONÇALVES',
+        funcao: 'desbravador',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052333',
+        nome: 'ANIKELY FERREIRA DE FREITAS',
+        funcao: 'diretoria',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4052331',
+        nome: 'ALEXSANDRA ALVES BEE DE SOUZA',
+        funcao: 'apoio',
+        clubeId: 63,
+        password: 'senha',
+      },
+      {
+        codigo: '4186509',
+        nome: 'MARCOS RODRIGO DE MOURA',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4150549',
+        nome: 'JORGEANA ALVES LOMGO',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4150542',
+        nome: 'BEATRIZ CRISTINA B. F. ALMEIDA',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056165',
+        nome: 'LUCILENE VARANDA PINHEIRO',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056098',
+        nome: 'SOFIA GRAZIELLE SILVA DE CAMPOS',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056096',
+        nome: 'VINICIUS WAECHTER ALVES',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056094',
+        nome: 'STEPHANY RODRIGUES BARROS DO NASCIMENTO',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056091',
+        nome: 'ANA LUISA BARROS VITALIANO',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056087',
+        nome: 'CÉLIO CARLOS ÁVILA FERREIRA',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056083',
+        nome: 'NICHOLAS NALIN AVILA FERREIRA',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056079',
+        nome: 'DEBORA OLIVEIRA MARTINS',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056078',
+        nome: 'JHONY LUCAS OLIVEIRA MARTINS',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056075',
+        nome: 'SAMARA DE PAULA OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056073',
+        nome: 'CRYSTHIANNE DE PAULA OLIVEIRA',
+        funcao: 'diretoria',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056072',
+        nome: 'ARTHUR ALVES LONGO',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056070',
+        nome: 'MARCELO MOREIRA DE CAMPOS',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056069',
+        nome: 'RAIMUNDA DONATA JESUS ARAÚJO BORGES',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056017',
+        nome: 'GABRIEL DE MORAES CREPIN',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056014',
+        nome: 'JOVELINA DE MORAES',
+        funcao: 'diretoria',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056012',
+        nome: 'JOÃO BELIZÁRIO DA SILVA',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056011',
+        nome: 'MICHEL SOBRINHO QUENEHEN',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056010',
+        nome: 'VANESSA CASSIA SOBRINHO QUENEHEN',
+        funcao: 'diretoria',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056008',
+        nome: 'JOÃO LUCAS TRAGE BELIZÁRIO',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056006',
+        nome: 'TAYLER BERNARDO VARANDA DA SILVA',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056005',
+        nome: 'KALEBY THIAGO DO NASCIMENTO COSTA',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4056003',
+        nome: 'LUCIENE DA SILVA NASCIMENTO COSTA',
+        funcao: 'diretoria',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055991',
+        nome: 'MIGUEL PAZ AZEVEDO',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055989',
+        nome: 'DAVID SAMUEL PAZ DELGADO',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055987',
+        nome: 'GABRIEL DE CAMARGO BEZERRA',
+        funcao: 'diretoria',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055985',
+        nome: 'LEÔNIDAS OLIVEIRA BITTNER',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055984',
+        nome: 'CLÉIA OLIVEIRA BITTNER',
+        funcao: 'diretoria',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055958',
+        nome: 'MARY ELLEN VIEIRA KRUGER',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055905',
+        nome: 'VALENTINA BRAZ ALMEIDA',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055865',
+        nome: 'ANA MARIA DOS REIS BARBOSA',
+        funcao: 'desbravador',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055864',
+        nome: 'GENISLAINE CONCEIÇÃO DOS REIS BARBOSA',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055863',
+        nome: 'JEAN CARLOS ZAGO CAMARGO',
+        funcao: 'apoio',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4055862',
+        nome: 'FABIANE DE OLIVEIRA CAVALCANTE',
+        funcao: 'diretoria',
+        clubeId: 64,
+        password: 'senha',
+      },
+      {
+        codigo: '4215040',
+        nome: 'MARIA APARECIDA ALVES DOS SANTOS',
+        funcao: 'apoio',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4204044',
+        nome: 'ADILSON DOS SANTOS',
+        funcao: 'apoio',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4203959',
+        nome: 'CÁSSIA ROSA RODRIGUES DOS SANTOS',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4196961',
+        nome: 'TASSIA MORAES DE ASSIS DAMASCENO',
+        funcao: 'apoio',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4138570',
+        nome: 'ANTONIO BORGES BOTELHO',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4138560',
+        nome: 'GEMIMA RODRIGUES DOS SANTOS',
+        funcao: 'diretoria',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4138553',
+        nome: 'JOCELENE DA SILVA VAZ',
+        funcao: 'apoio',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4138550',
+        nome: 'PAULO ALVES DE OLIVEIRA',
+        funcao: 'apoio',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4138548',
+        nome: 'VALENTINA OLIVEIRA SANTOS',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4138542',
+        nome: 'VANESSA LIMA DOS SANTOS TEIXEIRA',
+        funcao: 'apoio',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4054803',
+        nome: 'SARAH CAMPOS DA SILVA VAZ',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4054781',
+        nome: 'DAFNE DOS SANTOS TEIXEIRA',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4054768',
+        nome: 'IZADORA CAMPOS DE OLIVEIRA',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4054243',
+        nome: 'DIONE MIRANDA KELLER',
+        funcao: 'apoio',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4054218',
+        nome: 'VALDINEY DA GUIA',
+        funcao: 'apoio',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4054109',
+        nome: 'LUIZ FELIPE DE OLIVEIRA SOUZA',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4054107',
+        nome: 'FABIANE CAMPOS DOS SANTOS CAMARGO',
+        funcao: 'diretoria',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4054098',
+        nome: 'CECÍLIA COSTA TEIXEIRA',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4054095',
+        nome: 'SELMA COSTA TEIXEIRA',
+        funcao: 'diretoria',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4053975',
+        nome: 'DANYLO G. DE ALMEIDA SOUZA',
+        funcao: 'apoio OCASIONAL',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4053917',
+        nome: 'ELAINE CARDOSO DE OLIVEIRA SOUZA',
+        funcao: 'apoio OCASIONAL',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4053755',
+        nome: 'MARIA CRISTINA TEODORO DE SOUZA PAIVA',
+        funcao: 'diretoria',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4053751',
+        nome: 'MANASSES LUIZ BOTELHO',
+        funcao: 'apoio',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4053750',
+        nome: 'HEULLA FHERNANDA MENEZES BORGES',
+        funcao: 'diretoria',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4044023',
+        nome: 'PEDRO HENRIQUE SANTOS DA GUIA',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '3962500',
+        nome: 'ARTUR VIDOVICH KELLER',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '3962499',
+        nome: 'YASMIN VIDOVICH KELLER',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '3962217',
+        nome: 'JOAQUIM ASSIS DAMASCENO',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '3960448',
+        nome: 'CRISTOFER DE SOUZA PAIVA',
+        funcao: 'desbravador',
+        clubeId: 65,
+        password: 'senha',
+      },
+      {
+        codigo: '4055620',
+        nome: 'RAQUEL BARBOSA DA SILVA',
+        funcao: 'diretoria',
+        clubeId: 66,
+        password: 'senha',
+      },
+      {
+        codigo: '4055491',
+        nome: 'NEUSA BORGES LEAL',
+        funcao: 'diretoria',
+        clubeId: 66,
+        password: 'senha',
+      },
+      {
+        codigo: '4055487',
+        nome: 'JUSCELINO MOREIRA DE COSTA',
+        funcao: 'diretoria',
+        clubeId: 66,
+        password: 'senha',
+      },
+      {
+        codigo: '4055483',
+        nome: 'ANA CRISTINA DA SILVA NUNES',
+        funcao: 'desbravador',
+        clubeId: 66,
         password: 'senha',
       },
     ],
@@ -14413,6 +18852,8 @@ async function main() {
   });
 
   const password = await bcrypt.hash('trick123', 12);
+  const passwordStaff = await bcrypt.hash('apoio123', 12);
+
   await prisma.clube.create({
     include: { membros: true },
     data: {
@@ -14421,13 +18862,170 @@ async function main() {
       pais: 'ONU',
       regiao: 'ALM',
       membros: {
-        create: {
-          nome: 'Patrick Adan',
-          codigo: '111111',
-          funcao: 'administrador',
-          idade: 27,
-          password,
-          email: 'patrick.tafa@gmail.com',
+        createMany: {
+          data: [
+            {
+              nome: 'Patrick Adan',
+              codigo: '1111111',
+              funcao: 'administrador',
+              password,
+              email: 'patrick.tafa@gmail.com',
+            },
+            {
+              nome: 'Valquíria Maciel França Ribeiro',
+              email: 'ribeiro.valzinha@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111112',
+            },
+            {
+              nome: 'Gleiciele Batista Holandao',
+              email: 'gleicielevieira6@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111113',
+            },
+            {
+              nome: 'Lindalva Rodrigues Pereira Martins',
+              email: 'lindalvamartins15@hotmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111114',
+            },
+            {
+              nome: 'Eloiza Maria  Hantt',
+              email: 'eloizzahantt@hotmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111115',
+            },
+            {
+              nome: 'Lauany da Silva Gusmão',
+              email: 'lauany.gusmao@adventistas.org',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111116',
+            },
+            {
+              nome: 'Maria Izabel Samuel de Proença',
+              email: 'izabel.pereira@adventistas.org',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111117',
+            },
+            {
+              nome: 'Diaqueline Rodrigues da Conceição Ribeiro',
+              email: 'diaqueline.ribeiro@adventistas.org',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111118',
+            },
+            {
+              nome: 'Luciana Almeida do Bem Matos de Moura',
+              email: 'luciana_mmoura@msn.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111119',
+            },
+            {
+              nome: 'Joselene de Araújo Padilha',
+              email: 'joselene.caninde2@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111120',
+            },
+            {
+              nome: 'Dinha ( R. ALVES DE SOUSA)',
+              email: 'falacomigochico@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111121',
+            },
+            {
+              nome: 'Bianca Nicolly de Freitas Mendes',
+              email: 'bianca.mendes@adventistas.org',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111122',
+            },
+            {
+              nome: 'Raiany Paula dos Santos Dal Mas',
+              email: 'raiany.santos@adventistas.org',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111123',
+            },
+            {
+              nome: 'Claudia Cassemira de Arruda Warmling',
+              email: 'claudiacassemira@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111124',
+            },
+            {
+              nome: 'Danilo César Jesus Costa Fernandes',
+              email: 'daniline1914@icloud.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111125',
+            },
+            {
+              nome: 'Marcos Paulo Ferreira Lima Soprano',
+              email: 'marcospaulosoprano@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111126',
+            },
+            {
+              nome: 'Francisco Leonardo Silva Pereira De Sá',
+              email: 'ls216450@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111127',
+            },
+            {
+              nome: 'Raimunda Notato Vieira da Costa',
+              email: 'raimundaerika@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111128',
+            },
+            {
+              nome: 'Kayo Fernando de Lara Mendes',
+              email: 'kayo.lara74.kl@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111129',
+            },
+            {
+              nome: 'Nadia Concepción Britez Flores',
+              email: 'nadia.britez.2bti@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111130',
+            },
+            {
+              nome: 'Yara Adventista Mendes da Silva',
+              email: 'yaramendes782@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111131',
+            },
+            {
+              nome: 'Rogerio Moya dos Santos',
+              email: 'mdkrogerio@gmail.com',
+              funcao: 'staff',
+              password: passwordStaff,
+              codigo: '1111132',
+            },
+            {
+              nome: 'Francielida Lira',
+              email: 'francielida.lira@adventistas.org',
+              funcao: 'administrador',
+              password: passwordStaff,
+              codigo: '1111133',
+            },
+          ],
         },
       },
     },
