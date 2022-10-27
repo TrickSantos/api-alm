@@ -87,7 +87,7 @@ export class EventoService {
       },
       () => this.logger.log(`Evento com id: ${id} foi marcado como ativo`),
       true,
-      'America/Cuiaba',
+      'America/America/Sao_Paulo',
     );
     this.schedulerRegistry.addCronJob(name, job);
     job.start();
@@ -115,7 +115,7 @@ export class EventoService {
       },
       () => this.logger.log(`Evento com id: ${id} foi marcado como inativo`),
       true,
-      'America/Cuiaba',
+      'America/America/Sao_Paulo',
     );
     this.schedulerRegistry.addCronJob(name, job);
     job.start();

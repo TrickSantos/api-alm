@@ -10,11 +10,11 @@ class EventoProducerService {
 
   async execute(evento: evento) {
     const inicioDelay = DateTime.fromJSDate(evento.inicio)
-      .setZone('America/Cuiaba')
+      .setZone('America/America/Sao_Paulo')
       .diffNow().milliseconds;
 
     const fimDelay = DateTime.fromJSDate(evento.fim)
-      .setZone('America/Cuiaba')
+      .setZone('America/America/Sao_Paulo')
       .diffNow().milliseconds;
 
     await this.queue.add('inicio', evento, {

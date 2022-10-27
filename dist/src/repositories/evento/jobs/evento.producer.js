@@ -22,10 +22,10 @@ let EventoProducerService = class EventoProducerService {
     }
     async execute(evento) {
         const inicioDelay = luxon_1.DateTime.fromJSDate(evento.inicio)
-            .setZone('America/Cuiaba')
+            .setZone('America/America/Sao_Paulo')
             .diffNow().milliseconds;
         const fimDelay = luxon_1.DateTime.fromJSDate(evento.fim)
-            .setZone('America/Cuiaba')
+            .setZone('America/America/Sao_Paulo')
             .diffNow().milliseconds;
         await this.queue.add('inicio', evento, {
             delay: inicioDelay,

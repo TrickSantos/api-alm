@@ -78,7 +78,7 @@ let EventoService = EventoService_1 = class EventoService {
             });
             this.eventEmitter.emit('evento:update');
             this.logger.log(`Evento com id: ${id} foi marcado como ativo`);
-        }, () => this.logger.log(`Evento com id: ${id} foi marcado como ativo`), true, 'America/Cuiaba');
+        }, () => this.logger.log(`Evento com id: ${id} foi marcado como ativo`), true, 'America/America/Sao_Paulo');
         this.schedulerRegistry.addCronJob(name, job);
         job.start();
         this.logger.log(`Evento inicio adicionado para ${cronTime}`);
@@ -95,7 +95,7 @@ let EventoService = EventoService_1 = class EventoService {
             });
             this.eventEmitter.emit('evento:update');
             this.logger.log(`Evento com id: ${id} foi marcado como inativo`);
-        }, () => this.logger.log(`Evento com id: ${id} foi marcado como inativo`), true, 'America/Cuiaba');
+        }, () => this.logger.log(`Evento com id: ${id} foi marcado como inativo`), true, 'America/America/Sao_Paulo');
         this.schedulerRegistry.addCronJob(name, job);
         job.start();
         this.logger.log(`Evento fim adicionado para ${cronTime}`);
