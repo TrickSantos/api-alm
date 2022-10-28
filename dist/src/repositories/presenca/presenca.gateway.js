@@ -25,8 +25,11 @@ let PresencaGateway = class PresencaGateway {
         this.presencaService = presencaService;
     }
     async create(createPresencaDto) {
-        await this.presencaService.create(createPresencaDto);
+        const res = await this.presencaService.create(createPresencaDto);
         this.server.emit('presenca:created');
+        if (res) {
+            this.server.emit('ganhador', res);
+        }
         return { status: 'sucess', message: ['Presenca salva com sucesso!'] };
     }
     findAll() {

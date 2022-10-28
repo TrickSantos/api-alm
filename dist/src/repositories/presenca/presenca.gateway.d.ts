@@ -16,13 +16,10 @@ export declare class PresencaGateway {
         usuario: import(".prisma/client").usuario;
     })[]>;
     getPresences(id: number): Promise<{
+        id: number;
         logo: string;
         nome: string;
-        id: number;
-        _count: {
-            membros: number;
-            presentes: number;
-        };
+        porcentagem: number;
     }[]>;
     findOne(id: number): Promise<import(".prisma/client").presenca & {
         clube: import(".prisma/client").clube;

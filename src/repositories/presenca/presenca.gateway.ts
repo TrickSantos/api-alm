@@ -31,8 +31,11 @@ export class PresencaGateway {
 
   @SubscribeMessage('presenca:create')
   async create(@MessageBody() createPresencaDto: CreatePresencaDto) {
-    await this.presencaService.create(createPresencaDto);
+    const res = await this.presencaService.create(createPresencaDto);
     this.server.emit('presenca:created');
+    if (res) {
+      this.server.emit('ganhador', res);
+    }
     return { status: 'sucess', message: ['Presenca salva com sucesso!'] };
   }
 
