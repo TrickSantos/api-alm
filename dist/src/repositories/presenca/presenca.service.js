@@ -128,7 +128,7 @@ let PresencaService = class PresencaService {
                 porcentagem,
             };
         });
-        return res.sort((a, b) => b.porcentagem - a.porcentagem).slice(0, 10);
+        return res.sort((a, b) => b.porcentagem - a.porcentagem);
     }
     async findOne(id) {
         return await this.prisma.presenca.findUniqueOrThrow({

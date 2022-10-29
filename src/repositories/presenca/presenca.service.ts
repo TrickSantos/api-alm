@@ -129,7 +129,7 @@ export class PresencaService {
       };
     });
 
-    return res.sort((a, b) => b.porcentagem - a.porcentagem).slice(0, 10);
+    return res.sort((a, b) => b.porcentagem - a.porcentagem);
   }
 
   async findOne(id: number) {
