@@ -26,53 +26,6 @@ export class PresencaService {
         usuarioId: presenca.usuarioId,
       },
     });
-
-    const clube = await this.prisma.clube.findFirst({
-      select: {
-        nome: true,
-        logo: true,
-        id: true,
-        _count: {
-          select: {
-            presentes: {
-              where: {
-                eventoId: presenca.eventoId,
-                usuario: {
-                  funcao: {
-                    in: ['desbravador', 'diretoria'],
-                  },
-                },
-              },
-            },
-            membros: {
-              where: {
-                funcao: {
-                  in: ['desbravador', 'diretoria'],
-                },
-              },
-            },
-          },
-        },
-      },
-      where: {
-        id: presenca.clubeId,
-      },
-      orderBy: {
-        presentes: {
-          _count: 'desc',
-        },
-      },
-    });
-
-    const porcentagem = Math.floor(
-      (clube._count.presentes / clube._count.membros) * 100,
-    );
-
-    if (porcentagem === 100) {
-      return clube;
-    } else {
-      return;
-    }
   }
 
   async findAll() {
@@ -143,5 +96,50 @@ export class PresencaService {
     await this.prisma.presenca.delete({
       where: { id },
     });
+  }
+
+  async verificaPorcentagem(presenca: CreatePresencaDto) {
+    const clube = await this.prisma.clube.findFirst({
+      select: {
+        nome: true,
+        logo: true,
+        id: true,
+        _count: {
+          select: {
+            presentes: {
+              where: {
+                eventoId: presenca.eventoId,
+                usuario: {
+                  funcao: {
+                    in: ['desbravador', 'diretoria'],
+                  },
+                },
+              },
+            },
+            membros: {
+              where: {
+                funcao: {
+                  in: ['desbravador', 'diretoria'],
+                },
+              },
+            },
+          },
+        },
+      },
+      where: {
+        id: presenca.clubeId,
+      },
+      orderBy: {
+        presentes: {
+          _count: 'desc',
+        },
+      },
+    });
+
+    const porcentagem = Math.floor(
+      (clube._count.presentes / clube._count.membros) * 100,
+    );
+
+    return { ...clube, porcentagem };
   }
 }
