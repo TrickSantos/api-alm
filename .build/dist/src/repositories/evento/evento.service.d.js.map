@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/repositories/evento/evento.service.d.ts"],
+  "sourcesContent": ["import { PrismaService } from '@prisma/prisma.service';\nimport { CreateEventoDto } from './dto/create-evento.dto';\nimport { UpdateEventoDto } from './dto/update-evento.dto';\nimport { DateTime } from 'luxon';\nimport { SchedulerRegistry } from '@nestjs/schedule';\nimport { EventEmitter2 } from '@nestjs/event-emitter';\nimport { EventoProducerService } from './jobs/evento.producer';\nexport declare class EventoService {\n    private prisma;\n    private eventEmitter;\n    private schedulerRegistry;\n    private eventoQueue;\n    constructor(prisma: PrismaService, eventEmitter: EventEmitter2, schedulerRegistry: SchedulerRegistry, eventoQueue: EventoProducerService);\n    private readonly logger;\n    create(evento: CreateEventoDto): Promise<void>;\n    findAll(): Promise<(import(\".prisma/client\").evento & {\n        presentes: import(\".prisma/client\").presenca[];\n    })[]>;\n    findOne(id: number): Promise<import(\".prisma/client\").evento & {\n        presentes: import(\".prisma/client\").presenca[];\n    }>;\n    update(id: number, evento: UpdateEventoDto): Promise<import(\".prisma/client\").evento>;\n    remove(id: number): Promise<void>;\n    addInicioEventoCronJob(name: string, cronTime: string | Date | DateTime, id: number): void;\n    addFimEventoCronJob(name: string, cronTime: string | Date | DateTime, id: number): void;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../dist/src/auth/auth.service.d.ts"],
+  "sourcesContent": ["import { JwtService } from '@nestjs/jwt';\nimport { UsuarioService } from 'repositories/usuario/usuario.service';\nexport declare class AuthService {\n    private usuarioService;\n    private jwtService;\n    constructor(usuarioService: UsuarioService, jwtService: JwtService);\n    validate(email: string, pass: string): Promise<import(\".prisma/client\").usuario & {\n        presencas: import(\".prisma/client\").presenca[];\n        clube: import(\".prisma/client\").clube;\n    }>;\n    login(email: string): Promise<{\n        token: string;\n        usuario: Omit<import(\".prisma/client\").usuario & {\n            presencas: import(\".prisma/client\").presenca[];\n            clube: import(\".prisma/client\").clube;\n        }, \"password\">;\n    }>;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

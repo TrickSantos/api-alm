@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../dist/src/repositories/presenca/dto/presenca.dto.d.ts"],
+  "sourcesContent": ["export declare type Presencas = {\n    id: number;\n    logo?: string;\n    nome: string;\n    _count: {\n        presentes: number;\n        membros: number;\n    };\n};\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

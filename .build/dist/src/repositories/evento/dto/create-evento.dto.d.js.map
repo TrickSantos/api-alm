@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../dist/src/repositories/evento/dto/create-evento.dto.d.ts"],
+  "sourcesContent": ["export declare class CreateEventoDto {\n    nome: string;\n    descricao: string;\n    pontos: number;\n    inicio: Date;\n    fim: Date;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

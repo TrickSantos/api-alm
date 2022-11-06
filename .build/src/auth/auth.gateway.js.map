@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../src/auth/auth.gateway.ts"],
+  "sourcesContent": ["import {\n  MessageBody,\n  SubscribeMessage,\n  WebSocketGateway,\n} from '@nestjs/websockets';\nimport { AuthService } from './auth.service';\nimport { LoginDTO } from './dto/login.dto';\n\n@WebSocketGateway({\n  cors: '*:*',\n})\nexport class AuthGateway {\n  constructor(private readonly authService: AuthService) {}\n\n  @SubscribeMessage('login')\n  async login(@MessageBody() login: LoginDTO) {\n    const res = await this.authService.login(login.email);\n    return res;\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,wBAIO;AAOA,wBAAkB;AAAA,EACvB,YAA6B,aAA0B;AAA1B;AAAA;AAAA,QAGvB,MAAqB,OAAiB;AAC1C,UAAM,MAAM,MAAM,KAAK,YAAY,MAAM,MAAM;AAC/C,WAAO;AAAA;AAAA;AAFH;AAAA,EADL,wCAAiB;AAAA,EACL;AAAA,GAAP,AAJD,YAIC;AAJD;AAAA,EAHN,wCAAiB;AAAA,IAChB,MAAM;AAAA;AAAA,GAED;",
+  "names": []
+}

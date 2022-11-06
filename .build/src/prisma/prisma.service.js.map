@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../src/prisma/prisma.service.ts"],
+  "sourcesContent": ["import { INestApplication, Injectable, OnModuleInit } from '@nestjs/common';\nimport { PrismaClient } from '@prisma/client';\n\n@Injectable()\nexport class PrismaService extends PrismaClient implements OnModuleInit {\n  async onModuleInit() {\n    await this.$connect();\n  }\n\n  async enableShutdownHooks(app: INestApplication) {\n    this.$on('beforeExit', async () => {\n      await app.close();\n    });\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,oBAA2D;AAC3D,oBAA6B;AAGtB,kCAA4B,2BAAqC;AAAA,QAChE,eAAe;AACnB,UAAM,KAAK;AAAA;AAAA,QAGP,oBAAoB,KAAuB;AAC/C,SAAK,IAAI,cAAc,YAAY;AACjC,YAAM,IAAI;AAAA;AAAA;AAAA;AAPT;AAAA,EADN;AAAA,GACM;",
+  "names": []
+}

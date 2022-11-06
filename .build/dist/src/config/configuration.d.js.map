@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../dist/src/config/configuration.d.ts"],
+  "sourcesContent": ["declare const _default: () => {\n    jwtConstants: {\n        secret: string;\n    };\n};\nexport default _default;\n"],
+  "mappings": ";;;;;;;AAAA;AAAA;AAAA;AAKA,IAAO,0BAAQ;",
+  "names": []
+}

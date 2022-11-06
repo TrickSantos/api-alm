@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/repositories/evento/dto/create-evento.dto.ts"],
+  "sourcesContent": ["import { IsNotEmpty, IsDateString, IsInt, Min } from 'class-validator';\n\nexport class CreateEventoDto {\n  @IsNotEmpty({ message: 'O nome do evento precisa ser informado!' })\n  nome: string;\n\n  descricao: string;\n\n  @IsNotEmpty({ message: 'A pontua\u00E7\u00E3o do evento precisa ser informada!' })\n  @IsInt()\n  @Min(0, { message: 'A pontua\u00E7\u00E3o precisa ser maior que 0 (zero)' })\n  pontos: number;\n\n  @IsDateString({}, { message: 'A data inicial precisa ser informada' })\n  inicio: Date;\n\n  @IsDateString({}, { message: 'A data final precisa ser informada' })\n  fim: Date;\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,6BAAqD;AAE9C,sBAAsB;AAAA;AAE3B;AAAA,EADC,uCAAW,EAAE,SAAS;AAAA,GACvB,AAFK,gBAEL;AAOA;AAAA,EAHC,uCAAW,EAAE,SAAS;AAAA,EACtB;AAAA,EACA,gCAAI,GAAG,EAAE,SAAS;AAAA,GACnB,AATK,gBASL;AAGA;AAAA,EADC,yCAAa,IAAI,EAAE,SAAS;AAAA,GAC7B,AAZK,gBAYL;AAGA;AAAA,EADC,yCAAa,IAAI,EAAE,SAAS;AAAA,GAC7B,AAfK,gBAeL;",
+  "names": []
+}

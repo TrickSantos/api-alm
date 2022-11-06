@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/auth/guards/ws.guard.o.d.ts"],
+  "sourcesContent": ["import { ExecutionContext } from '@nestjs/common';\ndeclare const WsAuthGuard_base: import(\"@nestjs/passport\").Type<import(\"@nestjs/passport\").IAuthGuard>;\nexport declare class WsAuthGuard extends WsAuthGuard_base {\n    constructor();\n    getRequest(context: ExecutionContext): any;\n}\nexport {};\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

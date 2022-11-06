@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../dist/src/repositories/clube/dto/create-clube.dto.d.ts"],
+  "sourcesContent": ["export declare class CreateClubeDto {\n    nome: string;\n    logo?: string;\n    pais: string;\n    regiao: string;\n    codigo: string;\n    ativo?: boolean;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

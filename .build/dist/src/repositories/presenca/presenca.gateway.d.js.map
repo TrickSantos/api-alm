@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/repositories/presenca/presenca.gateway.d.ts"],
+  "sourcesContent": ["import { Server } from 'socket.io';\nimport { PresencaService } from './presenca.service';\nimport { CreatePresencaDto } from './dto/create-presenca.dto';\nimport { Presencas } from './dto/presenca.dto';\nexport declare class PresencaGateway {\n    private readonly presencaService;\n    constructor(presencaService: PresencaService);\n    server: Server;\n    create(createPresencaDto: CreatePresencaDto): Promise<{\n        status: string;\n        message: string[];\n    }>;\n    findAll(): Promise<(import(\".prisma/client\").presenca & {\n        clube: import(\".prisma/client\").clube;\n        evento: import(\".prisma/client\").evento;\n        usuario: import(\".prisma/client\").usuario;\n    })[]>;\n    getPresences(id: number): Promise<{\n        id: number;\n        logo: string;\n        nome: string;\n        porcentagem: number;\n    }[]>;\n    findOne(id: number): Promise<import(\".prisma/client\").presenca & {\n        clube: import(\".prisma/client\").clube;\n        evento: import(\".prisma/client\").evento;\n        usuario: import(\".prisma/client\").usuario;\n    }>;\n    remove(id: number): Promise<void>;\n    ganhador(presenca: Presencas): void;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

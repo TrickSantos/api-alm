@@ -11,6 +11,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.PresencaService = void 0;
 const common_1 = require("@nestjs/common");
+const client_1 = require("@prisma/client");
 const prisma_service_1 = require("../../prisma/prisma.service");
 let PresencaService = class PresencaService {
     constructor(prisma) {
@@ -70,11 +71,6 @@ let PresencaService = class PresencaService {
                     },
                 },
             },
-            orderBy: {
-                presentes: {
-                    _count: 'desc',
-                },
-            },
         });
         const res = clubes.map((clube) => {
             const porcentagem = Math.floor((clube._count.presentes / clube._count.membros) * 100);
@@ -85,7 +81,25 @@ let PresencaService = class PresencaService {
                 porcentagem,
             };
         });
-        return res.sort((a, b) => b.porcentagem - a.porcentagem);
+        const primeiros = res.map(async (clube) => {
+            const ultimo = await this.prisma.$queryRaw(client_1.Prisma.sql `select
+	c.id, p."usuarioId" , p."createdAt" 
+from
+	presenca as p
+inner join usuario as u on
+	p."usuarioId" = u.id
+inner join clube as c on
+	p."clubeId" = c.id 
+where
+	p."eventoId" = ${id} and 
+	u.funcao in ('desbravador','diretoria') and
+	c.id = ${clube.id}
+order by
+	p."createdAt" desc
+limit 1`);
+            return Object.assign(Object.assign({}, clube), { ultimo: ultimo[0].createdAt });
+        });
+        return primeiros;
     }
     async findOne(id) {
         return await this.prisma.presenca.findUniqueOrThrow({

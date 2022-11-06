@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/auth/dto/login.dto.d.ts"],
+  "sourcesContent": ["export declare class LoginDTO {\n    email: string;\n    password: string;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

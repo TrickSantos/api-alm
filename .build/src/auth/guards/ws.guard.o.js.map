@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/auth/guards/ws.guard.o.ts"],
+  "sourcesContent": ["import { ExecutionContext } from '@nestjs/common';\nimport { AuthGuard } from '@nestjs/passport';\n\nexport class WsAuthGuard extends AuthGuard('wsjwt') {\n  constructor() {\n    super();\n  }\n\n  getRequest(context: ExecutionContext) {\n    return context.switchToWs().getClient().handshake;\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AACA,sBAA0B;AAEnB,0BAA0B,+BAAU,SAAS;AAAA,EAClD,cAAc;AACZ;AAAA;AAAA,EAGF,WAAW,SAA2B;AACpC,WAAO,QAAQ,aAAa,YAAY;AAAA;AAAA;",
+  "names": []
+}

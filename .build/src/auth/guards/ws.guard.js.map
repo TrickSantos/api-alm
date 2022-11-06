@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/auth/guards/ws.guard.ts"],
+  "sourcesContent": ["import { CanActivate, ExecutionContext } from '@nestjs/common';\nimport { WsException } from '@nestjs/websockets';\nimport configuration from 'config/configuration';\nimport * as jwt from 'jsonwebtoken';\n\nexport class WsAuthGuard implements CanActivate {\n  async canActivate(context: ExecutionContext) {\n    try {\n      const client = context.switchToWs().getClient().handshake;\n\n      const payload = this.verifyToken(client.auth.token);\n\n      return Boolean(payload);\n    } catch (error) {\n      throw new WsException(error.message);\n    }\n  }\n\n  verifyToken(token: string) {\n    try {\n      return jwt.verify(token, configuration().jwtConstants.secret);\n    } catch (error) {\n      console.log(error);\n      return false;\n    }\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AACA,wBAA4B;AAC5B,2BAA0B;AAC1B,UAAqB;AAEd,kBAAyC;AAAA,QACxC,YAAY,SAA2B;AAC3C,QAAI;AACF,YAAM,SAAS,QAAQ,aAAa,YAAY;AAEhD,YAAM,UAAU,KAAK,YAAY,OAAO,KAAK;AAE7C,aAAO,QAAQ;AAAA,aACR,OAAP;AACA,YAAM,IAAI,8BAAY,MAAM;AAAA;AAAA;AAAA,EAIhC,YAAY,OAAe;AACzB,QAAI;AACF,aAAO,IAAI,OAAO,OAAO,oCAAgB,aAAa;AAAA,aAC/C,OAAP;AACA,cAAQ,IAAI;AACZ,aAAO;AAAA;AAAA;AAAA;",
+  "names": []
+}

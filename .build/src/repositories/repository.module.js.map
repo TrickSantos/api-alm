@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../src/repositories/repository.module.ts"],
+  "sourcesContent": ["import { Module } from '@nestjs/common';\nimport { ClubeModule } from './clube/clube.module';\nimport { EventoModule } from './evento/evento.module';\nimport { PresencaModule } from './presenca/presenca.module';\nimport { UsuarioModule } from './usuario/usuario.module';\n\n@Module({\n  imports: [ClubeModule, UsuarioModule, EventoModule, PresencaModule],\n  exports: [ClubeModule, UsuarioModule, EventoModule, PresencaModule],\n})\nexport class RepositoryModule {}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,oBAAuB;AACvB,mBAA4B;AAC5B,oBAA6B;AAC7B,sBAA+B;AAC/B,qBAA8B;AAMvB,6BAAuB;AAAA;AAAvB;AAAA,EAJN,0BAAO;AAAA,IACN,SAAS,CAAC,0BAAa,8BAAe,4BAAc;AAAA,IACpD,SAAS,CAAC,0BAAa,8BAAe,4BAAc;AAAA;AAAA,GAE/C;",
+  "names": []
+}

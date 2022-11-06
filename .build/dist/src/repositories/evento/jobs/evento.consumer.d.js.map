@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../dist/src/repositories/evento/jobs/evento.consumer.d.ts"],
+  "sourcesContent": ["import { EventEmitter2 } from '@nestjs/event-emitter';\nimport { evento } from '@prisma/client';\nimport { PrismaService } from '@prisma/prisma.service';\nimport { Job } from 'bull';\nexport declare class EventoConsumer {\n    private prisma;\n    private eventEmitter;\n    constructor(prisma: PrismaService, eventEmitter: EventEmitter2);\n    private readonly logger;\n    inicio(job: Job<evento>): Promise<void>;\n    fim(job: Job<evento>): Promise<void>;\n    onActive(job: Job<evento>): void;\n    onComplete(job: Job<evento>): void;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

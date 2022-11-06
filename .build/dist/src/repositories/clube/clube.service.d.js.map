@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/repositories/clube/clube.service.d.ts"],
+  "sourcesContent": ["import { PrismaService } from '@prisma/prisma.service';\nimport { CreateClubeDto } from './dto/create-clube.dto';\nimport { UpdateClubeDto } from './dto/update-clube.dto';\nexport declare class ClubeService {\n    private prisma;\n    constructor(prisma: PrismaService);\n    create(clube: CreateClubeDto): Promise<void>;\n    findAll(): Promise<(import(\".prisma/client\").clube & {\n        membros: import(\".prisma/client\").usuario[];\n    })[]>;\n    findOne(id: number): Promise<import(\".prisma/client\").clube & {\n        membros: import(\".prisma/client\").usuario[];\n    }>;\n    update(id: number, clube: UpdateClubeDto): Promise<import(\".prisma/client\").clube & {\n        membros: import(\".prisma/client\").usuario[];\n    }>;\n    remove(id: number): Promise<void>;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

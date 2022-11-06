@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../dist/src/repositories/usuario/dto/create-usuario.dto.d.ts"],
+  "sourcesContent": ["export declare class CreateUsuarioDto {\n    nome: string;\n    email?: string;\n    password?: string;\n    codigo?: string;\n    funcao: string;\n    clubeId: number;\n    ativo?: boolean;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

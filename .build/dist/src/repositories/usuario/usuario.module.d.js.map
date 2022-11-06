@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/repositories/usuario/usuario.module.d.ts"],
+  "sourcesContent": ["export declare class UsuarioModule {\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

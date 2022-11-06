@@ -1,10 +1,11 @@
 import { Injectable } from '@nestjs/common';
+import { Prisma } from '@prisma/client';
 import { PrismaService } from '@prisma/prisma.service';
 import { CreatePresencaDto } from './dto/create-presenca.dto';
 
 @Injectable()
 export class PresencaService {
-  constructor(private prisma: PrismaService) {}
+  constructor(private prisma: PrismaService) { }
 
   async create(presenca: CreatePresencaDto) {
     await this.prisma.presenca.upsert({
@@ -35,6 +36,7 @@ export class PresencaService {
   }
 
   async getPresencasByEventId(id: number) {
+
     const clubes = await this.prisma.clube.findMany({
       select: {
         nome: true,
@@ -62,11 +64,6 @@ export class PresencaService {
           },
         },
       },
-      orderBy: {
-        presentes: {
-          _count: 'desc',
-        },
-      },
     });
 
     const res = clubes.map((clube) => {
@@ -82,7 +79,30 @@ export class PresencaService {
       };
     });
 
-    return res.sort((a, b) => b.porcentagem - a.porcentagem);
+    const primeiros = res.map(async clube => {
+      const ultimo = await this.prisma.$queryRaw(
+        Prisma.sql`select
+	c.id, p."usuarioId" , p."createdAt" 
+from
+	presenca as p
+inner join usuario as u on
+	p."usuarioId" = u.id
+inner join clube as c on
+	p."clubeId" = c.id 
+where
+	p."eventoId" = ${id} and 
+	u.funcao in ('desbravador','diretoria') and
+	c.id = ${clube.id}
+order by
+	p."createdAt" desc
+limit 1`
+      );
+      return { ...clube, ultimo: ultimo[0].createdAt }
+    });
+
+    return primeiros;
+
+    //return res.sort((a, b) => b.porcentagem - a.porcentagem);
   }
 
   async findOne(id: number) {

@@ -1,0 +1,46 @@
+"use strict";
+var __decorate = exports && exports.__decorate || function(decorators, target, key, desc) {
+  var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+  if (typeof Reflect === "object" && typeof Reflect.decorate === "function")
+    r = Reflect.decorate(decorators, target, key, desc);
+  else
+    for (var i = decorators.length - 1; i >= 0; i--)
+      if (d = decorators[i])
+        r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+  return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = exports && exports.__metadata || function(k, v) {
+  if (typeof Reflect === "object" && typeof Reflect.metadata === "function")
+    return Reflect.metadata(k, v);
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.CreateClubeDto = void 0;
+const class_validator_1 = require("class-validator");
+class CreateClubeDto {
+}
+__decorate([
+  (0, class_validator_1.IsNotEmpty)({ message: "O nome do evento precisa ser informado!" }),
+  __metadata("design:type", String)
+], CreateClubeDto.prototype, "nome", void 0);
+__decorate([
+  (0, class_validator_1.IsOptional)(),
+  __metadata("design:type", String)
+], CreateClubeDto.prototype, "logo", void 0);
+__decorate([
+  (0, class_validator_1.IsNotEmpty)({ message: "O pa\xEDs precisa ser informado!" }),
+  __metadata("design:type", String)
+], CreateClubeDto.prototype, "pais", void 0);
+__decorate([
+  (0, class_validator_1.IsString)(),
+  __metadata("design:type", String)
+], CreateClubeDto.prototype, "regiao", void 0);
+__decorate([
+  (0, class_validator_1.IsNotEmpty)({ message: "O c\xF3digo precisa ser informado!" }),
+  __metadata("design:type", String)
+], CreateClubeDto.prototype, "codigo", void 0);
+__decorate([
+  (0, class_validator_1.IsOptional)(),
+  __metadata("design:type", Boolean)
+], CreateClubeDto.prototype, "ativo", void 0);
+exports.CreateClubeDto = CreateClubeDto;
+//# sourceMappingURL=create-clube.dto.js.map

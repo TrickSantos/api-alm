@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/auth/strategy/jwt.strategy.d.ts"],
+  "sourcesContent": ["import { Strategy } from 'passport-jwt';\nimport { ConfigService } from '@nestjs/config';\ndeclare const JwtStrategy_base: new (...args: any[]) => Strategy;\nexport declare class JwtStrategy extends JwtStrategy_base {\n    private configService;\n    constructor(configService: ConfigService);\n    validate(payload: any): Promise<{\n        userId: any;\n        email: any;\n    }>;\n}\nexport {};\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/main.ts"],
+  "sourcesContent": ["import { ValidationPipe } from '@nestjs/common';\nimport { ConfigService } from '@nestjs/config';\nimport { NestFactory } from '@nestjs/core';\nimport { WsExceptionFilter } from 'ws.filter';\nimport { AppModule } from './app.module';\n\nasync function bootstrap() {\n  const app = await NestFactory.create(AppModule);\n  const config = app.get(ConfigService);\n\n  app.useGlobalPipes(new ValidationPipe());\n  app.useGlobalFilters(new WsExceptionFilter());\n  await app\n    .listen(config.get('PORT'))\n    .then(() => console.log(`Running on port: ${config.get('PORT')}`));\n}\nbootstrap();\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA,oBAA+B;AAC/B,oBAA8B;AAC9B,kBAA4B;AAC5B,gBAAkC;AAClC,iBAA0B;AAE1B,2BAA2B;AACzB,QAAM,MAAM,MAAM,wBAAY,OAAO;AACrC,QAAM,SAAS,IAAI,IAAI;AAEvB,MAAI,eAAe,IAAI;AACvB,MAAI,iBAAiB,IAAI;AACzB,QAAM,IACH,OAAO,OAAO,IAAI,SAClB,KAAK,MAAM,QAAQ,IAAI,oBAAoB,OAAO,IAAI;AAAA;AAE3D;",
+  "names": []
+}

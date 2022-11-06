@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/repositories/clube/clube.gateway.d.ts"],
+  "sourcesContent": ["import { Server } from 'socket.io';\nimport { ClubeService } from './clube.service';\nimport { CreateClubeDto } from './dto/create-clube.dto';\nimport { UpdateClubeDto } from './dto/update-clube.dto';\nexport declare class ClubeGateway {\n    private readonly clubeService;\n    constructor(clubeService: ClubeService);\n    server: Server;\n    create(createClubeDto: CreateClubeDto): Promise<{\n        status: string;\n        message: string[];\n    }>;\n    findAll(): Promise<(import(\".prisma/client\").clube & {\n        membros: import(\".prisma/client\").usuario[];\n    })[]>;\n    findOne(id: number): Promise<import(\".prisma/client\").clube & {\n        membros: import(\".prisma/client\").usuario[];\n    }>;\n    update(updateClubeDto: UpdateClubeDto): Promise<{\n        status: string;\n        message: string[];\n    }>;\n    remove(id: number): Promise<void>;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

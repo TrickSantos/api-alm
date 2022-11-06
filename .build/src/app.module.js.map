@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/app.module.ts"],
+  "sourcesContent": ["import { BullModule } from '@nestjs/bull';\nimport { Module } from '@nestjs/common';\nimport { ConfigModule, ConfigService } from '@nestjs/config';\nimport { RepositoryModule } from 'repositories/repository.module';\nimport { AuthModule } from './auth/auth.module';\n\n@Module({\n  imports: [\n    ConfigModule.forRoot({\n      isGlobal: true,\n      envFilePath: ['.env'],\n    }),\n    BullModule.forRootAsync({\n      imports: [ConfigModule],\n      inject: [ConfigService],\n      useFactory: (config: ConfigService) => ({\n        redis: {\n          host: config.get('BULL_HOST'),\n          port: config.get('BULL_PORT'),\n          password: config.get('BULL_PASSWORD'),\n        },\n      }),\n    }),\n    BullModule.registerQueue({\n      name: 'evento',\n    }),\n    RepositoryModule,\n    AuthModule,\n  ],\n})\nexport class AppModule {}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,kBAA2B;AAC3B,oBAAuB;AACvB,oBAA4C;AAC5C,wBAAiC;AACjC,kBAA2B;AA0BpB,sBAAgB;AAAA;AAAhB;AAAA,EAxBN,0BAAO;AAAA,IACN,SAAS;AAAA,MACP,2BAAa,QAAQ;AAAA,QACnB,UAAU;AAAA,QACV,aAAa,CAAC;AAAA;AAAA,MAEhB,uBAAW,aAAa;AAAA,QACtB,SAAS,CAAC;AAAA,QACV,QAAQ,CAAC;AAAA,QACT,YAAY,CAAC,WAA2B;AAAA,UACtC,OAAO;AAAA,YACL,MAAM,OAAO,IAAI;AAAA,YACjB,MAAM,OAAO,IAAI;AAAA,YACjB,UAAU,OAAO,IAAI;AAAA;AAAA;AAAA;AAAA,MAI3B,uBAAW,cAAc;AAAA,QACvB,MAAM;AAAA;AAAA,MAER;AAAA,MACA;AAAA;AAAA;AAAA,GAGG;",
+  "names": []
+}

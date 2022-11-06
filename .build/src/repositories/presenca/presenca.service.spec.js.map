@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/repositories/presenca/presenca.service.spec.ts"],
+  "sourcesContent": ["import { Test, TestingModule } from '@nestjs/testing';\nimport { PresencaService } from './presenca.service';\n\ndescribe('PresencaService', () => {\n  let service: PresencaService;\n\n  beforeEach(async () => {\n    const module: TestingModule = await Test.createTestingModule({\n      providers: [PresencaService],\n    }).compile();\n\n    service = module.get<PresencaService>(PresencaService);\n  });\n\n  it('should be defined', () => {\n    expect(service).toBeDefined();\n  });\n});\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA,qBAAoC;AACpC,sBAAgC;AAEhC,SAAS,mBAAmB,MAAM;AAChC,MAAI;AAEJ,aAAW,YAAY;AACrB,UAAM,UAAwB,MAAM,oBAAK,oBAAoB;AAAA,MAC3D,WAAW,CAAC;AAAA,OACX;AAEH,cAAU,QAAO,IAAqB;AAAA;AAGxC,KAAG,qBAAqB,MAAM;AAC5B,WAAO,SAAS;AAAA;AAAA;",
+  "names": []
+}

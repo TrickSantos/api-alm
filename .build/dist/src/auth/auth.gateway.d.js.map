@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../dist/src/auth/auth.gateway.d.ts"],
+  "sourcesContent": ["import { AuthService } from './auth.service';\nimport { LoginDTO } from './dto/login.dto';\nexport declare class AuthGateway {\n    private readonly authService;\n    constructor(authService: AuthService);\n    login(login: LoginDTO): Promise<{\n        token: string;\n        usuario: Omit<import(\".prisma/client\").usuario & {\n            presencas: import(\".prisma/client\").presenca[];\n            clube: import(\".prisma/client\").clube;\n        }, \"password\">;\n    }>;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/auth/guards/local.guard.ts"],
+  "sourcesContent": ["import { Injectable } from '@nestjs/common';\nimport { AuthGuard } from '@nestjs/passport';\n\n@Injectable()\nexport class LocalAuthGuard extends AuthGuard('local') {}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,oBAA2B;AAC3B,sBAA0B;AAGnB,mCAA6B,+BAAU,SAAS;AAAA;AAAhD;AAAA,EADN;AAAA,GACM;",
+  "names": []
+}

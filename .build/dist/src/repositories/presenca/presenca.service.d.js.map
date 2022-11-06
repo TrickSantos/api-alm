@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/repositories/presenca/presenca.service.d.ts"],
+  "sourcesContent": ["import { PrismaService } from '@prisma/prisma.service';\nimport { CreatePresencaDto } from './dto/create-presenca.dto';\nexport declare class PresencaService {\n    private prisma;\n    constructor(prisma: PrismaService);\n    create(presenca: CreatePresencaDto): Promise<void>;\n    findAll(): Promise<(import(\".prisma/client\").presenca & {\n        clube: import(\".prisma/client\").clube;\n        evento: import(\".prisma/client\").evento;\n        usuario: import(\".prisma/client\").usuario;\n    })[]>;\n    getPresencasByEventId(id: number): Promise<{\n        id: number;\n        logo: string;\n        nome: string;\n        porcentagem: number;\n    }[]>;\n    findOne(id: number): Promise<import(\".prisma/client\").presenca & {\n        clube: import(\".prisma/client\").clube;\n        evento: import(\".prisma/client\").evento;\n        usuario: import(\".prisma/client\").usuario;\n    }>;\n    remove(id: number): Promise<void>;\n    verificaPorcentagem(presenca: CreatePresencaDto): Promise<{\n        porcentagem: number;\n        logo: string;\n        nome: string;\n        id: number;\n        _count: {\n            membros: number;\n            presentes: number;\n        };\n    }>;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/repositories/evento/evento.gateway.spec.ts"],
+  "sourcesContent": ["import { Test, TestingModule } from '@nestjs/testing';\nimport { EventoGateway } from './evento.gateway';\nimport { EventoService } from './evento.service';\n\ndescribe('EventoGateway', () => {\n  let gateway: EventoGateway;\n\n  beforeEach(async () => {\n    const module: TestingModule = await Test.createTestingModule({\n      providers: [EventoGateway, EventoService],\n    }).compile();\n\n    gateway = module.get<EventoGateway>(EventoGateway);\n  });\n\n  it('should be defined', () => {\n    expect(gateway).toBeDefined();\n  });\n});\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA,qBAAoC;AACpC,oBAA8B;AAC9B,qBAA8B;AAE9B,SAAS,iBAAiB,MAAM;AAC9B,MAAI;AAEJ,aAAW,YAAY;AACrB,UAAM,UAAwB,MAAM,oBAAK,oBAAoB;AAAA,MAC3D,WAAW,CAAC,6BAAe;AAAA,OAC1B;AAEH,cAAU,QAAO,IAAmB;AAAA;AAGtC,KAAG,qBAAqB,MAAM;AAC5B,WAAO,SAAS;AAAA;AAAA;",
+  "names": []
+}

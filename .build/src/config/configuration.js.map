@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../src/config/configuration.ts"],
+  "sourcesContent": ["export default () => ({\n  jwtConstants: {\n    secret: process.env.JWT_SECRET,\n  },\n});\n"],
+  "mappings": ";;;;;;;AAAA;AAAA;AAAA;AAAA,IAAO,wBAAQ,MAAO;AAAA,EACpB,cAAc;AAAA,IACZ,QAAQ,QAAQ,IAAI;AAAA;AAAA;",
+  "names": []
+}

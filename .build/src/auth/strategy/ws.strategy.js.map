@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/auth/strategy/ws.strategy.ts"],
+  "sourcesContent": ["import { PassportStrategy } from '@nestjs/passport';\nimport { WsException } from '@nestjs/websockets';\nimport configuration from 'config/configuration';\nimport { ExtractJwt, Strategy } from 'passport-jwt';\nimport { UsuarioService } from 'repositories/usuario/usuario.service';\n\nexport class WsJwtStrategy extends PassportStrategy(Strategy, 'wsjwt') {\n  constructor(private readonly userService: UsuarioService) {\n    super({\n      jwtFromRequest: ExtractJwt.fromUrlQueryParameter('bearerToken'),\n      secretOrKey: configuration().jwtConstants.secret,\n    });\n  }\n  async validate(payload: any) {\n    console.log('validate');\n    try {\n      return this.userService.findOne(payload.email);\n    } catch (error) {\n      throw new WsException('N\u00E3o encontrado');\n    }\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,sBAAiC;AACjC,wBAA4B;AAC5B,2BAA0B;AAC1B,0BAAqC;AAG9B,4BAA4B,sCAAiB,8BAAU,SAAS;AAAA,EACrE,YAA6B,aAA6B;AACxD,UAAM;AAAA,MACJ,gBAAgB,+BAAW,sBAAsB;AAAA,MACjD,aAAa,oCAAgB,aAAa;AAAA;AAHjB;AAAA;AAAA,QAMvB,SAAS,SAAc;AAC3B,YAAQ,IAAI;AACZ,QAAI;AACF,aAAO,KAAK,YAAY,QAAQ,QAAQ;AAAA,aACjC,OAAP;AACA,YAAM,IAAI,8BAAY;AAAA;AAAA;AAAA;",
+  "names": []
+}

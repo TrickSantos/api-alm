@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/repositories/clube/clube.gateway.spec.ts"],
+  "sourcesContent": ["import { Test, TestingModule } from '@nestjs/testing';\nimport { ClubeGateway } from './clube.gateway';\nimport { ClubeService } from './clube.service';\n\ndescribe('ClubeGateway', () => {\n  let gateway: ClubeGateway;\n\n  beforeEach(async () => {\n    const module: TestingModule = await Test.createTestingModule({\n      providers: [ClubeGateway, ClubeService],\n    }).compile();\n\n    gateway = module.get<ClubeGateway>(ClubeGateway);\n  });\n\n  it('should be defined', () => {\n    expect(gateway).toBeDefined();\n  });\n});\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA,qBAAoC;AACpC,mBAA6B;AAC7B,oBAA6B;AAE7B,SAAS,gBAAgB,MAAM;AAC7B,MAAI;AAEJ,aAAW,YAAY;AACrB,UAAM,UAAwB,MAAM,oBAAK,oBAAoB;AAAA,MAC3D,WAAW,CAAC,2BAAc;AAAA,OACzB;AAEH,cAAU,QAAO,IAAkB;AAAA;AAGrC,KAAG,qBAAqB,MAAM;AAC5B,WAAO,SAAS;AAAA;AAAA;",
+  "names": []
+}

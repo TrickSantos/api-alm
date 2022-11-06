@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../dist/src/repositories/evento/jobs/evento.producer.d.ts"],
+  "sourcesContent": ["import { evento } from '@prisma/client';\nimport { Queue } from 'bull';\ndeclare class EventoProducerService {\n    private queue;\n    constructor(queue: Queue);\n    execute(evento: evento): Promise<void>;\n}\nexport { EventoProducerService };\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

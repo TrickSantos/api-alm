@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/repositories/evento/jobs/evento.producer.ts"],
+  "sourcesContent": ["import { InjectQueue } from '@nestjs/bull';\nimport { Injectable } from '@nestjs/common';\nimport { evento } from '@prisma/client';\nimport { Queue } from 'bull';\nimport { DateTime } from 'luxon';\n\n@Injectable()\nclass EventoProducerService {\n  constructor(@InjectQueue('evento') private queue: Queue) {}\n\n  async execute(evento: evento) {\n    const inicioDelay = DateTime.fromJSDate(evento.inicio)\n      .setZone('America/Sao_Paulo')\n      .diffNow().milliseconds;\n\n    const fimDelay = DateTime.fromJSDate(evento.fim)\n      .setZone('America/Sao_Paulo')\n      .diffNow().milliseconds;\n\n    await this.queue.add('inicio', evento, {\n      delay: inicioDelay,\n    });\n\n    await this.queue.add('fim', evento, {\n      delay: fimDelay,\n    });\n  }\n}\n\nexport { EventoProducerService };\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,kBAA4B;AAC5B,oBAA2B;AAG3B,mBAAyB;AAGzB,kCAA4B;AAAA,EAC1B,YAA2C,OAAc;AAAd;AAAA;AAAA,QAErC,QAAQ,SAAgB;AAC5B,UAAM,cAAc,sBAAS,WAAW,QAAO,QAC5C,QAAQ,qBACR,UAAU;AAEb,UAAM,WAAW,sBAAS,WAAW,QAAO,KACzC,QAAQ,qBACR,UAAU;AAEb,UAAM,KAAK,MAAM,IAAI,UAAU,SAAQ;AAAA,MACrC,OAAO;AAAA;AAGT,UAAM,KAAK,MAAM,IAAI,OAAO,SAAQ;AAAA,MAClC,OAAO;AAAA;AAAA;AAAA;AAjBb;AAAA,EADC;AAAA,EAEc,gDAAY;AAAA,GAD3B;",
+  "names": []
+}

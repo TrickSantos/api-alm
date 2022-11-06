@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../dist/src/prisma/prisma.service.d.ts"],
+  "sourcesContent": ["import { INestApplication, OnModuleInit } from '@nestjs/common';\nimport { PrismaClient } from '@prisma/client';\nexport declare class PrismaService extends PrismaClient implements OnModuleInit {\n    onModuleInit(): Promise<void>;\n    enableShutdownHooks(app: INestApplication): Promise<void>;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

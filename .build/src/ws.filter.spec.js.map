@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/ws.filter.spec.ts"],
+  "sourcesContent": ["import { WsFilter } from './ws.filter';\n\ndescribe('WsFilter', () => {\n  it('should be defined', () => {\n    expect(new WsFilter()).toBeDefined();\n  });\n});\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA,gBAAyB;AAEzB,SAAS,YAAY,MAAM;AACzB,KAAG,qBAAqB,MAAM;AAC5B,WAAO,IAAI,sBAAY;AAAA;AAAA;",
+  "names": []
+}

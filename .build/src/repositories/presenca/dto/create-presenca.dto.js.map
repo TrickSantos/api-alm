@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/repositories/presenca/dto/create-presenca.dto.ts"],
+  "sourcesContent": ["import { IsNotEmpty, IsInt } from 'class-validator';\n\nexport class CreatePresencaDto {\n  @IsNotEmpty({ message: 'O clube precisa ser informado!' })\n  @IsInt()\n  clubeId: number;\n\n  @IsNotEmpty({ message: 'O clube precisa ser informado!' })\n  @IsInt()\n  usuarioId: number;\n\n  @IsNotEmpty({ message: 'O clube precisa ser informado!' })\n  @IsInt()\n  eventoId: number;\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,6BAAkC;AAE3B,wBAAwB;AAAA;AAG7B;AAAA,EAFC,uCAAW,EAAE,SAAS;AAAA,EACtB;AAAA,GACD,AAHK,kBAGL;AAIA;AAAA,EAFC,uCAAW,EAAE,SAAS;AAAA,EACtB;AAAA,GACD,AAPK,kBAOL;AAIA;AAAA,EAFC,uCAAW,EAAE,SAAS;AAAA,EACtB;AAAA,GACD,AAXK,kBAWL;",
+  "names": []
+}

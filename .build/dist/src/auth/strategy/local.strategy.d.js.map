@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/auth/strategy/local.strategy.d.ts"],
+  "sourcesContent": ["import { Strategy } from 'passport-local';\nimport { AuthService } from 'auth/auth.service';\ndeclare const LocalStrategy_base: new (...args: any[]) => Strategy;\nexport declare class LocalStrategy extends LocalStrategy_base {\n    private authService;\n    constructor(authService: AuthService);\n    validate(email: string, password: string): Promise<import(\".prisma/client\").usuario & {\n        presencas: import(\".prisma/client\").presenca[];\n        clube: import(\".prisma/client\").clube;\n    }>;\n}\nexport {};\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

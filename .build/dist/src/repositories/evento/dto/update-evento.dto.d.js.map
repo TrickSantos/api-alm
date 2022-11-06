@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../dist/src/repositories/evento/dto/update-evento.dto.d.ts"],
+  "sourcesContent": ["import { CreateEventoDto } from './create-evento.dto';\ndeclare const UpdateEventoDto_base: import(\"@nestjs/mapped-types\").MappedType<Partial<CreateEventoDto>>;\nexport declare class UpdateEventoDto extends UpdateEventoDto_base {\n    id: number;\n}\nexport {};\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

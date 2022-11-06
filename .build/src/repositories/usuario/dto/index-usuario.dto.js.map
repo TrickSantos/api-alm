@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/repositories/usuario/dto/index-usuario.dto.ts"],
+  "sourcesContent": ["import { IsInt } from 'class-validator';\n\nexport class IndexUsuarioDto {\n  @IsInt()\n  clubeId?: number;\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,6BAAsB;AAEf,sBAAsB;AAAA;AAE3B;AAAA,EADC;AAAA,GACD,AAFK,gBAEL;",
+  "names": []
+}

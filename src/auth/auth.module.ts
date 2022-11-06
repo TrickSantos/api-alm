@@ -17,7 +17,7 @@ import { WsJwtStrategy } from './strategy/ws.strategy';
       imports: [ConfigModule],
       inject: [ConfigService],
       useFactory: (config: ConfigService) => ({
-        secret: config.get('JWT_SECRET'),
+        secret: "camporiALM2022",
         signOptions: { expiresIn: '3d' },
       }),
     }),
@@ -31,4 +31,4 @@ import { WsJwtStrategy } from './strategy/ws.strategy';
   ],
   exports: [AuthService, WsAuthGuard],
 })
-export class AuthModule {}
+export class AuthModule { }

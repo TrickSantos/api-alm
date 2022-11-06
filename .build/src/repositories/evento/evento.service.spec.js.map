@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/repositories/evento/evento.service.spec.ts"],
+  "sourcesContent": ["import { Test, TestingModule } from '@nestjs/testing';\nimport { EventoService } from './evento.service';\n\ndescribe('EventoService', () => {\n  let service: EventoService;\n\n  beforeEach(async () => {\n    const module: TestingModule = await Test.createTestingModule({\n      providers: [EventoService],\n    }).compile();\n\n    service = module.get<EventoService>(EventoService);\n  });\n\n  it('should be defined', () => {\n    expect(service).toBeDefined();\n  });\n});\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA,qBAAoC;AACpC,oBAA8B;AAE9B,SAAS,iBAAiB,MAAM;AAC9B,MAAI;AAEJ,aAAW,YAAY;AACrB,UAAM,UAAwB,MAAM,oBAAK,oBAAoB;AAAA,MAC3D,WAAW,CAAC;AAAA,OACX;AAEH,cAAU,QAAO,IAAmB;AAAA;AAGtC,KAAG,qBAAqB,MAAM;AAC5B,WAAO,SAAS;AAAA;AAAA;",
+  "names": []
+}

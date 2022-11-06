@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/auth/strategy/ws.strategy.d.ts"],
+  "sourcesContent": ["import { Strategy } from 'passport-jwt';\nimport { UsuarioService } from 'repositories/usuario/usuario.service';\ndeclare const WsJwtStrategy_base: new (...args: any[]) => Strategy;\nexport declare class WsJwtStrategy extends WsJwtStrategy_base {\n    private readonly userService;\n    constructor(userService: UsuarioService);\n    validate(payload: any): Promise<Omit<import(\".prisma/client\").usuario & {\n        presencas: import(\".prisma/client\").presenca[];\n        clube: import(\".prisma/client\").clube;\n    }, \"password\">>;\n}\nexport {};\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

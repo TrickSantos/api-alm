@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/repositories/evento/evento.gateway.d.ts"],
+  "sourcesContent": ["import { Server } from 'socket.io';\nimport { EventoService } from './evento.service';\nimport { CreateEventoDto } from './dto/create-evento.dto';\nimport { UpdateEventoDto } from './dto/update-evento.dto';\nexport declare class EventoGateway {\n    private readonly eventoService;\n    constructor(eventoService: EventoService);\n    server: Server;\n    create(createEventoDto: CreateEventoDto): Promise<{\n        status: string;\n        message: string[];\n    }>;\n    findAll(): Promise<(import(\".prisma/client\").evento & {\n        presentes: import(\".prisma/client\").presenca[];\n    })[]>;\n    findOne(id: number): Promise<import(\".prisma/client\").evento & {\n        presentes: import(\".prisma/client\").presenca[];\n    }>;\n    update(updateEventoDto: UpdateEventoDto): Promise<{\n        status: string;\n        message: string[];\n    }>;\n    remove(id: number): Promise<void>;\n    handle(): void;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

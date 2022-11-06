@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/repositories/clube/dto/update-clube.dto.ts"],
+  "sourcesContent": ["import { PartialType } from '@nestjs/mapped-types';\nimport { CreateClubeDto } from './create-clube.dto';\n\nexport class UpdateClubeDto extends PartialType(CreateClubeDto) {\n  id: number;\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,0BAA4B;AAC5B,0BAA+B;AAExB,6BAA6B,qCAAY,oCAAgB;AAAA;",
+  "names": []
+}

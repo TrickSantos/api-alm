@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../src/prisma/prisma.service.spec.ts"],
+  "sourcesContent": ["import { Test, TestingModule } from '@nestjs/testing';\nimport { PrismaService } from './prisma.service';\n\ndescribe('PrismaService', () => {\n  let service: PrismaService;\n\n  beforeEach(async () => {\n    const module: TestingModule = await Test.createTestingModule({\n      providers: [PrismaService],\n    }).compile();\n\n    service = module.get<PrismaService>(PrismaService);\n  });\n\n  it('should be defined', () => {\n    expect(service).toBeDefined();\n  });\n});\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA,qBAAoC;AACpC,oBAA8B;AAE9B,SAAS,iBAAiB,MAAM;AAC9B,MAAI;AAEJ,aAAW,YAAY;AACrB,UAAM,UAAwB,MAAM,oBAAK,oBAAoB;AAAA,MAC3D,WAAW,CAAC;AAAA,OACX;AAEH,cAAU,QAAO,IAAmB;AAAA;AAGtC,KAAG,qBAAqB,MAAM;AAC5B,WAAO,SAAS;AAAA;AAAA;",
+  "names": []
+}

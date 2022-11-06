@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/repositories/presenca/presenca.module.ts"],
+  "sourcesContent": ["import { Module } from '@nestjs/common';\nimport { PresencaService } from './presenca.service';\nimport { PresencaGateway } from './presenca.gateway';\nimport { PrismaModule } from '@prisma/prisma.module';\n\n@Module({\n  imports: [PrismaModule],\n  providers: [PresencaGateway, PresencaService],\n})\nexport class PresencaModule {}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,oBAAuB;AACvB,sBAAgC;AAChC,uBAAgC;AAChC,oBAA6B;AAMtB,2BAAqB;AAAA;AAArB;AAAA,EAJN,0BAAO;AAAA,IACN,SAAS,CAAC;AAAA,IACV,WAAW,CAAC,kCAAiB;AAAA;AAAA,GAExB;",
+  "names": []
+}

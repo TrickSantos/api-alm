@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/repositories/clube/clube.module.ts"],
+  "sourcesContent": ["import { Module } from '@nestjs/common';\nimport { ClubeService } from './clube.service';\nimport { ClubeGateway } from './clube.gateway';\nimport { PrismaModule } from '@prisma/prisma.module';\n\n@Module({\n  imports: [PrismaModule],\n  providers: [ClubeGateway, ClubeService],\n})\nexport class ClubeModule {}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,oBAAuB;AACvB,mBAA6B;AAC7B,oBAA6B;AAC7B,oBAA6B;AAMtB,wBAAkB;AAAA;AAAlB;AAAA,EAJN,0BAAO;AAAA,IACN,SAAS,CAAC;AAAA,IACV,WAAW,CAAC,4BAAc;AAAA;AAAA,GAErB;",
+  "names": []
+}

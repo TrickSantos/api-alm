@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/auth/strategy/local.strategy.ts"],
+  "sourcesContent": ["import { Injectable, UnauthorizedException } from '@nestjs/common';\nimport { Strategy } from 'passport-local';\nimport { PassportStrategy } from '@nestjs/passport';\nimport { AuthService } from 'auth/auth.service';\n\n@Injectable()\nexport class LocalStrategy extends PassportStrategy(Strategy) {\n  constructor(private authService: AuthService) {\n    super();\n  }\n\n  async validate(email: string, password: string) {\n    const user = await this.authService.validate(email, password);\n\n    if (!user) throw new UnauthorizedException();\n    return user;\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,oBAAkD;AAClD,4BAAyB;AACzB,sBAAiC;AAI1B,kCAA4B,sCAAiB,gCAAU;AAAA,EAC5D,YAAoB,aAA0B;AAC5C;AADkB;AAAA;AAAA,QAId,SAAS,OAAe,UAAkB;AAC9C,UAAM,OAAO,MAAM,KAAK,YAAY,SAAS,OAAO;AAEpD,QAAI,CAAC;AAAM,YAAM,IAAI;AACrB,WAAO;AAAA;AAAA;AATJ;AAAA,EADN;AAAA,GACM;",
+  "names": []
+}

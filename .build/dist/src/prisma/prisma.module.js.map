@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/prisma/prisma.module.ts"],
+  "sourcesContent": [null],
+  "mappings": ";;;;;;;;;;;;;AAAA,MAAA,WAAA,QAAA;AACA,MAAA,mBAAA,QAAA;AAMA,IAAa,eAAb,oBAAyB;;AAAZ,eAAY,WAAA;EAJxB,IAAA,SAAA,QAAO;IACN,WAAW,CAAC,iBAAA;IACZ,SAAS,CAAC,iBAAA;;GAEC;AAAA,QAAA,eAAA;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/repositories/presenca/presenca.gateway.spec.ts"],
+  "sourcesContent": ["import { Test, TestingModule } from '@nestjs/testing';\nimport { PresencaGateway } from './presenca.gateway';\nimport { PresencaService } from './presenca.service';\n\ndescribe('PresencaGateway', () => {\n  let gateway: PresencaGateway;\n\n  beforeEach(async () => {\n    const module: TestingModule = await Test.createTestingModule({\n      providers: [PresencaGateway, PresencaService],\n    }).compile();\n\n    gateway = module.get<PresencaGateway>(PresencaGateway);\n  });\n\n  it('should be defined', () => {\n    expect(gateway).toBeDefined();\n  });\n});\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA,qBAAoC;AACpC,sBAAgC;AAChC,uBAAgC;AAEhC,SAAS,mBAAmB,MAAM;AAChC,MAAI;AAEJ,aAAW,YAAY;AACrB,UAAM,UAAwB,MAAM,oBAAK,oBAAoB;AAAA,MAC3D,WAAW,CAAC,iCAAiB;AAAA,OAC5B;AAEH,cAAU,QAAO,IAAqB;AAAA;AAGxC,KAAG,qBAAqB,MAAM;AAC5B,WAAO,SAAS;AAAA;AAAA;",
+  "names": []
+}

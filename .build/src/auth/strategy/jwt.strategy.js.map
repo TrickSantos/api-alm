@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/auth/strategy/jwt.strategy.ts"],
+  "sourcesContent": ["import { ExtractJwt, Strategy } from 'passport-jwt';\nimport { PassportStrategy } from '@nestjs/passport';\nimport { Injectable } from '@nestjs/common';\nimport { ConfigService } from '@nestjs/config';\nimport configuration from 'config/configuration';\n\n@Injectable()\nexport class JwtStrategy extends PassportStrategy(Strategy, 'jwt') {\n  constructor(private configService: ConfigService) {\n    super({\n      jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),\n      secretOrKey: configuration().jwtConstants.secret,\n    });\n  }\n\n  async validate(payload: any) {\n    return { userId: payload.sub, email: payload.email };\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,0BAAqC;AACrC,sBAAiC;AACjC,oBAA2B;AAE3B,2BAA0B;AAGnB,gCAA0B,sCAAiB,8BAAU,OAAO;AAAA,EACjE,YAAoB,eAA8B;AAChD,UAAM;AAAA,MACJ,gBAAgB,+BAAW;AAAA,MAC3B,aAAa,oCAAgB,aAAa;AAAA;AAH1B;AAAA;AAAA,QAOd,SAAS,SAAc;AAC3B,WAAO,EAAE,QAAQ,QAAQ,KAAK,OAAO,QAAQ;AAAA;AAAA;AAT1C;AAAA,EADN;AAAA,GACM;",
+  "names": []
+}

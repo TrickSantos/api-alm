@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/auth/guards/jwt.guard.d.ts"],
+  "sourcesContent": ["declare const JwtAuthGuard_base: import(\"@nestjs/passport\").Type<import(\"@nestjs/passport\").IAuthGuard>;\nexport declare class JwtAuthGuard extends JwtAuthGuard_base {\n}\nexport {};\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

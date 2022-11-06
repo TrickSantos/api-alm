@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../src/prisma/prisma.module.ts"],
+  "sourcesContent": ["import { Module } from '@nestjs/common';\nimport { PrismaService } from '@prisma/prisma.service';\n\n@Module({\n  providers: [PrismaService],\n  exports: [PrismaService],\n})\nexport class PrismaModule {}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,oBAAuB;AACvB,oBAA8B;AAMvB,yBAAmB;AAAA;AAAnB;AAAA,EAJN,0BAAO;AAAA,IACN,WAAW,CAAC;AAAA,IACZ,SAAS,CAAC;AAAA;AAAA,GAEL;",
+  "names": []
+}

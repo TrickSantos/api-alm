@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../dist/src/repositories/usuario/dto/index-usuario.dto.d.ts"],
+  "sourcesContent": ["export declare class IndexUsuarioDto {\n    clubeId?: number;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

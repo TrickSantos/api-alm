@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../dist/prisma/seed/seed.d.ts"],
+  "sourcesContent": ["export {};\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

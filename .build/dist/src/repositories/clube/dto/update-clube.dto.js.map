@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../src/repositories/clube/dto/update-clube.dto.ts"],
+  "sourcesContent": [null],
+  "mappings": ";;;AAAA,MAAA,iBAAA,QAAA;AACA,MAAA,qBAAA,QAAA;AAEA,6BAAoC,IAAA,eAAA,aAAY,mBAAA,gBAAe;;AAA/D,QAAA,iBAAA;",
+  "names": []
+}

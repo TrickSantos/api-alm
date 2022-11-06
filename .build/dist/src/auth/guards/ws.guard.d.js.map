@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/auth/guards/ws.guard.d.ts"],
+  "sourcesContent": ["import { CanActivate, ExecutionContext } from '@nestjs/common';\nimport * as jwt from 'jsonwebtoken';\nexport declare class WsAuthGuard implements CanActivate {\n    canActivate(context: ExecutionContext): Promise<boolean>;\n    verifyToken(token: string): string | false | jwt.JwtPayload;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

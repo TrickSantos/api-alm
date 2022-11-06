@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/repositories/clube/dto/create-clube.dto.ts"],
+  "sourcesContent": ["import { IsNotEmpty, IsOptional, IsString } from 'class-validator';\n\nexport class CreateClubeDto {\n  @IsNotEmpty({ message: 'O nome do evento precisa ser informado!' })\n  nome: string;\n\n  @IsOptional()\n  logo?: string;\n\n  @IsNotEmpty({ message: 'O pa\u00EDs precisa ser informado!' })\n  pais: string;\n\n  @IsString()\n  regiao: string;\n\n  @IsNotEmpty({ message: 'O c\u00F3digo precisa ser informado!' })\n  codigo: string;\n\n  @IsOptional()\n  ativo?: boolean;\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,6BAAiD;AAE1C,qBAAqB;AAAA;AAE1B;AAAA,EADC,uCAAW,EAAE,SAAS;AAAA,GACvB,AAFK,eAEL;AAGA;AAAA,EADC;AAAA,GACD,AALK,eAKL;AAGA;AAAA,EADC,uCAAW,EAAE,SAAS;AAAA,GACvB,AARK,eAQL;AAGA;AAAA,EADC;AAAA,GACD,AAXK,eAWL;AAGA;AAAA,EADC,uCAAW,EAAE,SAAS;AAAA,GACvB,AAdK,eAcL;AAGA;AAAA,EADC;AAAA,GACD,AAjBK,eAiBL;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/repositories/usuario/dto/create-usuario.dto.ts"],
+  "sourcesContent": ["import {\n  IsBoolean,\n  IsEmail,\n  IsEnum,\n  IsInt,\n  IsOptional,\n  IsString,\n} from 'class-validator';\n\nenum Role {\n  'desbravador',\n  'administrador',\n  'diretoria',\n  'apoio',\n  'staff',\n}\n\nexport class CreateUsuarioDto {\n  @IsString()\n  nome: string;\n\n  @IsEmail()\n  @IsOptional()\n  email?: string;\n\n  @IsString()\n  @IsOptional()\n  password?: string;\n\n  @IsString()\n  @IsOptional()\n  codigo?: string;\n\n  @IsEnum(Role)\n  funcao: string;\n\n  @IsInt()\n  clubeId: number;\n\n  @IsBoolean()\n  @IsOptional()\n  ativo?: boolean;\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,6BAOO;AAEP,IAAK;AAAL,UAAK,OAAL;AACE;AACA;AACA;AACA;AACA;AAAA,GALG;AAQE,uBAAuB;AAAA;AAE5B;AAAA,EADC;AAAA,GACD,AAFK,iBAEL;AAIA;AAAA,EAFC;AAAA,EACA;AAAA,GACD,AANK,iBAML;AAIA;AAAA,EAFC;AAAA,EACA;AAAA,GACD,AAVK,iBAUL;AAIA;AAAA,EAFC;AAAA,EACA;AAAA,GACD,AAdK,iBAcL;AAGA;AAAA,EADC,mCAAO;AAAA,GACR,AAjBK,iBAiBL;AAGA;AAAA,EADC;AAAA,GACD,AApBK,iBAoBL;AAIA;AAAA,EAFC;AAAA,EACA;AAAA,GACD,AAxBK,iBAwBL;",
+  "names": []
+}

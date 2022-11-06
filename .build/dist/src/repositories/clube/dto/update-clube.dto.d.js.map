@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../dist/src/repositories/clube/dto/update-clube.dto.d.ts"],
+  "sourcesContent": ["import { CreateClubeDto } from './create-clube.dto';\ndeclare const UpdateClubeDto_base: import(\"@nestjs/mapped-types\").MappedType<Partial<CreateClubeDto>>;\nexport declare class UpdateClubeDto extends UpdateClubeDto_base {\n    id: number;\n}\nexport {};\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

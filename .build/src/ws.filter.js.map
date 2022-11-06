@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/ws.filter.ts"],
+  "sourcesContent": ["import { ArgumentsHost, BadRequestException, Catch } from '@nestjs/common';\nimport { BaseWsExceptionFilter, WsException } from '@nestjs/websockets';\n\n@Catch(WsException, BadRequestException)\nexport class WsExceptionFilter extends BaseWsExceptionFilter {\n  catch(exception: WsException | BadRequestException, host: ArgumentsHost) {\n    if (exception instanceof BadRequestException) {\n      const callback = host.getArgByIndex(2);\n      const response = exception.getResponse() as any;\n      if (callback) {\n        callback({ status: 'error', message: response.message });\n      }\n    } else {\n      super.catch(exception, host);\n    }\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA,oBAA0D;AAC1D,wBAAmD;AAG5C,sCAAgC,wCAAsB;AAAA,EAC3D,MAAM,WAA8C,MAAqB;AACvE,QAAI,qBAAqB,mCAAqB;AAC5C,YAAM,WAAW,KAAK,cAAc;AACpC,YAAM,WAAW,UAAU;AAC3B,UAAI,UAAU;AACZ,iBAAS,EAAE,QAAQ,SAAS,SAAS,SAAS;AAAA;AAAA,WAE3C;AACL,YAAM,MAAM,WAAW;AAAA;AAAA;AAAA;AATtB;AAAA,EADN,yBAAM,+BAAa;AAAA,GACb;",
+  "names": []
+}

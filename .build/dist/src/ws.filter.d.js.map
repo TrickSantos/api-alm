@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../dist/src/ws.filter.d.ts"],
+  "sourcesContent": ["import { ArgumentsHost, BadRequestException } from '@nestjs/common';\nimport { BaseWsExceptionFilter, WsException } from '@nestjs/websockets';\nexport declare class WsExceptionFilter extends BaseWsExceptionFilter {\n    catch(exception: WsException | BadRequestException, host: ArgumentsHost): void;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/repositories/evento/evento.module.d.ts"],
+  "sourcesContent": ["import { MiddlewareBuilder } from '@nestjs/core';\nimport { Queue } from 'bull';\nexport declare class EventoModule {\n    private queue;\n    constructor(queue: Queue);\n    configure(consumer: MiddlewareBuilder): void;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

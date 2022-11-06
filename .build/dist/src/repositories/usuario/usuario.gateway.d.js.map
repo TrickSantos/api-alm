@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../dist/src/repositories/usuario/usuario.gateway.d.ts"],
+  "sourcesContent": ["import { Server } from 'socket.io';\nimport { UsuarioService } from './usuario.service';\nimport { CreateUsuarioDto } from './dto/create-usuario.dto';\nimport { UpdateUsuarioDto } from './dto/update-usuario.dto';\nimport { IndexUsuarioDto } from './dto/index-usuario.dto';\nexport declare class UsuarioGateway {\n    private readonly usuarioService;\n    constructor(usuarioService: UsuarioService);\n    server: Server;\n    create(createUsuarioDto: CreateUsuarioDto): Promise<{\n        status: string;\n        message: string[];\n    }>;\n    findAll(data: IndexUsuarioDto): Promise<{\n        nome: string;\n        codigo: string;\n        id: number;\n        email: string;\n        funcao: string;\n        presencas: import(\".prisma/client\").presenca[];\n        clube: import(\".prisma/client\").clube;\n        clubeId: number;\n    }[]>;\n    findOne(codigo: string): Promise<(import(\".prisma/client\").usuario & {\n        presencas: import(\".prisma/client\").presenca[];\n        clube: import(\".prisma/client\").clube;\n    }) | {\n        status: string;\n        message: string[];\n    }>;\n    update(updateUsuarioDto: UpdateUsuarioDto): Promise<{\n        status: string;\n        message: string[];\n    }>;\n    remove(id: number): Promise<void>;\n}\n"],
+  "mappings": ";;AAAA;",
+  "names": []
+}

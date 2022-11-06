@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../dist/src/repositories/presenca/dto/presenca.dto.js"],
+  "sourcesContent": ["\"use strict\";\nObject.defineProperty(exports, \"__esModule\", { value: true });\n//# sourceMappingURL=presenca.dto.js.map"],
+  "mappings": ";AACA,OAAO,eAAe,SAAS,cAAc,EAAE,OAAO;",
+  "names": []
+}

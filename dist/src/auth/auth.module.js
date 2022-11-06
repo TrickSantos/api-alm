@@ -28,7 +28,7 @@ AuthModule = __decorate([
                 imports: [config_1.ConfigModule],
                 inject: [config_1.ConfigService],
                 useFactory: (config) => ({
-                    secret: config.get('JWT_SECRET'),
+                    secret: "camporiALM2022",
                     signOptions: { expiresIn: '3d' },
                 }),
             }),
